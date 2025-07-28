@@ -1,0 +1,465 @@
+{
+  "legislative_session": "2025A",
+  "identifier": "SB25-026",
+  "title": "Adjusting Certain Tax Expenditures",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The act adjusts several tax expenditures and adds purpose statements to other tax expenditures as follows:\n\n\nSection 1 of the act disallows the income tax credit for unsalable alcohol after December 31, 2025, and repeals the credit on December 31, 2030;\nSection 2 extends the 10% of purchase price income tax credit for income tax years commencing before January 1, 2025, for a purchaser who installs an energy storage system in a residential dwelling to include subsequent income tax years commencing before January 1, 2027, and extends the repeal of the credit from January 1, 2028, to January 1, 2030.\nBy amending a definition of \"agricultural compounds\" that is incorporated into the definition of \"wholesale sale\" used for purposes of the sales and use tax statutes, section 3 exempts from sales and use tax soil conditioners, plant amendments, plant growth regulators, mulches, compost, soil used for aboveground production of agricultural commodities, manure, fish for non-stocking purposes, fish embryos, and fish eggs beginning January 1, 2026;\nSection 4 states that the purpose of the insolvency assessments paid insurance premium tax credit is to offset the cost for an insurer paying required assessments into the life and health insurance protection association and that the credit's effectiveness is measured by how many eligible insurers claim the credit and the amount claimed relative to payments into the life and health insurance protection association;\nSections 5 and 6 state that the purpose of the state refund income tax subtraction is to avoid re-taxing a taxpayer's state income tax refund when a state refund is required to be included as income on the taxpayer's federal return pursuant to the internal revenue code and that the effectiveness of the deduction is measured by the number of taxpayers claiming the deduction and the total amount of state refunds claimed as subtractions from Colorado taxable income;\nSection 7 states that the purpose of the dyed special fuels and off-road fuel tax excise tax exemption is to entirely exclude dyed diesel or kerosene from the special fuels excise tax where the dyed fuel is used for specified off-road purposes or by governmental entities and that the effectiveness of the exemption is measured by the number of taxpayers claiming the exemption and the amount of tax that would have been paid without the exemption;\nSection 8 states that the purpose of the off-road fuel use refund is to compensate taxpayers who buy and pay the tax on otherwise taxable fuels for the purpose of using the fuels for specified non-taxable purposes under federal law and that the effectiveness of the refund is measured by the number of taxpayers claiming a refund and the amount of tax that was already collected and is refunded;\nSection 9 states that the purpose of the wholesale sale exemption from sales tax is to ensure that sales tax is levied and collected only on a final end sale to a retail consumer and not on wholesale sales and that the effectiveness of the wholesale exemption from sales tax is measured by the number of taxpayers claiming the wholesale exemption from tax and the amount of tax liability not paid;\nSection 10 extends the availability of the biotechnology sales and use tax refund by 1 year to include calendar years beginning before January 1, 2027; and\nSection 11 clarifies that the temporary property tax valuation for assessment reduction for qualified-senior primary residence real property is available whether or not the state has sufficient excess revenues to pay for it.\n\n\nFor the 2025-26 state fiscal year, $13,137 is appropriated from the general fund to the department of revenue for implementation of the act.\n(Note: This summary applies to this bill as enacted.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2025-06-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2025-05-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2025-05-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2025-05-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Considered House Amendments - Result was to Concur - Repass",
+      "date": "2025-05-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2025-05-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee",
+      "date": "2025-05-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Committee on Appropriations Refer Amended to House Committee of the Whole",
+      "date": "2025-05-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "House Committee on Finance Refer Unamended to Appropriations",
+      "date": "2025-04-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In House - Assigned to Finance",
+      "date": "2025-04-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2025-04-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Second Reading Special Order - Passed with Amendments - Committee",
+      "date": "2025-04-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee on Appropriations Refer Unamended to Senate Committee of the Whole",
+      "date": "2025-04-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Senate Committee on Finance Refer Amended to Appropriations",
+      "date": "2025-04-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Finance",
+      "date": "2025-01-08T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kyle Mullica",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kyle Mullica\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Marshall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bob Marshall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Junie Joseph",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Junie Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Frizell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"L. Frizell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Weissman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"M. Weissman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Amabile",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Amabile\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Bacon\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Signed Act (06/03/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_026_signed.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Act (05/15/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_026_enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised (05/02/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_026_rer.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revised (05/01/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_026_rev.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed (04/28/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_026_ren.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed (04/25/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_026_en2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced (01/08/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_026_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA2 (05/01/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_026_h_app_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA1 (04/23/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_026_s_fin_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_sb026_h_app_003.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note FN4 (07/14/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb026_f1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN3 (05/01/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb026_r2.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN2 (04/24/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb026_r1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN1 (01/13/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb026_00.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note SA1 (04/24/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb0026_sen.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/sb25-026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "scraped_at": "2025-07-28T17:29:21+00:00",
+  "_id": "6573f604-6bd8-11f0-ac33-9edfb7380382"
+}

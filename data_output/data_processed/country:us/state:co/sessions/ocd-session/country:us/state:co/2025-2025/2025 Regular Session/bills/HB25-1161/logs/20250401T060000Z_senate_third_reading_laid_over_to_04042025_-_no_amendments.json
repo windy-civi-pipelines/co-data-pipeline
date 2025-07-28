@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Third Reading Laid Over to 04/04/2025 - No Amendments",
+    "date": "2025-04-01T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB25-1161"
+}

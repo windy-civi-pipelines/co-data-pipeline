@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Senate Committee on Local Government & Housing Refer Unamended - Consent Calendar to Senate Committee of the Whole",
+    "date": "2025-01-30T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Local Government & Housing",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB25-023"
+}

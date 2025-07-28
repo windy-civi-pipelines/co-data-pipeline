@@ -1,0 +1,508 @@
+{
+  "legislative_session": "2025A",
+  "identifier": "SB25-072",
+  "title": "Regulation of Kratom",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The act prohibits a person from:\n\n\nKnowingly preparing, distributing, advertising, selling, or offering to sell a kratom product: To a person who is under 21 years of age; that is adulterated; that contains more than a specified level of 7-hydroxymitragynine; that is a confection, mimics candy, or is presented in a form that appeals to children; or that is combustible or intended for vaporization;\nPreparing, distributing, advertising, selling, or offering to sell a kratom product that does not clearly and conspicuously set forth specified information on the kratom product's label;\nDisplaying or storing kratom products in a retail location in a manner that will allow the products to be accessed by individuals under 21 years of age; or\nManufacturing, packaging, labeling, or distributing a kratom product that contains synthesized or semi-synthesized kratom alkaloids or has a level of 7-hydroxymitragynine in the alkaloid fraction that is greater than 2% of the alkaloid composition of the product.\n\n\nA person that conducts these prohibited activities engages in a deceptive trade practice and is subject to penalties and other enforcement specified under the \"Colorado Consumer Protection Act\".\n(Note: This summary applies to this bill as enacted.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2025-05-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2025-05-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2025-05-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2025-05-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Considered House Amendments - Result was to Concur - Repass",
+      "date": "2025-05-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2025-05-07T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee, Floor",
+      "date": "2025-05-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Committee on Appropriations Refer Unamended to House Committee of the Whole",
+      "date": "2025-05-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "House Committee on Finance Refer Amended to Appropriations",
+      "date": "2025-04-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In House - Assigned to Finance",
+      "date": "2025-04-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2025-04-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Second Reading Special Order - Passed with Amendments - Committee",
+      "date": "2025-04-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee on Appropriations Refer Amended to Senate Committee of the Whole",
+      "date": "2025-04-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Senate Committee on Finance Refer Amended to Appropriations",
+      "date": "2025-02-04T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Finance",
+      "date": "2025-01-22T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kyle Mullica",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Kyle Mullica\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Byron Pelton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Byron Pelton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mandy Lindsay",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mandy Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Soper",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Matt Soper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Amabile",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Amabile\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bridges",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Bridges\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Michaelson Jenet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"D. Michaelson Jenet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Roberts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"D. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Bird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"S. Bird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Boesenecker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Hamrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"E. Hamrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Phillips",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Phillips\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Signed Act (05/29/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_072_signed.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Act (05/15/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_072_enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised (05/07/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_072_rer.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revised (05/06/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_072_rev.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed (04/28/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_072_ren.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed (04/25/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_072_eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced (01/22/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_072_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA3 (04/30/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_072_h_fin_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA2 (04/25/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_072_s_fin_app_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA1 (02/05/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_072_s_fin_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_sb072_h_app_003.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note FN4 (05/01/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb072_r4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN3 (04/29/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb072_r3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN2 (03/10/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb072_r1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN1 (01/31/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb072_00.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note SA1 (05/03/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb0072_sen.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/sb25-072",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "scraped_at": "2025-07-28T17:48:02+00:00",
+  "_id": "0131a2e2-6bdb-11f0-ac33-9edfb7380382"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "House Committee on Transportation, Housing & Local Government Postpone Indefinitely",
+    "date": "2025-02-19T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB25-1092"
+}

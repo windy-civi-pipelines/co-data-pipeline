@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Senate Committee on Judiciary Lay Over Unamended - Amendment(s) Failed",
+    "date": "2025-03-17T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB25-189"
+}

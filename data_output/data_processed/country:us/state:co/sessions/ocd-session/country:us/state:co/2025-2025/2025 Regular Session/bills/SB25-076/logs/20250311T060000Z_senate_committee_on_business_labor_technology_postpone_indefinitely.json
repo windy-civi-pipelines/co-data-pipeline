@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Senate Committee on Business, Labor, & Technology Postpone Indefinitely",
+    "date": "2025-03-11T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Business, Labor, & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB25-076"
+}

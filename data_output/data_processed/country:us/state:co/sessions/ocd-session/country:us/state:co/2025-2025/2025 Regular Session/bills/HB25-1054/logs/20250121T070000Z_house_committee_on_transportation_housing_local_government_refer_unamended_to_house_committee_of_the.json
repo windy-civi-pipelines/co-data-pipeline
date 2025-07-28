@@ -1,0 +1,34 @@
+{
+  "action": {
+    "description": "House Committee on Transportation, Housing & Local Government Refer Unamended to House Committee of the Whole",
+    "date": "2025-01-21T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "House Committee of the Whole",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Transportation, Housing & Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB25-1054"
+}

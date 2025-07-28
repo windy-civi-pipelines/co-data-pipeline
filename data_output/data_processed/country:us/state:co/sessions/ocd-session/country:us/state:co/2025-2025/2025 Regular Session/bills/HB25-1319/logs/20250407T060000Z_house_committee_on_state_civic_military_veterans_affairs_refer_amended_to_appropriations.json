@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Committee on State, Civic, Military, & Veterans Affairs Refer Amended to Appropriations",
+    "date": "2025-04-07T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB25-1319"
+}

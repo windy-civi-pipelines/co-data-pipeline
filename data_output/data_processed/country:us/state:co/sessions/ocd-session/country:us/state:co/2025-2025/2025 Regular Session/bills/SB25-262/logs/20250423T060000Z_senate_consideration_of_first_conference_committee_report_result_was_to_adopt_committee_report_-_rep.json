@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Consideration of First Conference Committee Report result was to Adopt Committee Report - Repass",
+    "date": "2025-04-23T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB25-262"
+}

@@ -1,0 +1,28 @@
+{
+  "action": {
+    "description": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+    "date": "2025-02-18T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation, Housing & Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Transportation",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Local Government",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB25-1272"
+}

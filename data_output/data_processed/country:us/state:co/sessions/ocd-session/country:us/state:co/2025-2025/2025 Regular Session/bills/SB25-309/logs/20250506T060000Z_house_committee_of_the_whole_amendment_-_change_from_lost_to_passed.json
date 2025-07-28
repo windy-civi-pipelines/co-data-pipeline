@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House Committee of the Whole Amendment - Change from Lost to Passed",
+    "date": "2025-05-06T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB25-309"
+}

@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Senate Second Reading Referred to Appropriations - No Amendments",
+    "date": "2025-04-22T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB25-1226"
+}

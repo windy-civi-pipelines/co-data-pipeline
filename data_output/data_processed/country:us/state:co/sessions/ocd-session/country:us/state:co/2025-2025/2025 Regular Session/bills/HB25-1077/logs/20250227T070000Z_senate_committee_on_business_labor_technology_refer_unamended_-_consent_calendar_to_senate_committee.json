@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Committee on Business, Labor, & Technology Refer Unamended - Consent Calendar to Senate Committee of the Whole",
+    "date": "2025-02-27T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Business, Labor, & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB25-1077"
+}

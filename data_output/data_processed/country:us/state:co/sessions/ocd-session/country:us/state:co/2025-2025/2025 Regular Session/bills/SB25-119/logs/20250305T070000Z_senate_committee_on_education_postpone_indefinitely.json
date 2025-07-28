@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Senate Committee on Education Postpone Indefinitely",
+    "date": "2025-03-05T07:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Education",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB25-119"
+}

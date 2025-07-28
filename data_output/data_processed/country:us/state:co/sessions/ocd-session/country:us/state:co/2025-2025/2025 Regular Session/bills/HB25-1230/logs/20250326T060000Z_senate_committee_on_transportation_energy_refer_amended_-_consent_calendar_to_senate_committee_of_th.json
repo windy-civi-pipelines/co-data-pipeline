@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Committee on Transportation & Energy Refer Amended - Consent Calendar to Senate Committee of the Whole",
+    "date": "2025-03-26T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Transportation & Energy",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB25-1230"
+}

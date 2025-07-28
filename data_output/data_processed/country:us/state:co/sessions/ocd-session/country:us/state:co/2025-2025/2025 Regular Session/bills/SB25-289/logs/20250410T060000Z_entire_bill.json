@@ -1,0 +1,572 @@
+{
+  "legislative_session": "2025A",
+  "identifier": "SB25-289",
+  "title": "Creation of a Drug Donation Program",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The act amends statutory provisions relating to unused medication in facilities, including correctional facilities, nursing care facilities, assisted living residences, hospice, and other facilities, to change the defined term \"medication\" to \"medicine\" and specifies the types of unused medicines that may be redispensed to patients or donated to another entity that has legal authority to possess the medicine.\n\nThe act creates the Colorado drug donation program (donation program). The donation program allows a person legally authorized to possess medicine, including an individual donor who is a member of the public and other donors, including a pharmacy, a long-term care facility, a surgical center, a prescriber or other health-care professional or facility, a wholesaler, a distributor, a third-party logistics provider, and others (donor), to donate certain unused medicine (donated medicine), as specified in the act. The act prohibits the donation of prescription drugs that are subject to risk evaluation and mitigation strategies (REMS), unless all of the required guidelines are followed, or REMS drugs that were initially dispensed by a pharmacy pursuant to a restricted distribution channel.\n\nA donor or an individual donor may donate unused medicine to a donation recipient that is authorized to possess medicine and that has a credential in good standing in the state in which the donation recipient is located. A donation recipient includes a hospital, pharmacy, clinic, health-care provider, or prescriber office, and may include a wholesaler, distributor, third-party logistics provider, reverse distributor, or repackager if the entity is a nonprofit entity or is directly or indirectly owned, controlled, or could be controlled by a nonprofit entity.\n\nThe act requires the donation recipient to keep a record of the donated medicine, separate the donated medicine from regular stock, and have donated medicine inspected by a licensed pharmacist. The donation recipient may transfer the donated medicine to another donation recipient or entity, repackage the donated medicine, or, if the donation recipient is a prescription drug outlet or other outlet, replace medicine of the same drug name and strength. The act requires donated medicine to first be dispensed to an eligible patient who is an individual who is indigent, uninsured, or underinsured. Donated medicine must not be resold; except that a donation recipient may charge a handling or dispensing fee for the donated medicine.\n\nWhen acting in good faith, the participants in the donation program are not subject to civil or criminal liability or professional disciplinary action. The act also shields drug manufacturers from liability for donated medicine that is subject to REMS under federal law.\n(Note: This summary applies to this bill as enacted.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2025-05-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2025-05-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2025-05-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2025-05-15T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Considered House Amendments - Result was to Concur - Repass",
+      "date": "2025-05-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2025-05-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee",
+      "date": "2025-05-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Committee on Health & Human Services Refer Amended to House Committee of the Whole",
+      "date": "2025-04-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2025-04-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Senate Third Reading Passed with Amendments - Floor",
+      "date": "2025-04-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Second Reading Passed with Amendments - Committee, Floor",
+      "date": "2025-04-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee on Health & Human Services Refer Amended - Consent Calendar to Senate Committee of the Whole",
+      "date": "2025-04-23T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Health & Human Services",
+      "date": "2025-04-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Lisa Cutter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lisa Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kyle Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Sirota",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Emily Sirota\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Catlin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"M. Catlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Frizell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"L. Frizell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Hinrichsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"N. Hinrichsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "I. Jodeh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"I. Jodeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Michaelson Jenet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"D. Michaelson Jenet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"T. Sullivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"K. Wallace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "F. Winter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"F. Winter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Bird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"S. Bird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Boesenecker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Clifford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Clifford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Feret",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"L. Feret\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Garc\u00eda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"L. Garc\\u00eda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Hamrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"E. Hamrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Joseph",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Lieder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"S. Lieder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lindsay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Mabrey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Mabrey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. McCluskie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. McCluskie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Paschal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"A. Paschal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Rutinel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. Rutinel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Rydin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"G. Rydin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"L. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"K. Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Story",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"T. Story\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Titone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B. Titone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Willford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Willford\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Signed Act (05/28/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_289_signed.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Act (05/15/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_289_enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised (05/02/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_289_rer.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revised (05/01/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_289_rev.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed (04/29/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_289_ren.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed (04/28/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_289_eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced (04/10/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_289_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA2 (05/01/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_289_h_hhs_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA1 (04/24/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_289_s_hhs_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_sb289_h_hhs_001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note FN2 (04/30/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb289_r1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN1 (04/15/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb289_00.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/sb25-289",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "scraped_at": "2025-07-28T17:33:44+00:00",
+  "_id": "02340d3a-6bd9-11f0-ac33-9edfb7380382"
+}

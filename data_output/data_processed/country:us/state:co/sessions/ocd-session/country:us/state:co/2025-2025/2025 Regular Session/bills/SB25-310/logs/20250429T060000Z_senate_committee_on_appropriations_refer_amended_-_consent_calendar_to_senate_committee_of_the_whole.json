@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Committee on Appropriations Refer Amended - Consent Calendar to Senate Committee of the Whole",
+    "date": "2025-04-29T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB25-310"
+}

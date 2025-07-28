@@ -1,0 +1,486 @@
+{
+  "legislative_session": "2025A",
+  "identifier": "HB25-1182",
+  "title": "Risk Model Use in Property Insurance Policies",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The act requires a property insurer that uses a wildfire risk model, a catastrophe model, or a scoring method to assign risk to:\n\n\nFor the purposes of underwriting homeowners and other property insurance policies, adhere to specific requirements to share information with the commissioner of insurance (commissioner) and the public, include specific activities in the models, and provide notices to policyholders;\nSubmit available data concerning the models and scoring method as required by rule of the commissioner to the division of insurance as part of the insurer's rate filings; and\nEnsure that specific factors are either incorporated in the wildfire risk model, catastrophe model, or combination of models or are otherwise demonstrably included in the insurer's underwriting and pricing.\n\n\nIf an insurer does not incorporate property-specific and community-level mitigation actions into its models, the act requires the insurer to provide discounts to policyholders who demonstrate actions taken on the property to reduce the risk of loss.\n\nThe act requires an insurer to post on its website information regarding premium savings that are available to policyholders who undertake property-specific mitigation actions or provide evidence of community-level mitigation actions and the process for appealing a wildfire risk score.\n\nThe act requires an insurer that provides a mitigation discount or that uses a wildfire risk model or risk score to underwrite, nonrenew, price, create a rate differential, or surcharge the premium based upon the policyholder's or applicant's wildfire risk to provide an annual written notice to each policyholder or applicant for property insurance of the applicable mitigation discounts, the wildfire risk score, and any other wildfire risk classification used by the insurer to underwrite the policyholder's or applicant's wildfire risk. The insurer is required to provide the wildfire risk score or classification to the policyholder or applicant. The act authorizes the policyholder and applicant to appeal the score or classification directly to the insurer.\n\nThe act authorizes the commissioner to adopt rules.\n(Note: This summary applies to this bill as enacted.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2025-05-28T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2025-05-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2025-05-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2025-05-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Considered Senate Amendments - Result was to Concur - Repass",
+      "date": "2025-04-11T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Considered Senate Amendments - Result was to Laid Over Daily",
+      "date": "2025-04-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2025-04-04T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Second Reading Special Order - Passed with Amendments - Committee",
+      "date": "2025-04-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee on Business, Labor, & Technology Refer Amended - Consent Calendar to Senate Committee of the Whole",
+      "date": "2025-04-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Business, Labor, & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Business, Labor, & Technology",
+      "date": "2025-03-25T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business, Labor, & Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2025-03-20T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee, Floor",
+      "date": "2025-03-19T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Second Reading Laid Over Daily - No Amendments",
+      "date": "2025-03-18T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Committee on Business Affairs & Labor Refer Amended to House Committee of the Whole",
+      "date": "2025-03-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In House - Assigned to Business Affairs & Labor",
+      "date": "2025-02-10T07:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business Affairs & Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brianna Titone",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brianna Titone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Brown",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kyle Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Cutter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Lisa Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cleave Simpson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cleave Simpson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Bird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"S. Bird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Boesenecker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Clifford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Clifford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Joseph",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lindsay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Mabrey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Mabrey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Marshall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B. Marshall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. McCluskie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. McCluskie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Ricks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"N. Ricks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"K. Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Story",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"T. Story\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"K. Wallace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "F. Winter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"F. Winter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Signed Act (05/28/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_1182_signed.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Act (05/01/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_1182_enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised (04/04/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_1182_rer.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revised (04/03/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_1182_rev.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed (03/20/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_1182_ren.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed (03/19/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_1182_eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced (02/10/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_1182_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA2 (04/02/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_1182_s_blt_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA1 (03/17/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_1182_h_bus_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_hb1182_s_blt_001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note FN3 (06/25/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_hb1182_f1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN2 (03/28/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_hb1182_r1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN1 (02/24/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_hb1182_00.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/hb25-1182",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "scraped_at": "2025-07-28T17:50:12+00:00",
+  "_id": "4ebfe4ba-6bdb-11f0-ac33-9edfb7380382"
+}

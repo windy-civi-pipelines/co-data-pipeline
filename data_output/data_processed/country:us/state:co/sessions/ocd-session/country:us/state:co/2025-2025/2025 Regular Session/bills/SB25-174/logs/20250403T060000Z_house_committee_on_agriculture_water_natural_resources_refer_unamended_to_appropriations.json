@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "House Committee on Agriculture, Water & Natural Resources Refer Unamended to Appropriations",
+    "date": "2025-04-03T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Agriculture, Water & Natural Resources",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB25-174"
+}

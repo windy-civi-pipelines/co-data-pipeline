@@ -1,0 +1,495 @@
+{
+  "legislative_session": "2025A",
+  "identifier": "SB25-310",
+  "title": "Proposition 130 Implementation",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "At the November 2024 statewide election, voters approved proposition 130, which requires the state to provide $350 million in additional funding to local law enforcement agencies to improve recruitment, training, and retention of local law enforcement officers and to provide a $1 million death benefit to the family of a first responder who is killed in the line of duty. The act modifies and implements proposition 130.\n\nThe act creates the peace officer training and support fund (fund), and establishes a formula by which the department of public safety (department) disburses $350 million in additional funding to local law enforcement agencies from the fund for permissible purposes. Permissible purposes include initial and continuing education and training for peace officers and the compensation of peace officers.\n\nBeginning July 1, 2026, the formula requires the department to disburse an amount to each law enforcement agency equal to the total of $15,000 and an amount multiplied by the number of P.O.S.T-certified officers, noncertified deputy sheriffs, and detention officers budgeted by a local government for the law enforcement agency. Law enforcement agencies and local governments may not use these funds to supplant or supplement other spending. Local governments must include evidence of compliance with the no supplanting or supplementing requirement in their annual audit and provide a copy of this audit to the department. The department must review a subset of the audits provided by local governments for compliance with the requirements of the act.\n\nThe act also establishes funding for the fund. First, the act directs the state treasurer to transfer $15 million from the general fund to the fund on July 1, 2026. Second, the act directs the state treasurer to issue warrants from the general fund totaling $500 million to the public employees' retirement association (PERA) between July 1, 2025, and September 30, 2025. Beginning July 1, 2027, until the state treasurer has transferred a total of $350 million from the general fund to the fund:\n\n\nThe amount of each annual direct distribution made by the state to PERA is reduced by the amount of PERA's earnings from the $500 million, up to a maximum of $35 million; and\nThe state treasurer annually transfers an amount equal to the amount of PERA's earnings from the $500 million, up to a maximum of $35 million, from the general fund to the fund.\n\nHowever, beginning July 1, 2027, and each July 1 thereafter until the state treasurer has transferred a total of $350 million from the general fund to the fund, the state treasurer is required to transfer at least $15 million from the general fund to the fund regardless of the amount of PERA's earnings from the $500 million. The general assembly may annually appropriate to the department no more than 2.5% of the amount that the state treasurer annually transfers from the general fund to the fund for the department's direct and indirect costs of administering the distribution of money from the fund.\n\nThe act clarifies that the $500 million in the warrants that the state treasurer issues to PERA are included in the general fund reserve. Accordingly, the act prohibits a future general assembly from lowering the general fund reserve to an amount less than $1 billion. If the general assembly does so reduce the reserve, the general assembly shall also make corresponding reductions to the direct distributions made by the state to PERA. The act also requires the governor to adjust general fund expenditures so that they do not result in the general fund reserve being reduced to an amount less than $1 billion.\n\nThe act establishes a process by which the department distributes a $1 million death benefit to the family of a first responder who dies on or after November 5, 2024, as either the direct and proximate result of a personal injury sustained while performing official duties as a first responder or because of an occupational disease arising out of and in the course of the first responder's employment or service as a first responder. These payments are paid out of the death benefit fund, which is created in the act. The act requires the state treasurer to transfer $5 million from the general fund to the death benefit fund on both July 1, 2026, and July 1, 2027, and to make annual transfers from the general fund thereafter as necessary to ensure that the fund maintains a balance of $10 million. The act also requires a survivor of an eligible first responder to deduct an amount equal to the amount of any death benefit received from their federal taxable income for the purpose of determining their state income tax liability unless the survivor qualifies for a corresponding federal income tax deduction.\n\nThe act also requires the department to provide technical assistance to law enforcement agencies and local governments in complying with the requirements of the act and allows the executive director of the department to adopt rules as necessary to implement the act.\n\nFor the 2025-26 fiscal year, $5,046,967 is appropriated from the death benefit fund to the department for implementation of the death benefit program.\n(Note: This summary applies to this bill as enacted.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2025-06-02T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2025-05-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2025-05-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2025-05-13T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Considered House Amendments - Result was to Concur - Repass",
+      "date": "2025-05-06T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Third Reading Passed with Amendments - Floor",
+      "date": "2025-05-05T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "House Second Reading Special Order - Passed with Amendments - Committee, Floor",
+      "date": "2025-05-03T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Second Reading Special Order - Laid Over Daily with Amendments - Committee, Floor",
+      "date": "2025-05-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "House Committee on Appropriations Refer Amended to House Committee of the Whole",
+      "date": "2025-05-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In House - Assigned to Appropriations",
+      "date": "2025-04-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Senate Third Reading Passed with Amendments - Floor",
+      "date": "2025-04-30T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Second Reading Special Order - Passed with Amendments - Committee",
+      "date": "2025-04-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Senate Committee on Appropriations Refer Amended - Consent Calendar to Senate Committee of the Whole",
+      "date": "2025-04-29T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Appropriations",
+      "date": "2025-04-24T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Barbara Kirkmeyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Barbara Kirkmeyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Bridges",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jeff Bridges\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shannon Bird",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Shannon Bird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Taggart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rick Taggart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Amabile",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Amabile\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Sirota",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"E. Sirota\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Carson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"J. Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Catlin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"M. Catlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Mullica",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"K. Mullica\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Pelton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"B. Pelton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Armagost",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"R. Armagost\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Caldwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. Caldwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Clifford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"C. Clifford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Hamrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"E. Hamrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. McCluskie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"J. McCluskie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Soper",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"M. Soper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Titone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"B. Titone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Winter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"T. Winter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Signed Act (06/02/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_310_signed.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Final Act (05/13/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_310_enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised (05/05/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_310_rer.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Revised (05/03/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_310_rev.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed (04/30/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_310_ren.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed (04/29/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_310_eng.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced (04/24/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_310_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA2 (05/01/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_310_h_app_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "PA1 (04/29/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/2025a_310_s_app_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025a_sb310_h_app_002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note FN2 (05/02/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb310_r1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN1 (04/28/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb310_00.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note SA2 (04/30/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb0310_hse.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note SA1 (04/28/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025A/bills/fn/2025a_sb0310_sen.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/sb25-310",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "scraped_at": "2025-07-28T17:45:52+00:00",
+  "_id": "b3cc36fc-6bda-11f0-ac33-9edfb7380382"
+}

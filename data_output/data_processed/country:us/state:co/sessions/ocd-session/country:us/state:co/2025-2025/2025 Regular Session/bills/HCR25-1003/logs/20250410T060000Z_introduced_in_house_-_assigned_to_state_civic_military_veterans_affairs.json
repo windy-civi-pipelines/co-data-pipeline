@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+    "date": "2025-04-10T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "State, Civic, Military, & Veterans Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HCR25-1003"
+}
