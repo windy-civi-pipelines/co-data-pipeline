@@ -1,0 +1,45 @@
+Title: After consideration on the merits, the Committee recommends the
+Official Title: After consideration on the merits, the Committee recommends the
+Number of Sections: 1
+Source: versions - Committee Amendment
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SB004_H_APP.007
+HOUSE COMMITTEE OF REFERENCE REPORT
+_______________________________ August 25, 2025
+Chair of Committee Date
+Committee on Appropriations.
+following:
+SB25B-004 be amended as follows, and as so amended, be referred to
+the Committee of the Whole with favorable
+recommendation:
+1 Amend reengrossed bill, page 1, line 102, strike "SYSTEMS, AND, IN" and
+2 substitute "SYSTEMS.".
+3 Page 1, strike lines 103 and 104.
+** *** ** *** **
+[DELETED: _AeD c o t m t C r t4b C o t W w fA",,"S D s".P]
+
+
+================================================================================
+
+Raw Text:
+SB004_H_APP.007
+HOUSE COMMITTEE OF REFERENCE REPORT
+_______________________________ August 25, 2025
+Chair of Committee Date
+Committee on Appropriations.
+After consideration on the merits, the Committee recommends the
+following:
+SB25B-004 be amended as follows, and as so amended, be referred to
+the Committee of the Whole with favorable
+recommendation:
+1 Amend reengrossed bill, page 1, line 102, strike "SYSTEMS, AND, IN" and
+2 substitute "SYSTEMS.".
+3 Page 1, strike lines 103 and 104.
+** *** ** *** **
+
+[DELETED: _AeD c o t m t C r t4b C o t W w fA",,"S D s".P]

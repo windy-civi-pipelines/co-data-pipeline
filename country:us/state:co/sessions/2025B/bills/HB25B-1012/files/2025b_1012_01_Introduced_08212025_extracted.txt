@@ -1,0 +1,521 @@
+Title: LLS NO. 25B-0011.01 Jennifer Berman x3286 HOUSE BILL 25B-1012
+Official Title: LLS NO. 25B-0011.01 Jennifer Berman x3286 HOUSE BILL 25B-1012
+Number of Sections: 1
+Source: versions - Introduced (08/21/2025)
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+HOUSE SPONSORSHIP
+DeGraaf,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING PRESCRIPTION DRUG SOURCING PROVIDED PURSUANT TO
+102 A HEALTH BENEFIT PLAN.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill creates the "Prescription Drug Sourcing Transparency and
+Integrity Act" to prohibit a pharmacy benefit manager (PBM) or a
+health-care consultant from knowingly making or disseminating false or
+misleading statements or claims to an employer, health benefit plan
+sponsor, or policyholder about the legality or safety of a lawful alternative
+prescription drug sourcing program.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+Upon written request by a self-funded employer or health benefit
+plan sponsor, a PBM or health-care consultant is required to provide
+certain cost information for each prescription drug dispensed under the
+health benefit plan.
+A violation of either the prohibition or information-sharing
+provisions of the bill is an unfair method of competition and unfair or
+deceptive act or practice in the business of insurance (unfair act or
+practice). In addition to imposing the existing penalties for engaging in
+an unfair act or practice, the bill authorizes the commissioner of insurance
+to impose additional penalties for a violation of the prohibition or
+information-sharing provisions of the bill in an amount up to $5,000 for
+a fourth or subsequent violation (additional penalties). Additional
+penalties collected are credited to the health insurance affordability cash
+fund to facilitate a reduction in insurance premium increases and to help
+avoid health insurance coverage loss.
+The prohibition and information-sharing provisions of the bill do
+not restrict or limit the rights of a self-funded employer or health benefit
+plan sponsor to purchase prescription drugs through and contract for a
+lawful alternative prescription drug sourcing program. The bill also
+recognizes that a pharmacy stewardship program is an effective
+cost-containment tool and is authorized when implemented in compliance
+with federal law and with the bill.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Improving transparency and integrity in prescription drug
+5 purchasing protects employers and health benefit plan sponsors, supports
+6 patient safety, and reduces unnecessary costs, while preserving clinical
+7 decision-making; and
+8 (b) It is the policy of this state to permit pharmacy stewardship
+9 programs and alternative prescription drug sourcing programs
+10 implemented in compliance with federal law in order to reduce net plan
+11 costs without disrupting patient care.
+12 SECTION 2. In Colorado Revised Statutes, add 10-16-171 as
+13 follows:
+-2- HB25B-1012
+1 10-16-171. Pharmacy benefit managers - health-care
+2 consultants - prescription drug sourcing - disclosure requirements -
+3 enforcement - short title - definitions. (1) Short title. THE SHORT TITLE
+4 OF THIS SECTION IS THE "PRESCRIPTION DRUG SOURCING TRANSPARENCY
+5 AND INTEGRITY ACT".
+6 (2) Definitions. AS USED IN THIS SECTION:
+7 (a) (I) "ALTERNATIVE PRESCRIPTION DRUG SOURCING PROGRAM"
+8 MEANS A LAWFUL ARRANGEMENT OPERATED BY OR ON BEHALF OF A
+9 SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN SPONSOR UNDER
+10 WHICH A DEFINED SUBSET OF PRESCRIPTION DRUGS FOR COVERED PERSONS
+11 MAY BE DISPENSED THROUGH CHANNELS OTHER THAN THE PLAN'S
+12 PHARMACY BENEFIT MANAGER OR CARRIER-ADMINISTERED NETWORK, IF
+13 AUTHORIZED BY FEDERAL LAW, TO REDUCE THE NET PLAN COST WHILE
+14 MAINTAINING PATIENT SAFETY, CONTINUITY OF THERAPY, AND EQUAL OR
+15 LOWER MEMBER COST SHARE. AN ALTERNATIVE PRESCRIPTION DRUG
+16 SOURCING PROGRAM IS NOT INSURANCE, AND PRESCRIPTIONS NOT
+17 FULFILLED THROUGH THE PROGRAM CONTINUE TO PROCESS UNDER A
+18 PLAN'S EXISTING PHARMACY BENEFIT MANAGER, CARRIER, AND NETWORK.
+19 (II) "ALTERNATIVE PRESCRIPTION DRUG SOURCING PROGRAM"
+20 INCLUDES A PROGRAM FOR IMPORTING PRESCRIPTION DRUGS AUTHORIZED
+21 BY FEDERAL LAW OR FDA REGULATION.
+22 (b) "HEALTH-CARE CONSULTANT" MEANS AN INDIVIDUAL OR
+23 ENTITY THAT PROVIDES PROFESSIONAL ADVICE, ANALYSIS, OR SERVICES
+24 TO A SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN SPONSOR
+25 REGARDING HEALTH BENEFIT PLAN DESIGN OR ADMINISTRATION,
+26 INCLUDING SERVICES RELATED TO PRESCRIPTION DRUG BENEFITS.
+27 (c) "NATIONAL DRUG CODE" HAS THE MEANING SET FORTH IN
+-3- HB25B-1012
+1 SECTION 10-16-122.9 (2)(f).
+2 (d) (I) "PHARMACY STEWARDSHIP PROGRAM" MEANS A PROGRAM
+3 OPERATED BY OR ON BEHALF OF A SELF-FUNDED EMPLOYER OR HEALTH
+4 BENEFIT PLAN SPONSOR TO OPTIMIZE THE FINANCIAL PERFORMANCE OF
+5 THE SELF-FUNDED EMPLOYER'S PHARMACY BENEFIT. ALL PRESCRIPTIONS
+6 NOT FULFILLED THROUGH THE PROGRAM CONTINUE UNDER THE PLAN'S
+7 EXISTING PHARMACY BENEFIT MANAGER, CARRIER, AND NETWORK.
+8 ACTIVITIES UNDER A PHARMACY STEWARDSHIP PROGRAM MAY INCLUDE:
+9 (A) A CLINICALLY APPROPRIATE GENERIC BIOSIMILAR
+10 SUBSTITUTION;
+11 (B) USE OF FEDERALLY LAWFUL TIER 1 SOURCING PATHWAYS;
+12 (C) USE OF MANUFACTURE AND FOUNDATION PATIENT ASSISTANCE
+13 PROGRAMS, WHERE ELIGIBLE;
+14 (D) SITE-OF-CARE OPTIMIZATION WHEN CLINICALLY APPROPRIATE;
+15 AND
+16 (E) FULFILLMENT OF A DEFINED SUBSET OF PRESCRIPTIONS
+17 THROUGH LAWFUL CHANNELS THAT REDUCE NET PLAN COST WHILE
+18 MAINTAINING SAFETY, CONTINUITY OF THERAPY, AND EQUAL OR LOWER
+19 MEMBER COST SHARE.
+20 (II) A "PHARMACY STEWARDSHIP PROGRAM" IS NOT:
+21 (A) INSURANCE OR A POLICY OF INSURANCE;
+22 (B) A HEALTH PLAN;
+23 (C) A PBM; OR
+24 (D) A THIRD-PARTY ADMINISTRATOR.
+25 (e) "SELF-FUNDED EMPLOYER" MEANS AN EMPLOYER THAT OFFERS
+26 A SELF-INSURED HEALTH PLAN TO THEIR EMPLOYEES.
+27 (3) Prohibition against misinformation. A PHARMACY BENEFIT
+-4- HB25B-1012
+1 MANAGER OR HEALTH-CARE CONSULTANT SHALL NOT KNOWINGLY MAKE
+2 OR DISSEMINATE FALSE OR MISLEADING STATEMENTS OR CLAIMS TO AN
+3 EMPLOYER, HEALTH BENEFIT PLAN SPONSOR, OR POLICYHOLDER ABOUT
+4 THE LEGALITY OR SAFETY OF A LAWFUL ALTERNATIVE PRESCRIPTION DRUG
+5 SOURCING PROGRAM.
+6 (4) Disclosure requirements. UPON WRITTEN REQUEST BY A
+7 SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN SPONSOR, A
+8 PHARMACY BENEFIT MANAGER OR HEALTH-CARE CONSULTANT SHALL
+9 PROVIDE DETAILED COST INFORMATION FOR EACH PRESCRIPTION DRUG
+10 DISPENSED UNDER THE PLAN, INCLUDING:
+11 (a) TOTAL DRUG COST PER CLAIM;
+12 (b) TOTAL INGREDIENT COST PER CLAIM;
+13 (c) TOTAL DISPENSING FEE PER CLAIM;
+14 (d) TOTAL MEMBER-PAID PORTION PER CLAIM;
+15 (e) TOTAL PLAN- OR EMPLOYER-PAID PORTION PER CLAIM; AND
+16 (f) NATIONAL DRUG CODE, QUANTITY, STRENGTH, AND DAYS OF
+17 SUPPLY.
+18 (5) Self-funded employer and health benefit plan sponsor
+19 rights. THIS SECTION DOES NOT RESTRICT OR LIMIT THE RIGHT OF A
+20 SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN SPONSOR TO PURCHASE
+21 PRESCRIPTION DRUGS THROUGH ANOTHER LAWFUL ALTERNATIVE
+22 PRESCRIPTION DRUG SOURCING PROGRAM. A SELF-FUNDED EMPLOYER AND
+23 HEALTH BENEFIT PLAN SPONSOR RETAIN THE RIGHT TO CONTRACT FOR ANY
+24 LEGAL ALTERNATIVE PRESCRIPTION DRUG SOURCING PROGRAM,
+25 INCLUDING IMPORTATION PROGRAMS PERMITTED UNDER FEDERAL LAW,
+26 FOR DRUGS USED BY THEIR HEALTH BENEFIT PLAN'S COVERED PERSONS.
+27 (6) (a) Pharmacy stewardship programs. A PHARMACY
+-5- HB25B-1012
+1 STEWARDSHIP PROGRAM THAT IS DESIGNED TO IMPROVE THE
+2 COST-EFFECTIVENESS OF MEDICATION USE WHILE MAINTAINING PATIENT
+3 SAFETY IS RECOGNIZED AS AN EFFECTIVE COST-CONTAINMENT TOOL.
+4 (b) PHARMACY STEWARDSHIP PROGRAMS AND ALTERNATIVE
+5 PRESCRIPTION DRUG SOURCING PROGRAMS ARE AUTHORIZED BY STATE
+6 LAW WHEN IMPLEMENTED IN COMPLIANCE WITH FEDERAL LAW AND WITH
+7 THIS SECTION. SUCH AUTHORIZED PROGRAMS INCLUDE PROGRAMS FOR
+8 IMPORTING PRESCRIPTION DRUGS WHEN AUTHORIZED UNDER FEDERAL
+9 LAW.
+10 (c) NOTHING IN THIS SECTION SHALL BE CONSTRUED TO CREATE A
+11 NEW INSURANCE PRODUCT OR MANDATORY COVERAGE.
+12 (7) No state cost or self-funded employer or health benefit
+13 plan sponsor mandate. (a) THIS SECTION DOES NOT:
+14 (I) CREATE A FISCAL REQUIREMENT FOR ANY STATE AGENCY OR AN
+15 APPROPRIATION FROM THE GENERAL FUND;
+16 (II) REQUIRE A SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN
+17 SPONSOR TO ADOPT OR PARTICIPATE IN AN ALTERNATIVE PRESCRIPTION
+18 DRUG SOURCING PROGRAM OR PHARMACY STEWARDSHIP PROGRAM; OR
+19 (III) REQUIRE THAT RESOURCES BE EXPENDED AS A RESULT OF THIS
+20 SECTION.
+21 (b) THE COMMISSIONER SHALL IMPLEMENT AND ENFORCE THIS
+22 SECTION WITHIN EXISTING APPROPRIATIONS.
+23 (8) Enforcement. (a) THE COMMISSIONER SHALL ENFORCE THIS
+24 SECTION WITH RESPECT TO A PBM OR HEALTH-CARE CONSULTANT THAT
+25 ADMINISTERS OR MANAGES PRESCRIPTION DRUG BENEFITS FOR A HEALTH
+26 BENEFIT PLAN. A VIOLATION OF THIS SECTION BY A PBM OR A
+27 HEALTH-CARE CONSULTANT IS AN UNFAIR METHOD OF COMPETITION AND
+-6- HB25B-1012
+1 UNFAIR OR DECEPTIVE ACT OR PRACTICE IN THE BUSINESS OF INSURANCE
+2 PURSUANT TO SECTION 10-3-1104 (1)(uu). EACH DAY DURING WHICH A
+3 VIOLATION CONTINUES CONSTITUTES A SEPARATE VIOLATION. IN ADDITION
+4 TO THE PENALTIES APPLICABLE TO AN UNFAIR OR DECEPTIVE ACT OR
+5 PRACTICE IN THE BUSINESS OF INSURANCE PURSUANT TO SECTION
+6 10-3-1104 (1)(uu), THE COMMISSIONER MAY:
+7 (I) FOR A FIRST VIOLATION, ISSUE A PUBLIC LETTER OF
+8 ADMONITION;
+9 (II) FOR A SECOND VIOLATION, IMPOSE A PENALTY OF UP TO ONE
+10 THOUSAND DOLLARS;
+11 (III) FOR A THIRD VIOLATION, IMPOSE A PENALTY OF UP TO TWO
+12 THOUSAND DOLLARS; AND
+13 (IV) FOR A FOURTH OR SUBSEQUENT VIOLATION:
+14 (A) FOR A PBM, REVOKE THE PBM'S REGISTRATION PURSUANT TO
+15 SECTION 10-16-122.1; OR
+16 (B) REFER THE MATTER TO THE ATTORNEY GENERAL TO
+17 COMMENCE A CIVIL ACTION FOR INJUNCTIVE RELIEF, DAMAGES, OR OTHER
+18 REMEDIES AVAILABLE AT LAW, INCLUDING RECOVERY OF COSTS AND
+19 ATTORNEY FEES.
+20 (b) PENALTIES COLLECTED PURSUANT TO SUBSECTION (8)(a)(II),
+21 (8)(a)(III), OR (8)(a)(IV) OF THIS SECTION SHALL BE CREDITED TO THE
+22 HEALTH INSURANCE AFFORDABILITY CASH FUND CREATED IN SECTION
+23 10-16-1206 (1) TO HELP:
+24 (I) FACILITATE A REDUCTION IN PREMIUM INCREASES ASSOCIATED
+25 WITH THE HEALTH INSURANCE AFFORDABILITY ENTERPRISE CREATED IN
+26 SECTION 10-16-1204 (1)(a); AND
+27 (II) AVOID HEALTH INSURANCE COVERAGE LOSS FOR THOSE IN THE
+-7- HB25B-1012
+1 INDIVIDUAL MARKET AND THOSE UNABLE TO PURCHASE HEALTH
+2 INSURANCE THROUGH THE HEALTH BENEFIT EXCHANGE CREATED IN
+3 SECTION 10-22-104.
+4 SECTION 3. In Colorado Revised Statutes, 10-3-1104, add
+5 (1)(uu) as follows:
+6 10-3-1104. Unfair methods of competition - unfair or deceptive
+7 practices - rules - definitions. (1) The following are defined as unfair
+8 methods of competition and unfair or deceptive acts or practices in the
+9 business of insurance:
+10 (uu) VIOLATING SECTION 10-16-171.
+11 SECTION 4. In Colorado Revised Statutes, 10-16-1206, amend
+12 (1)(g) and (1)(h); and add (1)(i) as follows:
+13 10-16-1206. Health insurance affordability cash fund -
+14 creation. (1) There is created in the state treasury the health insurance
+15 affordability cash fund. The fund consists of:
+16 (g) The federal share of the medical assistance payments received
+17 pursuant to section 25.5-4-503 (2); and
+18 (h) Gifts, grants, or donations received from private or public
+19 sources; AND
+20 (i) MONEY CREDITED TO THE FUND PURSUANT TO SECTION
+21 10-16-171 (8)(b).
+22 SECTION 5. Act subject to petition - effective date -
+23 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+24 the expiration of the ninety-day period after final adjournment of the
+25 general assembly; except that, if a referendum petition is filed pursuant
+26 to section 1 (3) of article V of the state constitution against this act or an
+27 item, section, or part of this act within such period, then the act, item,
+-8- HB25B-1012
+1 section, or part will not take effect unless approved by the people at the
+2 general election to be held in November 2026 and, in such case, will take
+3 effect on the date of the official declaration of the vote thereon by the
+4 governor.
+5 (2) This act applies to conduct or omissions occurring on or after
+6 the applicable effective date of this act.
+-9- HB25B-1012
+[DELETED: sS12 t t r v o t b w b a a A t p a p b m ( o  s o c t a e h b p]
+[DELETED:  v o e t p o i a o p i t b o i ( a o i a p f a v o t p o f o s v ( p A a p d s p T b a t a p s p i a eBSf(ppd(p a a p d s p0i1c2S3f]
+[DELETED: 1  P b m - hce R R O R"PDS N CIA"(A(A A L A O B O O B O FF E O H B P S U B D T C O T T PN1RAK 2-W 3Y Y 4, M C SE N A P D5. P I N IE A P N6 T T P C T P U NSR R 8',,9(A  1FA2(  "H-HC CT M A I OE S 3, A SFF E O H B P S4 H B P D O A567(NE ]
+[DELETED: 1(PM FFFFRST L-'.N P B MR CR A N,,A(  C A G B01(U1  2(S 3,4(S--EOFC6(   O A D S O P L C T R N P C WY Y 8,90(A""PM 1(I2(A3(AP 4(A-DP5(S-FFR FI6-7(]
+[DELETED: HCR R ,(  D r  W R B FF E O H B P SR - B M O HHC C SN 0,1(T2(T3(T4(T-RP5(T--N RPM 6(N,,E Y H 78(  S e a h b p s9r  S D N R O L T R O FF0 D T A L AM  FF2.A A P D S P45NS6'7( (  P s p P]
+[DELETED:  P T I D T I TTETC-(   S P A AN U.0(12(3pT4(56(RFFM 89(01(23(  HC4PM PN  V O T S B A  O 6.APHC7]
+[DELETED:  A1N N. T P A T A U O D A O I T B O I P T S1 (  F A F VN I A P L O(FN 01(FN S 23(F4(FP,P   S  516(   T M T T A G TF S 7, A A LW I R O C A890(P 1(  RO316() 4( A617(]
+[DELETED:  M A T U T P H T T H B E C I1S 3  I C R S 1 a(1pmb0(V11S2(31  H i a c f 4c5a6(7p8(9s0(   C T T F P T S112S 5  A s t p - e d 3a4t5g6t7i]
+[DELETED: sgeg(t]
+
+
+================================================================================
+
+Raw Text:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 25B-0011.01 Jennifer Berman x3286 HOUSE BILL 25B-1012
+HOUSE SPONSORSHIP
+DeGraaf,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING PRESCRIPTION DRUG SOURCING PROVIDED PURSUANT TO
+102 A HEALTH BENEFIT PLAN.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill creates the "Prescription Drug Sourcing Transparency and
+Integrity Act" to prohibit a pharmacy benefit manager (PBM) or a
+health-care consultant from knowingly making or disseminating false or
+misleading statements or claims to an employer, health benefit plan
+sponsor, or policyholder about the legality or safety of a lawful alternative
+prescription drug sourcing program.
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+Upon written request by a self-funded employer or health benefit
+plan sponsor, a PBM or health-care consultant is required to provide
+certain cost information for each prescription drug dispensed under the
+health benefit plan.
+A violation of either the prohibition or information-sharing
+provisions of the bill is an unfair method of competition and unfair or
+deceptive act or practice in the business of insurance (unfair act or
+practice). In addition to imposing the existing penalties for engaging in
+an unfair act or practice, the bill authorizes the commissioner of insurance
+to impose additional penalties for a violation of the prohibition or
+information-sharing provisions of the bill in an amount up to $5,000 for
+a fourth or subsequent violation (additional penalties). Additional
+penalties collected are credited to the health insurance affordability cash
+fund to facilitate a reduction in insurance premium increases and to help
+avoid health insurance coverage loss.
+The prohibition and information-sharing provisions of the bill do
+not restrict or limit the rights of a self-funded employer or health benefit
+plan sponsor to purchase prescription drugs through and contract for a
+lawful alternative prescription drug sourcing program. The bill also
+recognizes that a pharmacy stewardship program is an effective
+cost-containment tool and is authorized when implemented in compliance
+with federal law and with the bill.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Improving transparency and integrity in prescription drug
+5 purchasing protects employers and health benefit plan sponsors, supports
+6 patient safety, and reduces unnecessary costs, while preserving clinical
+7 decision-making; and
+8 (b) It is the policy of this state to permit pharmacy stewardship
+9 programs and alternative prescription drug sourcing programs
+10 implemented in compliance with federal law in order to reduce net plan
+11 costs without disrupting patient care.
+12 SECTION 2. In Colorado Revised Statutes, add 10-16-171 as
+13 follows:
+-2- HB25B-1012
+
+1 10-16-171. Pharmacy benefit managers - health-care
+2 consultants - prescription drug sourcing - disclosure requirements -
+3 enforcement - short title - definitions. (1) Short title. THE SHORT TITLE
+4 OF THIS SECTION IS THE "PRESCRIPTION DRUG SOURCING TRANSPARENCY
+5 AND INTEGRITY ACT".
+6 (2) Definitions. AS USED IN THIS SECTION:
+7 (a) (I) "ALTERNATIVE PRESCRIPTION DRUG SOURCING PROGRAM"
+8 MEANS A LAWFUL ARRANGEMENT OPERATED BY OR ON BEHALF OF A
+9 SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN SPONSOR UNDER
+10 WHICH A DEFINED SUBSET OF PRESCRIPTION DRUGS FOR COVERED PERSONS
+11 MAY BE DISPENSED THROUGH CHANNELS OTHER THAN THE PLAN'S
+12 PHARMACY BENEFIT MANAGER OR CARRIER-ADMINISTERED NETWORK, IF
+13 AUTHORIZED BY FEDERAL LAW, TO REDUCE THE NET PLAN COST WHILE
+14 MAINTAINING PATIENT SAFETY, CONTINUITY OF THERAPY, AND EQUAL OR
+15 LOWER MEMBER COST SHARE. AN ALTERNATIVE PRESCRIPTION DRUG
+16 SOURCING PROGRAM IS NOT INSURANCE, AND PRESCRIPTIONS NOT
+17 FULFILLED THROUGH THE PROGRAM CONTINUE TO PROCESS UNDER A
+18 PLAN'S EXISTING PHARMACY BENEFIT MANAGER, CARRIER, AND NETWORK.
+19 (II) "ALTERNATIVE PRESCRIPTION DRUG SOURCING PROGRAM"
+20 INCLUDES A PROGRAM FOR IMPORTING PRESCRIPTION DRUGS AUTHORIZED
+21 BY FEDERAL LAW OR FDA REGULATION.
+22 (b) "HEALTH-CARE CONSULTANT" MEANS AN INDIVIDUAL OR
+23 ENTITY THAT PROVIDES PROFESSIONAL ADVICE, ANALYSIS, OR SERVICES
+24 TO A SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN SPONSOR
+25 REGARDING HEALTH BENEFIT PLAN DESIGN OR ADMINISTRATION,
+26 INCLUDING SERVICES RELATED TO PRESCRIPTION DRUG BENEFITS.
+27 (c) "NATIONAL DRUG CODE" HAS THE MEANING SET FORTH IN
+-3- HB25B-1012
+
+1 SECTION 10-16-122.9 (2)(f).
+2 (d) (I) "PHARMACY STEWARDSHIP PROGRAM" MEANS A PROGRAM
+3 OPERATED BY OR ON BEHALF OF A SELF-FUNDED EMPLOYER OR HEALTH
+4 BENEFIT PLAN SPONSOR TO OPTIMIZE THE FINANCIAL PERFORMANCE OF
+5 THE SELF-FUNDED EMPLOYER'S PHARMACY BENEFIT. ALL PRESCRIPTIONS
+6 NOT FULFILLED THROUGH THE PROGRAM CONTINUE UNDER THE PLAN'S
+7 EXISTING PHARMACY BENEFIT MANAGER, CARRIER, AND NETWORK.
+8 ACTIVITIES UNDER A PHARMACY STEWARDSHIP PROGRAM MAY INCLUDE:
+9 (A) A CLINICALLY APPROPRIATE GENERIC BIOSIMILAR
+10 SUBSTITUTION;
+11 (B) USE OF FEDERALLY LAWFUL TIER 1 SOURCING PATHWAYS;
+12 (C) USE OF MANUFACTURE AND FOUNDATION PATIENT ASSISTANCE
+13 PROGRAMS, WHERE ELIGIBLE;
+14 (D) SITE-OF-CARE OPTIMIZATION WHEN CLINICALLY APPROPRIATE;
+15 AND
+16 (E) FULFILLMENT OF A DEFINED SUBSET OF PRESCRIPTIONS
+17 THROUGH LAWFUL CHANNELS THAT REDUCE NET PLAN COST WHILE
+18 MAINTAINING SAFETY, CONTINUITY OF THERAPY, AND EQUAL OR LOWER
+19 MEMBER COST SHARE.
+20 (II) A "PHARMACY STEWARDSHIP PROGRAM" IS NOT:
+21 (A) INSURANCE OR A POLICY OF INSURANCE;
+22 (B) A HEALTH PLAN;
+23 (C) A PBM; OR
+24 (D) A THIRD-PARTY ADMINISTRATOR.
+25 (e) "SELF-FUNDED EMPLOYER" MEANS AN EMPLOYER THAT OFFERS
+26 A SELF-INSURED HEALTH PLAN TO THEIR EMPLOYEES.
+27 (3) Prohibition against misinformation. A PHARMACY BENEFIT
+-4- HB25B-1012
+
+1 MANAGER OR HEALTH-CARE CONSULTANT SHALL NOT KNOWINGLY MAKE
+2 OR DISSEMINATE FALSE OR MISLEADING STATEMENTS OR CLAIMS TO AN
+3 EMPLOYER, HEALTH BENEFIT PLAN SPONSOR, OR POLICYHOLDER ABOUT
+4 THE LEGALITY OR SAFETY OF A LAWFUL ALTERNATIVE PRESCRIPTION DRUG
+5 SOURCING PROGRAM.
+6 (4) Disclosure requirements. UPON WRITTEN REQUEST BY A
+7 SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN SPONSOR, A
+8 PHARMACY BENEFIT MANAGER OR HEALTH-CARE CONSULTANT SHALL
+9 PROVIDE DETAILED COST INFORMATION FOR EACH PRESCRIPTION DRUG
+10 DISPENSED UNDER THE PLAN, INCLUDING:
+11 (a) TOTAL DRUG COST PER CLAIM;
+12 (b) TOTAL INGREDIENT COST PER CLAIM;
+13 (c) TOTAL DISPENSING FEE PER CLAIM;
+14 (d) TOTAL MEMBER-PAID PORTION PER CLAIM;
+15 (e) TOTAL PLAN- OR EMPLOYER-PAID PORTION PER CLAIM; AND
+16 (f) NATIONAL DRUG CODE, QUANTITY, STRENGTH, AND DAYS OF
+17 SUPPLY.
+18 (5) Self-funded employer and health benefit plan sponsor
+19 rights. THIS SECTION DOES NOT RESTRICT OR LIMIT THE RIGHT OF A
+20 SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN SPONSOR TO PURCHASE
+21 PRESCRIPTION DRUGS THROUGH ANOTHER LAWFUL ALTERNATIVE
+22 PRESCRIPTION DRUG SOURCING PROGRAM. A SELF-FUNDED EMPLOYER AND
+23 HEALTH BENEFIT PLAN SPONSOR RETAIN THE RIGHT TO CONTRACT FOR ANY
+24 LEGAL ALTERNATIVE PRESCRIPTION DRUG SOURCING PROGRAM,
+25 INCLUDING IMPORTATION PROGRAMS PERMITTED UNDER FEDERAL LAW,
+26 FOR DRUGS USED BY THEIR HEALTH BENEFIT PLAN'S COVERED PERSONS.
+27 (6) (a) Pharmacy stewardship programs. A PHARMACY
+-5- HB25B-1012
+
+1 STEWARDSHIP PROGRAM THAT IS DESIGNED TO IMPROVE THE
+2 COST-EFFECTIVENESS OF MEDICATION USE WHILE MAINTAINING PATIENT
+3 SAFETY IS RECOGNIZED AS AN EFFECTIVE COST-CONTAINMENT TOOL.
+4 (b) PHARMACY STEWARDSHIP PROGRAMS AND ALTERNATIVE
+5 PRESCRIPTION DRUG SOURCING PROGRAMS ARE AUTHORIZED BY STATE
+6 LAW WHEN IMPLEMENTED IN COMPLIANCE WITH FEDERAL LAW AND WITH
+7 THIS SECTION. SUCH AUTHORIZED PROGRAMS INCLUDE PROGRAMS FOR
+8 IMPORTING PRESCRIPTION DRUGS WHEN AUTHORIZED UNDER FEDERAL
+9 LAW.
+10 (c) NOTHING IN THIS SECTION SHALL BE CONSTRUED TO CREATE A
+11 NEW INSURANCE PRODUCT OR MANDATORY COVERAGE.
+12 (7) No state cost or self-funded employer or health benefit
+13 plan sponsor mandate. (a) THIS SECTION DOES NOT:
+14 (I) CREATE A FISCAL REQUIREMENT FOR ANY STATE AGENCY OR AN
+15 APPROPRIATION FROM THE GENERAL FUND;
+16 (II) REQUIRE A SELF-FUNDED EMPLOYER OR HEALTH BENEFIT PLAN
+17 SPONSOR TO ADOPT OR PARTICIPATE IN AN ALTERNATIVE PRESCRIPTION
+18 DRUG SOURCING PROGRAM OR PHARMACY STEWARDSHIP PROGRAM; OR
+19 (III) REQUIRE THAT RESOURCES BE EXPENDED AS A RESULT OF THIS
+20 SECTION.
+21 (b) THE COMMISSIONER SHALL IMPLEMENT AND ENFORCE THIS
+22 SECTION WITHIN EXISTING APPROPRIATIONS.
+23 (8) Enforcement. (a) THE COMMISSIONER SHALL ENFORCE THIS
+24 SECTION WITH RESPECT TO A PBM OR HEALTH-CARE CONSULTANT THAT
+25 ADMINISTERS OR MANAGES PRESCRIPTION DRUG BENEFITS FOR A HEALTH
+26 BENEFIT PLAN. A VIOLATION OF THIS SECTION BY A PBM OR A
+27 HEALTH-CARE CONSULTANT IS AN UNFAIR METHOD OF COMPETITION AND
+-6- HB25B-1012
+
+1 UNFAIR OR DECEPTIVE ACT OR PRACTICE IN THE BUSINESS OF INSURANCE
+2 PURSUANT TO SECTION 10-3-1104 (1)(uu). EACH DAY DURING WHICH A
+3 VIOLATION CONTINUES CONSTITUTES A SEPARATE VIOLATION. IN ADDITION
+4 TO THE PENALTIES APPLICABLE TO AN UNFAIR OR DECEPTIVE ACT OR
+5 PRACTICE IN THE BUSINESS OF INSURANCE PURSUANT TO SECTION
+6 10-3-1104 (1)(uu), THE COMMISSIONER MAY:
+7 (I) FOR A FIRST VIOLATION, ISSUE A PUBLIC LETTER OF
+8 ADMONITION;
+9 (II) FOR A SECOND VIOLATION, IMPOSE A PENALTY OF UP TO ONE
+10 THOUSAND DOLLARS;
+11 (III) FOR A THIRD VIOLATION, IMPOSE A PENALTY OF UP TO TWO
+12 THOUSAND DOLLARS; AND
+13 (IV) FOR A FOURTH OR SUBSEQUENT VIOLATION:
+14 (A) FOR A PBM, REVOKE THE PBM'S REGISTRATION PURSUANT TO
+15 SECTION 10-16-122.1; OR
+16 (B) REFER THE MATTER TO THE ATTORNEY GENERAL TO
+17 COMMENCE A CIVIL ACTION FOR INJUNCTIVE RELIEF, DAMAGES, OR OTHER
+18 REMEDIES AVAILABLE AT LAW, INCLUDING RECOVERY OF COSTS AND
+19 ATTORNEY FEES.
+20 (b) PENALTIES COLLECTED PURSUANT TO SUBSECTION (8)(a)(II),
+21 (8)(a)(III), OR (8)(a)(IV) OF THIS SECTION SHALL BE CREDITED TO THE
+22 HEALTH INSURANCE AFFORDABILITY CASH FUND CREATED IN SECTION
+23 10-16-1206 (1) TO HELP:
+24 (I) FACILITATE A REDUCTION IN PREMIUM INCREASES ASSOCIATED
+25 WITH THE HEALTH INSURANCE AFFORDABILITY ENTERPRISE CREATED IN
+26 SECTION 10-16-1204 (1)(a); AND
+27 (II) AVOID HEALTH INSURANCE COVERAGE LOSS FOR THOSE IN THE
+-7- HB25B-1012
+
+1 INDIVIDUAL MARKET AND THOSE UNABLE TO PURCHASE HEALTH
+2 INSURANCE THROUGH THE HEALTH BENEFIT EXCHANGE CREATED IN
+3 SECTION 10-22-104.
+4 SECTION 3. In Colorado Revised Statutes, 10-3-1104, add
+5 (1)(uu) as follows:
+6 10-3-1104. Unfair methods of competition - unfair or deceptive
+7 practices - rules - definitions. (1) The following are defined as unfair
+8 methods of competition and unfair or deceptive acts or practices in the
+9 business of insurance:
+10 (uu) VIOLATING SECTION 10-16-171.
+11 SECTION 4. In Colorado Revised Statutes, 10-16-1206, amend
+12 (1)(g) and (1)(h); and add (1)(i) as follows:
+13 10-16-1206. Health insurance affordability cash fund -
+14 creation. (1) There is created in the state treasury the health insurance
+15 affordability cash fund. The fund consists of:
+16 (g) The federal share of the medical assistance payments received
+17 pursuant to section 25.5-4-503 (2); and
+18 (h) Gifts, grants, or donations received from private or public
+19 sources; AND
+20 (i) MONEY CREDITED TO THE FUND PURSUANT TO SECTION
+21 10-16-171 (8)(b).
+22 SECTION 5. Act subject to petition - effective date -
+23 applicability. (1) This act takes effect at 12:01 a.m. on the day following
+24 the expiration of the ninety-day period after final adjournment of the
+25 general assembly; except that, if a referendum petition is filed pursuant
+26 to section 1 (3) of article V of the state constitution against this act or an
+27 item, section, or part of this act within such period, then the act, item,
+-8- HB25B-1012
+
+1 section, or part will not take effect unless approved by the people at the
+2 general election to be held in November 2026 and, in such case, will take
+3 effect on the date of the official declaration of the vote thereon by the
+4 governor.
+5 (2) This act applies to conduct or omissions occurring on or after
+6 the applicable effective date of this act.
+-9- HB25B-1012
+
+[DELETED: sS12 t t r v o t b w b a a A t p a p b m ( o  s o c t a e h b p]
+[DELETED:  v o e t p o i a o p i t b o i ( a o i a p f a v o t p o f o s v ( p A a p d s p T b a t a p s p i a eBSf(ppd(p a a p d s p0i1c2S3f]
+[DELETED: 1  P b m - hce R R O R"PDS N CIA"(A(A A L A O B O O B O FF E O H B P S U B D T C O T T PN1RAK 2-W 3Y Y 4, M C SE N A P D5. P I N IE A P N6 T T P C T P U NSR R 8',,9(A  1FA2(  "H-HC CT M A I OE S 3, A SFF E O H B P S4 H B P D O A567(NE ]
+[DELETED: 1(PM FFFFRST L-'.N P B MR CR A N,,A(  C A G B01(U1  2(S 3,4(S--EOFC6(   O A D S O P L C T R N P C WY Y 8,90(A""PM 1(I2(A3(AP 4(A-DP5(S-FFR FI6-7(]
+[DELETED: HCR R ,(  D r  W R B FF E O H B P SR - B M O HHC C SN 0,1(T2(T3(T4(T-RP5(T--N RPM 6(N,,E Y H 78(  S e a h b p s9r  S D N R O L T R O FF0 D T A L AM  FF2.A A P D S P45NS6'7( (  P s p P]
+[DELETED:  P T I D T I TTETC-(   S P A AN U.0(12(3pT4(56(RFFM 89(01(23(  HC4PM PN  V O T S B A  O 6.APHC7]
+[DELETED:  A1N N. T P A T A U O D A O I T B O I P T S1 (  F A F VN I A P L O(FN 01(FN S 23(F4(FP,P   S  516(   T M T T A G TF S 7, A A LW I R O C A890(P 1(  RO316() 4( A617(]
+[DELETED:  M A T U T P H T T H B E C I1S 3  I C R S 1 a(1pmb0(V11S2(31  H i a c f 4c5a6(7p8(9s0(   C T T F P T S112S 5  A s t p - e d 3a4t5g6t7i]
+[DELETED: sgeg(t]

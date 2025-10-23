@@ -857,6 +857,7 @@
     "division_id": "ocd-division/country:us/state:co"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T17:48:37Z"
+    "logs_latest_update": "2025-10-23T17:48:37Z",
+    "text_extraction_latest_update": "2025-10-23T18:06:18.531355Z"
   }
 }

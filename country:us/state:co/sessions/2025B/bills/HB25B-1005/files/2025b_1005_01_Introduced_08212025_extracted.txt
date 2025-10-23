@@ -1,0 +1,409 @@
+Title: LLS NO. 25B-0007.01 Nicole Myers x4326 HOUSE BILL 25B-1005
+Official Title: LLS NO. 25B-0007.01 Nicole Myers x4326 HOUSE BILL 25B-1005
+Number of Sections: 1
+Source: versions - Introduced (08/21/2025)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+HOUSE SPONSORSHIP
+Woodrow and McCormick,
+SENATE SPONSORSHIP
+Kipp and Winter F.,
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE ELIMINATION OF THE SALES TAX VENDOR FEE THAT
+102 RETAILERS ARE AUTHORIZED TO RETAIN IN CONNECTION WITH
+103 COLLECTING AND REMITTING STATE SALES TAX.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Current law requires a retailer to periodically remit to the
+department of revenue the sales tax revenue that it collects and allows
+some retailers to retain a sales tax vendor fee to cover the retailer's
+expenses incurred in collecting and remitting state sales tax.
+Beginning January 1, 2026, the bill eliminates the sales tax vendor
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+fee that retailers are authorized to retain in connection with collecting and
+remitting state sales tax.
+The bill also makes conforming amendments to prevent additional
+sales tax revenue from being included in the calculation of state sales tax
+increment revenue for purposes of the "Colorado Regional Tourism Act"
+and to maintain the amount of sales and use tax revenue that the state
+treasurer annually credits to the housing development grant fund.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) The vendor fee in section 39-26-105, Colorado Revised
+5 Statutes, was designed to reimburse retailers for a specific service
+6 performed on behalf of the state: The collection and remittance of
+7 state-collected sales tax revenue;
+8 (b) Not all retailers are equally compensated for their services.
+9 Only retailers that have total taxable sales of $1 million or less for the
+10 filing period are able to collect the vendor fee, and most of Colorado's
+11 home rule cities do not pay similar vendor fees for the collection and
+12 remittance of local sales tax. In addition, not all state taxes have vendor
+13 fees.
+14 (c) The vendor fee is being removed to promote fairness and
+15 equality between all retailers by ending this benefit that some retailers
+16 receive and others do not receive. Further, the vendor fee is being
+17 removed to simplify the collection of state-collected sales tax, ease
+18 administrative burden, and relieve retailer confusion. Any revenue gain
+19 caused by the removal of the vendor fee is incidental to the primary
+20 purposes of promoting fairness and equality, simplifying the collection of
+21 state-collected sales tax, easing administrative burdens, and relieving
+22 retailer confusion.
+-2- HB25B-1005
+1 (d) Any revenue gain caused by the removal of the vendor fee is
+2 de minimis.
+3 (2) The general assembly further finds and declares that:
+4 (a) Removal of the vendor fee is not a tax policy change for
+5 purposes of section 20 (4)(a) of article X of the Colorado constitution
+6 because it does not in any way affect the amount of sales tax imposed on
+7 and paid by taxpayers but instead only distributes a small portion of gross
+8 sales tax revenue collected to vendors for their collection and remittance
+9 of state-collected sales tax revenue;
+10 (b) Further, even if removal of the vendor fee could be considered
+11 a tax policy change, consistent with the Colorado Supreme Court's
+12 holding in TABOR Found. v. Reg'l Transp. Dist., 2018 CO 29, that
+13 legislation that causes only an incidental and de minimis tax revenue
+14 increase does not amount to a new tax or a tax policy change that requires
+15 advance voter approval under section 20 of article X of the Colorado
+16 constitution, the removal of the vendor fee is neither a new tax nor a tax
+17 policy change that requires voter approval; and
+18 (c) The removal of the vendor fee does not create new
+19 responsibilities or burdens on retailers. Instead, the removal of the fee
+20 demonstrates the general assembly's intent that the collection of sales tax
+21 revenue be fair and equal throughout the state, and that the burdens of
+22 doing so are limited, fair, and equal throughout the state.
+23 SECTION 2. In Colorado Revised Statutes, 39-26-105, amend
+24 (1)(c), (1)(d)(I), and (5)(c); and add (1)(d)(V) as follows:
+25 39-26-105. Vendor liable for tax - definitions - repeal.
+26 (1) (c) (I) Every retailer shall remit, along with the return required in
+27 subsection (1)(b) of this section, an amount equivalent to the percentage
+-3- HB25B-1005
+1 on sales as specified in subsection (1)(a)(I) of this section to the executive
+2 director of the department of revenue, less an amount as set forth in
+3 subsection (1)(c)(II) or (1)(d) of this section to cover the retailer's expense
+4 in the collection and remittance of said tax.
+5 (II) For sales made prior to January 1, 2020, the amount retained
+6 by a retailer to cover the retailer's expense in collecting and remitting tax
+7 pursuant to this section is three and one-third percent of all sales tax
+8 reported.
+9 (III) If any retailer is delinquent in remitting said tax, other than
+10 in unusual circumstances shown to the satisfaction of the executive
+11 director of the department of revenue, the retailer shall not be allowed to
+12 retain any amounts under this subsection (1)(c) or subsection (1)(d) of this
+13 section to cover such retailer's expense in collecting and remitting said
+14 tax, and an amount equivalent to the said percentage, plus the amount of
+15 any local vendor expense that may be allowed by the local government to
+16 the vendor, shall be remitted to the executive director by any such
+17 delinquent vendor. Any local vendor expense remitted to the executive
+18 director shall be deposited to the state general fund.
+19 (d) (I) (A) For sales made on or after January 1, 2020, except as
+20 provided in subsection (1)(d)(I)(B) of this section BUT BEFORE JANUARY
+21 1, 2026, the amount retained by a retailer to cover the retailer's expense
+22 in collecting and remitting tax in accordance with this section is four
+23 percent of the tax reported; except that a retailer shall not retain more than
+24 one thousand dollars in any filing period.
+25 (B) For sales made on and after January 1, 2023, but before
+26 January 1, 2024, the amount retained by a retailer to cover the retailer's
+27 expense in collecting and remitting tax in accordance with this section for
+-4- HB25B-1005
+1 any filing period that the retailer's total taxable sales are less than or equal
+2 to one hundred thousand dollars is five and three-tenths percent of the tax
+3 reported; except that a retailer should not retain more than one thousand
+4 dollars in any filing period. This subsection (1)(d)(I)(B) is repealed,
+5 effective January 1, 2032.
+6 (V) BEGINNING JANUARY 1, 2026, A RETAILER IS NOT PERMITTED
+7 TO RETAIN ANY MONEY TO COVER THE RETAILER'S EXPENSES IN
+8 COLLECTING AND REMITTING STATE TAX IN ACCORDANCE WITH THIS
+9 SECTION REGARDLESS OF THE RETAILER'S TOTAL TAXABLE SALES FOR ANY
+10 FILING PERIOD.
+11 (5) (c) From the amount of the tax required to be remitted
+12 pursuant to subsection (5)(a) of this section, a qualified purchaser shall
+13 be entitled to retain the amount specified in subsection (1)(c)(II) or (1)(d)
+14 of this section that a retailer would otherwise be entitled to retain to cover
+15 the retailer's expense in collecting and remitting the tax imposed by this
+16 article 26 if the qualified purchaser had not provided a direct payment
+17 permit number to the retailer.
+18 SECTION 3. In Colorado Revised Statutes, 24-46-303, amend
+19 (12) as follows:
+20 24-46-303. Definitions. As used in this part 3, unless the context
+21 otherwise requires:
+22 (12) "State sales tax increment revenue" means the portion of the
+23 revenue derived from state sales taxes, including any revenue attributable
+24 to the baseline growth rate, collected within a designated regional tourism
+25 zone in excess of the amount of base year revenue. "State sales tax
+26 increment revenue" does not include any additional revenue derived from
+27 state sales taxes that are due to the changes set forth in section 39-26-105
+-5- HB25B-1005
+1 (1)(d), enacted in 2019 AND AS AMENDED THEREAFTER, to the amount
+2 retained by a vendor to cover the vendor's expenses in collecting and
+3 remitting sales tax.
+4 SECTION 4. In Colorado Revised Statutes, 39-26-123, amend
+5 (3)(b)(I); and add (3)(b)(III) as follows:
+6 39-26-123. Receipts - disposition - transfers of general fund
+7 surplus - sales tax holding fund - creation - definitions. (3) For any
+8 state fiscal year commencing on or after July 1, 2013, the state treasurer
+9 shall credit eighty-five percent of all net revenue collected under this
+10 article 26 to the old age pension fund created in section 1 of article XXIV
+11 of the state constitution. The state treasurer shall credit to the general fund
+12 the remaining fifteen percent of the net revenue, less:
+13 (b) (I) (A) Except as set forth in subsection (3)(b)(II) of this
+14 section, PRIOR TO JANUARY 1, 2026, an amount equal to the fiscal year
+15 increase in sales and use tax revenue attributable to the vendor fee
+16 changes made by House Bill 19-1245, enacted in 2019, which amount the
+17 state treasurer shall credit to the housing development grant fund created
+18 in section 24-32-721 (1).
+19 (B) EXCEPT AS SET FORTH IN SUBSECTION (3)(b)(II) OF THIS
+20 SECTION AND SUBJECT TO SUBSECTION (3)(b)(III) OF THIS SECTION,
+21 BEGINNING JANUARY 1, 2026, AN AMOUNT EQUAL TO ONE AND SIX
+22 HUNDRED FIFTY-FIVE THOUSANDTHS PERCENT OF NET REVENUE
+23 EXCLUDING NET REVENUE COLLECTED UNDER PART 2 OF THIS ARTICLE 26,
+24 WHICH AMOUNT THE STATE TREASURER SHALL CREDIT TO THE HOUSING
+25 DEVELOPMENT GRANT FUND CREATED IN SECTION 24-32-721 (1).
+26 (III) (A) BEGINNING JANUARY 1, 2026, THE TREASURER SHALL
+27 CREDIT THE EXCESS OF THE AMOUNT SET FORTH IN SUBSECTION
+-6- HB25B-1005
+1 (3)(b)(I)(B) OF THIS SECTION OVER ONE-TWELFTH OF THE AMOUNT SET
+2 FORTH IN SUBSECTION (3)(b)(II)(D) OF THIS SECTION ON A MONTHLY
+3 BASIS. THE TREASURER SHALL FIRST TAKE INTO ACCOUNT ANY REDUCTION
+4 MADE PURSUANT TO SUBSECTION (3)(b)(II) OF THIS SECTION FOR THE
+5 FISCAL YEAR TO DATE.
+6 (B) BEGINNING WITH STATE FISCAL YEAR 2026-27, THE
+7 TREASURER SHALL CREDIT THE EXCESS OF THE AMOUNT SET FORTH IN
+8 SUBSECTION (3)(b)(I)(B) OF THIS SECTION OVER ONE-TWELFTH OF THE
+9 APPLICABLE AMOUNT SET FORTH IN SUBSECTION (3)(b)(II) OF THIS
+10 SECTION ON A MONTHLY BASIS.
+11 SECTION 5. Safety clause. The general assembly finds,
+12 determines, and declares that this act is necessary for the immediate
+13 preservation of the public peace, health, or safety or for appropriations for
+14 the support and maintenance of the departments of the state and state
+15 institutions.
+-7- HB25B-1005
+[DELETED: sS13 t t r v o t b w b a a l r a r t p r t t r t r a s t v f t c t r]
+[DELETED: BSf(  T v f i s 3 C RS w d t r r f a s sp o b o t s T c a r os(O0f1h2r3f4(5e6r a o d n r F t v f i b7r t s t c o s s t e8a9c0p1s2r]
+[DELETED: (d((pbaso0(1a t p c c w t C S C2h i T F v R T D 2 C 2 t3l4i5a6c7p8(  T r o t v f d n c n9r0d1r2d3S4(53  V l f t - d - r6(7s]
+[DELETED: odsi(bpr(0i u c s t t s o t e1d2r3s4t5a6t v s b r t t e d b a s7d8d9(0p  A11,22i3p4o5(6J7e]
+[DELETED: atrd i a f p T s ( ie(BJ1,2 A    R A M T C T RRS E I A R S T I A W TRS01( (  F t a o t t r t b r2p3b4o5t6a7p8S9(021o2(3r4t5z i e o t a o b y r " s t6i7s]
+[DELETED: ( ,rrS(3sss0a1o2t3(4s J1,2 A 5i i s a u t r a t t v f6c7s8i9(  E ( A S F I SNO T A S T SNO T S0 (  A   A A E T O A S1J1,2 FYF T P O N R2  322 521(6(BJ1,2 A    T E O T A S F I S]
+[DELETED: ( ET I SNO T S O A M (S H.NO (  B2 W S F Y  TNOET   A S F I SNO T (01S 5  S c T g a f2d3p4t5i]
+
+
+================================================================================
+
+Raw Text:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 25B-0007.01 Nicole Myers x4326 HOUSE BILL 25B-1005
+HOUSE SPONSORSHIP
+Woodrow and McCormick,
+SENATE SPONSORSHIP
+Kipp and Winter F.,
+House Committees Senate Committees
+Appropriations
+A BILL FOR AN ACT
+101 CONCERNING THE ELIMINATION OF THE SALES TAX VENDOR FEE THAT
+102 RETAILERS ARE AUTHORIZED TO RETAIN IN CONNECTION WITH
+103 COLLECTING AND REMITTING STATE SALES TAX.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+Current law requires a retailer to periodically remit to the
+department of revenue the sales tax revenue that it collects and allows
+some retailers to retain a sales tax vendor fee to cover the retailer's
+expenses incurred in collecting and remitting state sales tax.
+Beginning January 1, 2026, the bill eliminates the sales tax vendor
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+fee that retailers are authorized to retain in connection with collecting and
+remitting state sales tax.
+The bill also makes conforming amendments to prevent additional
+sales tax revenue from being included in the calculation of state sales tax
+increment revenue for purposes of the "Colorado Regional Tourism Act"
+and to maintain the amount of sales and use tax revenue that the state
+treasurer annually credits to the housing development grant fund.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) The vendor fee in section 39-26-105, Colorado Revised
+5 Statutes, was designed to reimburse retailers for a specific service
+6 performed on behalf of the state: The collection and remittance of
+7 state-collected sales tax revenue;
+8 (b) Not all retailers are equally compensated for their services.
+9 Only retailers that have total taxable sales of $1 million or less for the
+10 filing period are able to collect the vendor fee, and most of Colorado's
+11 home rule cities do not pay similar vendor fees for the collection and
+12 remittance of local sales tax. In addition, not all state taxes have vendor
+13 fees.
+14 (c) The vendor fee is being removed to promote fairness and
+15 equality between all retailers by ending this benefit that some retailers
+16 receive and others do not receive. Further, the vendor fee is being
+17 removed to simplify the collection of state-collected sales tax, ease
+18 administrative burden, and relieve retailer confusion. Any revenue gain
+19 caused by the removal of the vendor fee is incidental to the primary
+20 purposes of promoting fairness and equality, simplifying the collection of
+21 state-collected sales tax, easing administrative burdens, and relieving
+22 retailer confusion.
+-2- HB25B-1005
+
+1 (d) Any revenue gain caused by the removal of the vendor fee is
+2 de minimis.
+3 (2) The general assembly further finds and declares that:
+4 (a) Removal of the vendor fee is not a tax policy change for
+5 purposes of section 20 (4)(a) of article X of the Colorado constitution
+6 because it does not in any way affect the amount of sales tax imposed on
+7 and paid by taxpayers but instead only distributes a small portion of gross
+8 sales tax revenue collected to vendors for their collection and remittance
+9 of state-collected sales tax revenue;
+10 (b) Further, even if removal of the vendor fee could be considered
+11 a tax policy change, consistent with the Colorado Supreme Court's
+12 holding in TABOR Found. v. Reg'l Transp. Dist., 2018 CO 29, that
+13 legislation that causes only an incidental and de minimis tax revenue
+14 increase does not amount to a new tax or a tax policy change that requires
+15 advance voter approval under section 20 of article X of the Colorado
+16 constitution, the removal of the vendor fee is neither a new tax nor a tax
+17 policy change that requires voter approval; and
+18 (c) The removal of the vendor fee does not create new
+19 responsibilities or burdens on retailers. Instead, the removal of the fee
+20 demonstrates the general assembly's intent that the collection of sales tax
+21 revenue be fair and equal throughout the state, and that the burdens of
+22 doing so are limited, fair, and equal throughout the state.
+23 SECTION 2. In Colorado Revised Statutes, 39-26-105, amend
+24 (1)(c), (1)(d)(I), and (5)(c); and add (1)(d)(V) as follows:
+25 39-26-105. Vendor liable for tax - definitions - repeal.
+26 (1) (c) (I) Every retailer shall remit, along with the return required in
+27 subsection (1)(b) of this section, an amount equivalent to the percentage
+-3- HB25B-1005
+
+1 on sales as specified in subsection (1)(a)(I) of this section to the executive
+2 director of the department of revenue, less an amount as set forth in
+3 subsection (1)(c)(II) or (1)(d) of this section to cover the retailer's expense
+4 in the collection and remittance of said tax.
+5 (II) For sales made prior to January 1, 2020, the amount retained
+6 by a retailer to cover the retailer's expense in collecting and remitting tax
+7 pursuant to this section is three and one-third percent of all sales tax
+8 reported.
+9 (III) If any retailer is delinquent in remitting said tax, other than
+10 in unusual circumstances shown to the satisfaction of the executive
+11 director of the department of revenue, the retailer shall not be allowed to
+12 retain any amounts under this subsection (1)(c) or subsection (1)(d) of this
+13 section to cover such retailer's expense in collecting and remitting said
+14 tax, and an amount equivalent to the said percentage, plus the amount of
+15 any local vendor expense that may be allowed by the local government to
+16 the vendor, shall be remitted to the executive director by any such
+17 delinquent vendor. Any local vendor expense remitted to the executive
+18 director shall be deposited to the state general fund.
+19 (d) (I) (A) For sales made on or after January 1, 2020, except as
+20 provided in subsection (1)(d)(I)(B) of this section BUT BEFORE JANUARY
+21 1, 2026, the amount retained by a retailer to cover the retailer's expense
+22 in collecting and remitting tax in accordance with this section is four
+23 percent of the tax reported; except that a retailer shall not retain more than
+24 one thousand dollars in any filing period.
+25 (B) For sales made on and after January 1, 2023, but before
+26 January 1, 2024, the amount retained by a retailer to cover the retailer's
+27 expense in collecting and remitting tax in accordance with this section for
+-4- HB25B-1005
+
+1 any filing period that the retailer's total taxable sales are less than or equal
+2 to one hundred thousand dollars is five and three-tenths percent of the tax
+3 reported; except that a retailer should not retain more than one thousand
+4 dollars in any filing period. This subsection (1)(d)(I)(B) is repealed,
+5 effective January 1, 2032.
+6 (V) BEGINNING JANUARY 1, 2026, A RETAILER IS NOT PERMITTED
+7 TO RETAIN ANY MONEY TO COVER THE RETAILER'S EXPENSES IN
+8 COLLECTING AND REMITTING STATE TAX IN ACCORDANCE WITH THIS
+9 SECTION REGARDLESS OF THE RETAILER'S TOTAL TAXABLE SALES FOR ANY
+10 FILING PERIOD.
+11 (5) (c) From the amount of the tax required to be remitted
+12 pursuant to subsection (5)(a) of this section, a qualified purchaser shall
+13 be entitled to retain the amount specified in subsection (1)(c)(II) or (1)(d)
+14 of this section that a retailer would otherwise be entitled to retain to cover
+15 the retailer's expense in collecting and remitting the tax imposed by this
+16 article 26 if the qualified purchaser had not provided a direct payment
+17 permit number to the retailer.
+18 SECTION 3. In Colorado Revised Statutes, 24-46-303, amend
+19 (12) as follows:
+20 24-46-303. Definitions. As used in this part 3, unless the context
+21 otherwise requires:
+22 (12) "State sales tax increment revenue" means the portion of the
+23 revenue derived from state sales taxes, including any revenue attributable
+24 to the baseline growth rate, collected within a designated regional tourism
+25 zone in excess of the amount of base year revenue. "State sales tax
+26 increment revenue" does not include any additional revenue derived from
+27 state sales taxes that are due to the changes set forth in section 39-26-105
+-5- HB25B-1005
+
+1 (1)(d), enacted in 2019 AND AS AMENDED THEREAFTER, to the amount
+2 retained by a vendor to cover the vendor's expenses in collecting and
+3 remitting sales tax.
+4 SECTION 4. In Colorado Revised Statutes, 39-26-123, amend
+5 (3)(b)(I); and add (3)(b)(III) as follows:
+6 39-26-123. Receipts - disposition - transfers of general fund
+7 surplus - sales tax holding fund - creation - definitions. (3) For any
+8 state fiscal year commencing on or after July 1, 2013, the state treasurer
+9 shall credit eighty-five percent of all net revenue collected under this
+10 article 26 to the old age pension fund created in section 1 of article XXIV
+11 of the state constitution. The state treasurer shall credit to the general fund
+12 the remaining fifteen percent of the net revenue, less:
+13 (b) (I) (A) Except as set forth in subsection (3)(b)(II) of this
+14 section, PRIOR TO JANUARY 1, 2026, an amount equal to the fiscal year
+15 increase in sales and use tax revenue attributable to the vendor fee
+16 changes made by House Bill 19-1245, enacted in 2019, which amount the
+17 state treasurer shall credit to the housing development grant fund created
+18 in section 24-32-721 (1).
+19 (B) EXCEPT AS SET FORTH IN SUBSECTION (3)(b)(II) OF THIS
+20 SECTION AND SUBJECT TO SUBSECTION (3)(b)(III) OF THIS SECTION,
+21 BEGINNING JANUARY 1, 2026, AN AMOUNT EQUAL TO ONE AND SIX
+22 HUNDRED FIFTY-FIVE THOUSANDTHS PERCENT OF NET REVENUE
+23 EXCLUDING NET REVENUE COLLECTED UNDER PART 2 OF THIS ARTICLE 26,
+24 WHICH AMOUNT THE STATE TREASURER SHALL CREDIT TO THE HOUSING
+25 DEVELOPMENT GRANT FUND CREATED IN SECTION 24-32-721 (1).
+26 (III) (A) BEGINNING JANUARY 1, 2026, THE TREASURER SHALL
+27 CREDIT THE EXCESS OF THE AMOUNT SET FORTH IN SUBSECTION
+-6- HB25B-1005
+
+1 (3)(b)(I)(B) OF THIS SECTION OVER ONE-TWELFTH OF THE AMOUNT SET
+2 FORTH IN SUBSECTION (3)(b)(II)(D) OF THIS SECTION ON A MONTHLY
+3 BASIS. THE TREASURER SHALL FIRST TAKE INTO ACCOUNT ANY REDUCTION
+4 MADE PURSUANT TO SUBSECTION (3)(b)(II) OF THIS SECTION FOR THE
+5 FISCAL YEAR TO DATE.
+6 (B) BEGINNING WITH STATE FISCAL YEAR 2026-27, THE
+7 TREASURER SHALL CREDIT THE EXCESS OF THE AMOUNT SET FORTH IN
+8 SUBSECTION (3)(b)(I)(B) OF THIS SECTION OVER ONE-TWELFTH OF THE
+9 APPLICABLE AMOUNT SET FORTH IN SUBSECTION (3)(b)(II) OF THIS
+10 SECTION ON A MONTHLY BASIS.
+11 SECTION 5. Safety clause. The general assembly finds,
+12 determines, and declares that this act is necessary for the immediate
+13 preservation of the public peace, health, or safety or for appropriations for
+14 the support and maintenance of the departments of the state and state
+15 institutions.
+-7- HB25B-1005
+
+[DELETED: sS13 t t r v o t b w b a a l r a r t p r t t r t r a s t v f t c t r]
+[DELETED: BSf(  T v f i s 3 C RS w d t r r f a s sp o b o t s T c a r os(O0f1h2r3f4(5e6r a o d n r F t v f i b7r t s t c o s s t e8a9c0p1s2r]
+[DELETED: (d((pbaso0(1a t p c c w t C S C2h i T F v R T D 2 C 2 t3l4i5a6c7p8(  T r o t v f d n c n9r0d1r2d3S4(53  V l f t - d - r6(7s]
+[DELETED: odsi(bpr(0i u c s t t s o t e1d2r3s4t5a6t v s b r t t e d b a s7d8d9(0p  A11,22i3p4o5(6J7e]
+[DELETED: atrd i a f p T s ( ie(BJ1,2 A    R A M T C T RRS E I A R S T I A W TRS01( (  F t a o t t r t b r2p3b4o5t6a7p8S9(021o2(3r4t5z i e o t a o b y r " s t6i7s]
+[DELETED: ( ,rrS(3sss0a1o2t3(4s J1,2 A 5i i s a u t r a t t v f6c7s8i9(  E ( A S F I SNO T A S T SNO T S0 (  A   A A E T O A S1J1,2 FYF T P O N R2  322 521(6(BJ1,2 A    T E O T A S F I S]
+[DELETED: ( ET I SNO T S O A M (S H.NO (  B2 W S F Y  TNOET   A S F I SNO T (01S 5  S c T g a f2d3p4t5i]

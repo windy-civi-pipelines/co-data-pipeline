@@ -1,0 +1,291 @@
+Title: NOTE: This bill has been prepared for the signatures of the appropriate legislative
+Official Title: NOTE: This bill has been prepared for the signatures of the appropriate legislative
+Number of Sections: 6
+Source: versions - Final Act (08/26/2025)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+HOUSE BILL 25B-1002
+BY REPRESENTATIVE(S) Zokaie and Marshall, Bacon, Boesenecker,
+Brown, Froelich, Garcia, Lindsay, Lindstedt, McCormick, Rutinel, Sirota,
+Smith, Story, Willford, McCluskie;
+also SENATOR(S) Ball, Amabile, Bridges, Cutter, Daugherty, Exum,
+Gonzales J., Hinrichsen, Jodeh, Kipp, Michaelson Jenet, Rodriguez,
+Sullivan, Wallace, Weissman, Winter F., Coleman.
+CONCERNING CORPORATE INCOME TAXATION RELATED TO FOREIGN
+JURISDICTIONS.
+Be it enacted by the General Assembly of the State of Colorado:
+
+Section 2:
+SECTION 1. Legislative declaration. (1) The general assembly
+finds and declares that:
+(a) (I) The purpose of defining listed jurisdictions for purposes of
+corporate income tax is to decrease corporate income tax avoidance in
+Colorado. This is a continuation of existing tax policy.
+(II) Additional foreign jurisdictions must be included in the current
+list to accurately reflect the foreign jurisdictions that are used by C
+corporations for the purpose of tax avoidance.
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+(III) The clarification of listed jurisdictions will decrease tax
+avoidance by creating a more accurate list of foreign jurisdictions used by
+C corporations for the purpose of tax avoidance.
+(b) (I) In 2017, as part of the federal "Tax Cuts and Jobs Act",
+Pub.L. 115-97, Congress created the Foreign-Derived Intangible Income
+("FDII") tax deduction. Federal Public Law 119-21 lowered the rate for the
+FDII deduction and renamed it the foreign-derived deduction eligible
+income ("FDDEI") tax deduction for taxable years beginning after
+December 31, 2025.
+(II) The FDDEI deduction provides a tax benefit to corporations that
+do business outside of the United States. Such corporations also receive
+other substantial tax reductions from other Colorado tax laws. In addition,
+most FDDEI deductions claimed for state income tax purposes are claimed
+by corporations that maintain the majority of their property and investments
+outside of Colorado.
+(III) The primary purpose of adding the FDDEI deduction back to
+taxable income for state income tax purposes is to encourage tax
+compliance by promoting tax simplicity, equalization, and fairness. The
+revenue gain from this add-back is incidental to the primary purpose of
+encouraging tax compliance and promoting tax simplicity, equalization, and
+fairness for Colorado taxpayers.
+(IV) Any revenue gain resulting from the FDDEI deduction
+add-back is de minimis.
+(c) Therefore, consistent with the Colorado supreme court's holding
+in TABOR Found. v. Reg'l Transp. Dist., 2018 CO 29, that legislation that
+causes only an incidental and de minimis tax revenue increase does not
+amount to a new tax or a tax policy change that requires advance voter
+approval under section 20 of article X of the Colorado constitution, the
+FDDEI deduction add-back is neither a new tax nor a tax policy change that
+requires voter approval.
+
+Section 3:
+SECTION 2. In Colorado Revised Statutes, 39-22-303, amend
+(8)(b)(II) and (12)(b) as follows:
+PAGE 2-HOUSE BILL 25B-1002
+39-22-303. Dividends in a combined report - foreign source
+income - affiliated groups - definitions - rules - repeal. (8) (b) (II) A C
+corporation is presumptively incorporated in a foreign jurisdiction for the
+purpose of tax avoidance if it is incorporated in a listed jurisdiction. A C
+corporation is not incorporated in a foreign jurisdiction for the purpose of
+tax avoidance if the taxpayer proves to the satisfaction of the executive
+director, OR IF THE EXECUTIVE DIRECTOR DETERMINES, that such corporation
+is incorporated in a listed jurisdiction for reasons that meet the economic
+substance doctrine described in section 7701 (o) of the internal revenue
+code.
+(12) As used in this section, unless the context otherwise requires:
+(b) "Listed jurisdiction" means:
+(I) FOR INCOME TAX YEARS COMMENCING BEFORE JANUARY 1, 2026,
+Andorra, Anguilla, Antigua and Barbuda, Aruba, the Bahamas, Bahrain,
+Barbados, Belize, Bermuda, Bonaire, British Virgin Islands, Cayman
+Islands, Cook Islands, Curaçao, Cyprus, Dominica, Gibraltar, Grenada,
+Guernsey-Sark-Alderney, Isle of Man, Jersey, Liberia, Luxembourg, Malta,
+Marshall Islands, Mauritius, Monaco, Montserrat, Nauru, Niue, Panama,
+Saba, Samoa, San Marino, Seychelles, Sint Eustatius, Sint Maarten, St.
+Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Turks and
+Caicos Islands, U.S. Virgin Islands, and Vanuatu; AND
+(II) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+1, 2026, THE JURISDICTIONS LISTED IN SUBSECTION (12)(b)(I) OF THIS
+
+Section 4:
+SECTION AND HONG KONG, REPUBLIC OF IRELAND, LIECHTENSTEIN,
+NETHERLANDS, AND SINGAPORE.
+
+Section 5:
+SECTION 3. In Colorado Revised Statutes, 39-22-304, amend
+(3)(j) and (3)(q)(II); and add (2)(l) as follows:
+39-22-304. Net income of corporation - legislative declaration -
+definitions - repeal. (2) There shall be added to federal taxable income:
+(l) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY 1,
+2026, AN AMOUNT EQUAL TO A FEDERAL DEDUCTION CLAIMED FOR THE
+INCOME TAX YEAR FOR FOREIGN-DERIVED DEDUCTION ELIGIBLE INCOME
+PURSUANT TO SECTION 250 OF THE INTERNAL REVENUE CODE.
+PAGE 3-HOUSE BILL 25B-1002
+(3) There shall be subtracted from federal taxable income:
+(j) Any amount treated as a section 78 dividend under section 78 of
+the internal revenue code; excluding any amount treated under section 78
+as a dividend received from a C corporation incorporated in a foreign
+jurisdiction for the purpose of tax avoidance pursuant to section 39-22-303
+(8)(b)(II)
+(q) (II) The amount of any global intangible low-taxed income
+included in federal taxable income pursuant to section 951A (a) of the
+internal revenue code with respect to a controlled foreign corporation that
+is a C corporation incorporated in a foreign jurisdiction for the purpose of
+tax avoidance pursuant to section 39-22-303 (8)(b)(II), less any amount
+deducted under section 250 (a)(1)(B) of the internal revenue code with
+respect to such global intangible low-taxed income.
+
+Section 6:
+SECTION 4. Safety clause. The general assembly finds,
+determines, and declares that this act is necessary for the immediate
+preservation of the public peace, health, or safety or for appropriations for
+PAGE 4-HOUSE BILL 25B-1002
+the support and maintenance of the departments of the state and state
+institutions.
+____________________________ ____________________________
+Julie McCluskie James Rashad Coleman, Sr.
+SPEAKER OF THE HOUSE PRESIDENT OF
+OF REPRESENTATIVES THE SENATE
+____________________________ ____________________________
+Connor Randall Esther van Mourik
+ACTING CHIEF CLERK OF THE HOUSE SECRETARY OF
+OF REPRESENTATIVES THE SENATE
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 5-HOUSE BILL 25B-1002
+[DELETED:  S B A B C D E J H J K M J R C I T R T F t a r t f j t a u b ]
+[DELETED:   T c o l j w d t d a r i t f d e ( t d f t y b a i f s i t p i t e t  A r g r f t F d]
+[DELETED: ,,FJ1 A  B B B B V I CF A,2, ( T J L I SNO T A O OG E O RD IK,RI,L,SS  IFJ1 AND  0]
+[DELETED:  4  S c T g a f a d t t a i n f t i]
+[DELETED:  s a m o t d o t s a s__EPST _lEESST]
+
+
+================================================================================
+
+Raw Text:
+NOTE: This bill has been prepared for the signatures of the appropriate legislative
+officers and the Governor. To determine whether the Governor has signed the bill
+or taken other action on it, please consult the legislative status sheet, the legislative
+history, or the Session Laws.
+HOUSE BILL 25B-1002
+BY REPRESENTATIVE(S) Zokaie and Marshall, Bacon, Boesenecker,
+Brown, Froelich, Garcia, Lindsay, Lindstedt, McCormick, Rutinel, Sirota,
+Smith, Story, Willford, McCluskie;
+also SENATOR(S) Ball, Amabile, Bridges, Cutter, Daugherty, Exum,
+Gonzales J., Hinrichsen, Jodeh, Kipp, Michaelson Jenet, Rodriguez,
+Sullivan, Wallace, Weissman, Winter F., Coleman.
+CONCERNING CORPORATE INCOME TAXATION RELATED TO FOREIGN
+JURISDICTIONS.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Legislative declaration. (1) The general assembly
+finds and declares that:
+(a) (I) The purpose of defining listed jurisdictions for purposes of
+corporate income tax is to decrease corporate income tax avoidance in
+Colorado. This is a continuation of existing tax policy.
+(II) Additional foreign jurisdictions must be included in the current
+list to accurately reflect the foreign jurisdictions that are used by C
+corporations for the purpose of tax avoidance.
+________
+Capital letters or bold & italic numbers indicate new material added to existing law; dashes
+through words or numbers indicate deletions from existing law and such material is not part of
+the act.
+
+(III) The clarification of listed jurisdictions will decrease tax
+avoidance by creating a more accurate list of foreign jurisdictions used by
+C corporations for the purpose of tax avoidance.
+(b) (I) In 2017, as part of the federal "Tax Cuts and Jobs Act",
+Pub.L. 115-97, Congress created the Foreign-Derived Intangible Income
+("FDII") tax deduction. Federal Public Law 119-21 lowered the rate for the
+FDII deduction and renamed it the foreign-derived deduction eligible
+income ("FDDEI") tax deduction for taxable years beginning after
+December 31, 2025.
+(II) The FDDEI deduction provides a tax benefit to corporations that
+do business outside of the United States. Such corporations also receive
+other substantial tax reductions from other Colorado tax laws. In addition,
+most FDDEI deductions claimed for state income tax purposes are claimed
+by corporations that maintain the majority of their property and investments
+outside of Colorado.
+(III) The primary purpose of adding the FDDEI deduction back to
+taxable income for state income tax purposes is to encourage tax
+compliance by promoting tax simplicity, equalization, and fairness. The
+revenue gain from this add-back is incidental to the primary purpose of
+encouraging tax compliance and promoting tax simplicity, equalization, and
+fairness for Colorado taxpayers.
+(IV) Any revenue gain resulting from the FDDEI deduction
+add-back is de minimis.
+(c) Therefore, consistent with the Colorado supreme court's holding
+in TABOR Found. v. Reg'l Transp. Dist., 2018 CO 29, that legislation that
+causes only an incidental and de minimis tax revenue increase does not
+amount to a new tax or a tax policy change that requires advance voter
+approval under section 20 of article X of the Colorado constitution, the
+FDDEI deduction add-back is neither a new tax nor a tax policy change that
+requires voter approval.
+SECTION 2. In Colorado Revised Statutes, 39-22-303, amend
+(8)(b)(II) and (12)(b) as follows:
+PAGE 2-HOUSE BILL 25B-1002
+
+39-22-303. Dividends in a combined report - foreign source
+income - affiliated groups - definitions - rules - repeal. (8) (b) (II) A C
+corporation is presumptively incorporated in a foreign jurisdiction for the
+purpose of tax avoidance if it is incorporated in a listed jurisdiction. A C
+corporation is not incorporated in a foreign jurisdiction for the purpose of
+tax avoidance if the taxpayer proves to the satisfaction of the executive
+director, OR IF THE EXECUTIVE DIRECTOR DETERMINES, that such corporation
+is incorporated in a listed jurisdiction for reasons that meet the economic
+substance doctrine described in section 7701 (o) of the internal revenue
+code.
+(12) As used in this section, unless the context otherwise requires:
+(b) "Listed jurisdiction" means:
+(I) FOR INCOME TAX YEARS COMMENCING BEFORE JANUARY 1, 2026,
+Andorra, Anguilla, Antigua and Barbuda, Aruba, the Bahamas, Bahrain,
+Barbados, Belize, Bermuda, Bonaire, British Virgin Islands, Cayman
+Islands, Cook Islands, Curaçao, Cyprus, Dominica, Gibraltar, Grenada,
+Guernsey-Sark-Alderney, Isle of Man, Jersey, Liberia, Luxembourg, Malta,
+Marshall Islands, Mauritius, Monaco, Montserrat, Nauru, Niue, Panama,
+Saba, Samoa, San Marino, Seychelles, Sint Eustatius, Sint Maarten, St.
+Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Turks and
+Caicos Islands, U.S. Virgin Islands, and Vanuatu; AND
+(II) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY
+1, 2026, THE JURISDICTIONS LISTED IN SUBSECTION (12)(b)(I) OF THIS
+SECTION AND HONG KONG, REPUBLIC OF IRELAND, LIECHTENSTEIN,
+NETHERLANDS, AND SINGAPORE.
+SECTION 3. In Colorado Revised Statutes, 39-22-304, amend
+(3)(j) and (3)(q)(II); and add (2)(l) as follows:
+39-22-304. Net income of corporation - legislative declaration -
+definitions - repeal. (2) There shall be added to federal taxable income:
+(l) FOR INCOME TAX YEARS COMMENCING ON OR AFTER JANUARY 1,
+2026, AN AMOUNT EQUAL TO A FEDERAL DEDUCTION CLAIMED FOR THE
+INCOME TAX YEAR FOR FOREIGN-DERIVED DEDUCTION ELIGIBLE INCOME
+PURSUANT TO SECTION 250 OF THE INTERNAL REVENUE CODE.
+PAGE 3-HOUSE BILL 25B-1002
+
+(3) There shall be subtracted from federal taxable income:
+(j) Any amount treated as a section 78 dividend under section 78 of
+the internal revenue code; excluding any amount treated under section 78
+as a dividend received from a C corporation incorporated in a foreign
+jurisdiction for the purpose of tax avoidance pursuant to section 39-22-303
+(8)(b)(II)
+(q) (II) The amount of any global intangible low-taxed income
+included in federal taxable income pursuant to section 951A (a) of the
+internal revenue code with respect to a controlled foreign corporation that
+is a C corporation incorporated in a foreign jurisdiction for the purpose of
+tax avoidance pursuant to section 39-22-303 (8)(b)(II), less any amount
+deducted under section 250 (a)(1)(B) of the internal revenue code with
+respect to such global intangible low-taxed income.
+SECTION 4. Safety clause. The general assembly finds,
+determines, and declares that this act is necessary for the immediate
+preservation of the public peace, health, or safety or for appropriations for
+PAGE 4-HOUSE BILL 25B-1002
+
+the support and maintenance of the departments of the state and state
+institutions.
+____________________________ ____________________________
+Julie McCluskie James Rashad Coleman, Sr.
+SPEAKER OF THE HOUSE PRESIDENT OF
+OF REPRESENTATIVES THE SENATE
+____________________________ ____________________________
+Connor Randall Esther van Mourik
+ACTING CHIEF CLERK OF THE HOUSE SECRETARY OF
+OF REPRESENTATIVES THE SENATE
+APPROVED________________________________________
+(Date and Time)
+_________________________________________
+Jared S. Polis
+GOVERNOR OF THE STATE OF COLORADO
+PAGE 5-HOUSE BILL 25B-1002
+
+[DELETED:  S B A B C D E J H J K M J R C I T R T F t a r t f j t a u b ]
+[DELETED:   T c o l j w d t d a r i t f d e ( t d f t y b a i f s i t p i t e t  A r g r f t F d]
+[DELETED: ,,FJ1 A  B B B B V I CF A,2, ( T J L I SNO T A O OG E O RD IK,RI,L,SS  IFJ1 AND  0]
+[DELETED:  4  S c T g a f a d t t a i n f t i]
+[DELETED:  s a m o t d o t s a s__EPST _lEESST]

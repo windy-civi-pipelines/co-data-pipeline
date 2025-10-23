@@ -1,0 +1,181 @@
+Title: LLS NO. 25B-0018.01 Yelana Love x2295 HOUSE BILL 25B-1010
+Official Title: LLS NO. 25B-0018.01 Yelana Love x2295 HOUSE BILL 25B-1010
+Number of Sections: 1
+Source: versions - Introduced (08/21/2025)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+HOUSE SPONSORSHIP
+English and Joseph,
+SENATE SPONSORSHIP
+Exum,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING CONTINUITY OF CARE FOR DISPROPORTIONATELY
+102 IMPACTED COMMUNITIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires the department of public health and environment
+and the department of health care policy and financing (health
+departments) to jointly issue advisory guidance to health-care providers
+and health-care facilities prohibited from receiving federal medicaid
+financing pursuant to the federal budget bill, H.R. 1 of the 119th
+Congress (2025-2026), on how to prioritize the continuity of care for
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+disproportionately impacted communities, with an emphasis on rural
+areas, communities of color, and low-income populations. The advisory
+guidance must include strategies, within the provider's scope of practice,
+for maintaining access to immunizations, cancer screenings, and family
+planning services for these communities.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration - legislative intent.
+3 (1) The general assembly finds and declares that:
+4 (a) Reductions or changes in federal health-care funding
+5 associated with the federal budget bill, H.R. 1 of the 119th Congress
+6 (2025-2026), Pub.L. 119-21, including the bill's ban on spending
+7 medicaid dollars on services provided by essential community providers,
+8 have the potential to disproportionately harm disproportionately impacted
+9 communities;
+10 (b) These impacts may result in loss of coverage, reduced access
+11 to care, worsened health outcomes, and a strain on community health
+12 systems; and
+13 (c) The state of Colorado must safeguard disproportionately
+14 impacted communities.
+15 (2) It is the intent of the general assembly that the department of
+16 public health and environment and the department of health care policy
+17 and financing carry out the requirements of this act through the use of
+18 existing resources.
+19 SECTION 2. In Colorado Revised Statutes, add 25-1-139 as
+20 follows:
+21 25-1-139. Continuity of care advisory guidance - repeal.
+22 (1) BY DECEMBER 15, 2025, THE DEPARTMENT OF PUBLIC HEALTH AND
+23 ENVIRONMENT, CREATED IN SECTION 25-1-102, AND THE DEPARTMENT OF
+-2- HB25B-1010
+1 HEALTH CARE POLICY AND FINANCING, CREATED IN SECTION 25.5-1-104,
+2 SHALL JOINTLY ISSUE ADVISORY GUIDANCE TO HEALTH-CARE PROVIDERS
+3 AND HEALTH-CARE FACILITIES PROHIBITED FROM RECEIVING FEDERAL
+4 MEDICAID FINANCING PURSUANT TO THE FEDERAL BUDGET BILL, H.R. 1 OF
+5 THE 119TH CONGRESS (2025-2026), PUB.L. 119-21, ON HOW THE
+6 PROVIDERS AND FACILITIES CAN PRIORITIZE THE CONTINUITY OF CARE FOR
+7 DISPROPORTIONATELY IMPACTED COMMUNITIES, WITH AN EMPHASIS ON
+8 RURAL AREAS, COMMUNITIES OF COLOR, AND LOW-INCOME POPULATIONS.
+9 THE ADVISORY GUIDANCE MUST INCLUDE STRATEGIES, WITHIN THE
+10 PROVIDER'S SCOPE OF PRACTICE, FOR MAINTAINING ACCESS TO
+11 IMMUNIZATIONS, CANCER SCREENINGS, AND FAMILY PLANNING SERVICES
+12 FOR THESE COMMUNITIES. A HEALTH-CARE PROVIDER OR HEALTH-CARE
+13 FACILITY DESCRIBED IN THIS SUBSECTION (1) IS ENCOURAGED TO FOLLOW
+14 THE ADVISORY GUIDANCE PROVIDED BY THE DEPARTMENTS.
+15 (2) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2027.
+16 SECTION 3. Safety clause. The general assembly finds,
+17 determines, and declares that this act is necessary for the immediate
+18 preservation of the public peace, health, or safety or for appropriations for
+19 the support and maintenance of the departments of the state and state
+20 institutions.
+-3- HB25B-1010
+[DELETED: sS1 C O C F D2 t t r v o t b w b a a t d o h c p a f ( h f p f r f m p t t f b b H 1 o t 1]
+[DELETED:  i c w a e o rBS 1  L d - l i((  R o c i f h fa( P 1 i t b b o smhc0(1t2s3(  T s o C m s d4i5(6p7a8e9S0f12  C o c a g - r E   2D1,2T   3,2]
+[DELETED: G ,2HC HHC F P F R FL   , T O  UB  O H T19C(,P..1S S R WI,,-T A G M I SS W TRS S O PE F M A T0'S S 1,S  HCHC2.A-  3(45(T,S1,2D  E 6S 3  S c T g a f7d t8p9t0i]
+
+
+================================================================================
+
+Raw Text:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 25B-0018.01 Yelana Love x2295 HOUSE BILL 25B-1010
+HOUSE SPONSORSHIP
+English and Joseph,
+SENATE SPONSORSHIP
+Exum,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING CONTINUITY OF CARE FOR DISPROPORTIONATELY
+102 IMPACTED COMMUNITIES.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill requires the department of public health and environment
+and the department of health care policy and financing (health
+departments) to jointly issue advisory guidance to health-care providers
+and health-care facilities prohibited from receiving federal medicaid
+financing pursuant to the federal budget bill, H.R. 1 of the 119th
+Congress (2025-2026), on how to prioritize the continuity of care for
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+disproportionately impacted communities, with an emphasis on rural
+areas, communities of color, and low-income populations. The advisory
+guidance must include strategies, within the provider's scope of practice,
+for maintaining access to immunizations, cancer screenings, and family
+planning services for these communities.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration - legislative intent.
+3 (1) The general assembly finds and declares that:
+4 (a) Reductions or changes in federal health-care funding
+5 associated with the federal budget bill, H.R. 1 of the 119th Congress
+6 (2025-2026), Pub.L. 119-21, including the bill's ban on spending
+7 medicaid dollars on services provided by essential community providers,
+8 have the potential to disproportionately harm disproportionately impacted
+9 communities;
+10 (b) These impacts may result in loss of coverage, reduced access
+11 to care, worsened health outcomes, and a strain on community health
+12 systems; and
+13 (c) The state of Colorado must safeguard disproportionately
+14 impacted communities.
+15 (2) It is the intent of the general assembly that the department of
+16 public health and environment and the department of health care policy
+17 and financing carry out the requirements of this act through the use of
+18 existing resources.
+19 SECTION 2. In Colorado Revised Statutes, add 25-1-139 as
+20 follows:
+21 25-1-139. Continuity of care advisory guidance - repeal.
+22 (1) BY DECEMBER 15, 2025, THE DEPARTMENT OF PUBLIC HEALTH AND
+23 ENVIRONMENT, CREATED IN SECTION 25-1-102, AND THE DEPARTMENT OF
+-2- HB25B-1010
+
+1 HEALTH CARE POLICY AND FINANCING, CREATED IN SECTION 25.5-1-104,
+2 SHALL JOINTLY ISSUE ADVISORY GUIDANCE TO HEALTH-CARE PROVIDERS
+3 AND HEALTH-CARE FACILITIES PROHIBITED FROM RECEIVING FEDERAL
+4 MEDICAID FINANCING PURSUANT TO THE FEDERAL BUDGET BILL, H.R. 1 OF
+5 THE 119TH CONGRESS (2025-2026), PUB.L. 119-21, ON HOW THE
+6 PROVIDERS AND FACILITIES CAN PRIORITIZE THE CONTINUITY OF CARE FOR
+7 DISPROPORTIONATELY IMPACTED COMMUNITIES, WITH AN EMPHASIS ON
+8 RURAL AREAS, COMMUNITIES OF COLOR, AND LOW-INCOME POPULATIONS.
+9 THE ADVISORY GUIDANCE MUST INCLUDE STRATEGIES, WITHIN THE
+10 PROVIDER'S SCOPE OF PRACTICE, FOR MAINTAINING ACCESS TO
+11 IMMUNIZATIONS, CANCER SCREENINGS, AND FAMILY PLANNING SERVICES
+12 FOR THESE COMMUNITIES. A HEALTH-CARE PROVIDER OR HEALTH-CARE
+13 FACILITY DESCRIBED IN THIS SUBSECTION (1) IS ENCOURAGED TO FOLLOW
+14 THE ADVISORY GUIDANCE PROVIDED BY THE DEPARTMENTS.
+15 (2) THIS SECTION IS REPEALED, EFFECTIVE SEPTEMBER 1, 2027.
+16 SECTION 3. Safety clause. The general assembly finds,
+17 determines, and declares that this act is necessary for the immediate
+18 preservation of the public peace, health, or safety or for appropriations for
+19 the support and maintenance of the departments of the state and state
+20 institutions.
+-3- HB25B-1010
+
+[DELETED: sS1 C O C F D2 t t r v o t b w b a a t d o h c p a f ( h f p f r f m p t t f b b H 1 o t 1]
+[DELETED:  i c w a e o rBS 1  L d - l i((  R o c i f h fa( P 1 i t b b o smhc0(1t2s3(  T s o C m s d4i5(6p7a8e9S0f12  C o c a g - r E   2D1,2T   3,2]
+[DELETED: G ,2HC HHC F P F R FL   , T O  UB  O H T19C(,P..1S S R WI,,-T A G M I SS W TRS S O PE F M A T0'S S 1,S  HCHC2.A-  3(45(T,S1,2D  E 6S 3  S c T g a f7d t8p9t0i]

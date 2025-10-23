@@ -1,0 +1,865 @@
+Title: LLS NO. 25B-0041.01 Jacob Baus x2173 HOUSE BILL 25B-1015
+Official Title: LLS NO. 25B-0041.01 Jacob Baus x2173 HOUSE BILL 25B-1015
+Number of Sections: 1
+Source: versions - Introduced (08/21/2025)
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+HOUSE SPONSORSHIP
+Bradley and Bottoms,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING PROHIBITING STATE REIMBURSEMENT FOR CERTAIN
+102 SERVICES PROVIDED TO CERTAIN INDIVIDUALS, AND, IN
+103 CONNECTION THEREWITH, PROHIBITING REIMBURSEMENT FOR
+104 A PROVIDER WHO, OR ENTITY OR FACILITY THAT, PERFORMS,
+105 ASSISTS, OR REFERS A PERSON TO ABORTION OR
+106 GENDER-AFFIRMING HEALTH-CARE SERVICES AND PROHIBITING
+107 REIMBURSEMENT FOR MEDICAL SERVICES TO A PERSON WHO
+108 DOES NOT SATISFY CERTAIN CITIZENSHIP OR RESIDENCY
+109 REQUIREMENTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits the department of health care policy and
+financing (HCPF) from reimbursing a:
+! Health-care provider who, or entity or facility that,
+performs, assists in the performance of, or refers a person
+to abortion or gender-affirming health-care services; or
+! A health-care provider, entity, or facility for providing
+medical services to a person who does not satisfy
+citizenship or residency requirements.
+The bill makes related conforming amendments.
+Under current law, HCPF administers the reproductive health-care
+program, the state medical assistance program, and the state children's
+basic health plan (collectively, "the programs") to certain individuals who
+are ineligible for the programs due to their immigration status. The bill
+repeals the programs and makes related conforming amendments.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) In order to preserve access to the state's medicaid health
+5 services, Colorado must prioritize essential health-care coverage for the
+6 most vulnerable populations in the state;
+7 (b) Low-income children and families, the elderly, and individuals
+8 with disabilities rely on medicaid as an essential service that is a lifeline;
+9 (c) In pursuit of sustaining long-term funding for the state's
+10 medicaid health services for Colorado citizens, the state must correctly
+11 allocate funding to essential health services that have a direct impact on
+12 Colorado citizens' health;
+13 (d) Health first Colorado, Colorado's medicaid program, should
+14 not cover elective procedures. It should only cover procedures that are
+15 medically necessary for Colorado citizens.
+16 (e) Previously, due to insufficient data, the state was unable to
+-2- HB25B-1015
+1 accurately estimate the costs of Cover All Coloradans, OmniSalud,
+2 abortion, and gender mutilation. These fiscal impacts have led to a large
+3 discrepancy between the estimated costs and the true impact on health
+4 coverage for Colorado citizens.
+5 (f) Now, it is estimated that the state has spent $51 million on
+6 Cover All Coloradans, $90 million on OmniSalud, $6 million on
+7 abortions, and $4.5 million on gender mutilation, totaling over $150
+8 million that could otherwise be spent on Colorado citizens;
+9 (g) While over $150 million is spent on elective procedures for
+10 individuals and health-care coverage for undocumented individuals,
+11 Colorado is anticipating a 28% increase in premiums in 2026; and
+12 (h) Although Amendment 79 permits the use of public funds for
+13 abortion, it does not explicitly require public funds to be used for
+14 abortion.
+15 (2) Therefore, the general assembly declares that state medicaid
+16 funding must not be used for abortion or gender mutilation for an
+17 individual, or health services for an undocumented individual. These
+18 limitations will protect Colorado's commitment to prioritizing and
+19 protecting essential health-care coverage for the most vulnerable
+20 populations in the state and supporting the ethical use of taxpayer dollars
+21 that align with the state's core values.
+22 SECTION 2. In Colorado Revised Statutes, add 25.5-4-415.5 as
+23 follows:
+24 25.5-4-415.5. Prohibition on reimbursement for abortion or
+25 gender-affirming health-care services - prohibition on
+26 reimbursement for medical services to a person who is not lawfully
+27 residing - definitions. (1) AS USED IN THIS SECTION, UNLESS THE
+-3- HB25B-1015
+1 CONTEXT OTHERWISE REQUIRES:
+2 (a) "ABORTION" MEANS ANY MEDICAL PROCEDURE, INSTRUMENT,
+3 AGENT, OR DRUG USED TO TERMINATE THE PREGNANCY OF AN INDIVIDUAL
+4 KNOWN OR REASONABLY BELIEVED TO BE PREGNANT WITH AN INTENTION
+5 OTHER THAN TO INCREASE THE PROBABILITY OF A LIVE BIRTH.
+6 (b) "GENDER-AFFIRMING HEALTH-CARE SERVICES" MEANS ANY
+7 DIAGNOSTIC, THERAPEUTIC, PHARMACOLOGICAL, PROCEDURAL, OR OTHER
+8 CARE THAT LEADS TO OR INVOLVES PUBERTY BLOCKERS, CROSS-SEX
+9 HORMONES, OR SURGERY FOR THE PURPOSE OF AFFIRMING A GENDER
+10 OTHER THAN THE PATIENT'S BIOLOGICAL SEX.
+11 (2) NOTWITHSTANDING ANY LAW TO THE CONTRARY, THE STATE
+12 DEPARTMENT SHALL NOT REIMBURSE A HEALTH-CARE PROVIDER WHO, OR
+13 AN ENTITY OR FACILITY THAT, PERFORMS, ASSISTS IN PERFORMING, OR
+14 REFERS A PERSON TO ABORTION OR GENDER-AFFIRMING HEALTH-CARE
+15 SERVICES. THIS SUBSECTION (2) DOES NOT PROHIBIT REIMBURSEMENT FOR
+16 THERAPEUTIC SERVICES THAT ARE NOT FOR THE PURPOSE OF AFFIRMING A
+17 GENDER OTHER THAN THE PERSON'S BIOLOGICAL SEX FOR AN ADULT OR
+18 FOR A PERSON WHO IS UNDER EIGHTEEN YEARS OF AGE IF THE PERSON'S
+19 PARENT OR LEGAL GUARDIAN PROVIDES CONSENT AND GUIDANCE TO THE
+20 THERAPEUTIC SERVICES.
+21 (3) NOTWITHSTANDING ANY LAW TO THE CONTRARY, THE STATE
+22 DEPARTMENT SHALL NOT REIMBURSE A HEALTH-CARE PROVIDER, ENTITY,
+23 OR FACILITY FOR PROVIDING MEDICAL SERVICES TO A PERSON UNLESS THE
+24 PERSON IS A CITIZEN OR NATIONAL OF THE UNITED STATES OR IS
+25 LAWFULLY RESIDING.
+26 SECTION 3. In Colorado Revised Statutes, 24-75-109, repeal
+27 (1)(a.7) and (1)(a.8); and repeal as it will become effective January 1,
+-4- HB25B-1015
+1 2026, (1)(a.9) as follows:
+2 24-75-109. Controller may allow expenditures in excess of
+3 appropriations - limitations - appropriations for subsequent fiscal
+4 year restricted - repeal. (1) For the purpose of closing the state's books,
+5 and subject to the provisions of this section, the controller may, on or
+6 after May 1 of any fiscal year and before the forty-fifth day after the close
+7 thereof, upon approval of the governor, allow any department, institution,
+8 or agency of the state, including any institution of higher education, to
+9 make an expenditure in excess of the amount authorized by an item of
+10 appropriation for such fiscal year if:
+11 (a.7) The overexpenditure is by the department of health care
+12 policy and financing for the state medical assistance program, established
+13 pursuant to section 25.5-2-104; or
+14 (a.8) The overexpenditure is by the department of health care
+15 policy and financing for the state children's basic health plan, established
+16 pursuant to section 25.5-2-105; or
+17 (a.9) The overexpenditure is by the department of health care
+18 policy and financing for abortion care services provided pursuant to
+19 sections 25.5-2-106 and 25.5-8-107 (1)(a)(VI); or
+20 SECTION 4. In Colorado Revised Statutes, 25.5-1-201, repeal
+21 (1)(f.5) as follows:
+22 25.5-1-201. Programs to be administered by the department
+23 of health care policy and financing. (1) The state department shall
+24 administer the following programs and perform the following functions:
+25 (f.5) The reproductive health-care program that provides
+26 reproductive health-care services, as specified in section 25.5-2-103;
+27 SECTION 5. In Colorado Revised Statutes, 25.5-4-201, amend
+-5- HB25B-1015
+1 (1) as follows:
+2 25.5-4-201. Cash system of accounting - financial
+3 administration of medical services premiums - medical programs
+4 administered by department of human services - federal
+5 contributions - rules. (1) The state department shall utilize the cash
+6 system of accounting, as enunciated by the governmental accounting
+7 standards board, regardless of the source of revenues involved, for all
+8 activities of the state department relating to the financial administration
+9 of any nonadministrative expenditure that qualifies for federal financial
+10 participation under Title XIX of the federal "Social Security Act", and for
+11 the administration of the state-funded health and medical care program,
+12 created pursuant to section 25.5-2-104, and for the state children's basic
+13 health plan, created pursuant to section 25.5-2-105, except for
+14 expenditures under the program for the medically indigent, article 3 of
+15 this title 25.5.
+16 SECTION 6. In Colorado Revised Statutes, 25.5-4-412, amend
+17 as it will become effective January 1, 2026, (2)(a)(IV) as follows:
+18 25.5-4-412. Family planning services - family-planning-related
+19 services - rules - definitions. (2) As used in this section, unless the
+20 context otherwise requires:
+21 (a) "Family-planning-related services" means services provided
+22 in a family planning setting as part of or as a follow-up to a family
+23 planning visit, including:
+24 (IV) Any other medical diagnosis, treatment, or preventive service
+25 that is routinely provided pursuant to a family planning visit. including
+26 abortion care.
+27 SECTION 7. In Colorado Revised Statutes, 25.5-4-503, amend
+-6- HB25B-1015
+1 (2) as follows:
+2 25.5-4-503. Waiver applications - authorization. (2) The state
+3 department shall pursue and, if approved, implement a demonstration
+4 waiver that authorizes the state to use federal medical assistance
+5 payments authorized pursuant to section 1903(v) of the federal "Social
+6 Security Act", as amended, in coordination with the division of insurance
+7 to enhance or expand a state-subsidized individual health coverage plan
+8 as defined in section 10-16-1203 (15). and, only if needed to maximize
+9 federal financial participation, for Coloradans receiving state medical
+10 assistance pursuant to section 25.5-2-104 or 25.5-5-201 (6). To the extent
+11 such federal funds are used to enhance or expand a state-subsidized
+12 individual health coverage plan, as defined in section 10-16-1203 (15),
+13 the health insurance affordability enterprise created pursuant to section
+14 10-16-1204 must receive, deposit into the health insurance affordability
+15 cash fund created in section 10-16-1206, and allocate the federal share of
+16 the medical assistance payments pursuant to section 10-16-1205 (2),
+17 subject to any conditions set forth in the approval of the waiver.
+18 SECTION 8. In Colorado Revised Statutes, 25.5-5-103, amend
+19 (3)(a) as follows:
+20 25.5-5-103. Mandated programs with special state provisions
+21 - rules. (3) (a) Emergency medical assistance shall MUST be provided to
+22 any person who is not a citizen of the United States, including
+23 undocumented aliens, aliens who are not qualified aliens, and qualified
+24 aliens who entered the United States on or after August 22, 1996, who has
+25 A QUALIFIED ALIEN WITH an emergency medical condition and meets one
+26 of the categorical requirements set forth in section 25.5-5-101. except that
+27 such persons shall not be required to meet any residency requirement
+-7- HB25B-1015
+1 other than that required by federal law.
+2 SECTION 9. In Colorado Revised Statutes, 25.5-5-201, repeal
+3 (6) as follows:
+4 25.5-5-201. Optional provisions - optional groups - rules.
+5 (6) (a) Beginning no later than January 1, 2025, a pregnant person who
+6 is not a citizen and who is not eligible for medical assistance pursuant to
+7 subsection (4) of this section is eligible to receive medical assistance
+8 pursuant to this subsection (6)(a) if the individual meets the eligibility
+9 requirements other than those related to citizenship and immigration
+10 status.
+11 (b) A pregnant person who is eligible for medical assistance
+12 pursuant to this subsection (6) remains continuously eligible for all
+13 medical services pursuant to the medical assistance program for the
+14 twelve-month postpartum period, so long as eligibility remains in effect
+15 pursuant to subsection (4.5)(a) of this section.
+16 (c) The state department shall seek any necessary federal
+17 approvals to maximize any available federal financial participation in
+18 implementing this subsection (6). Benefits for services obtained pursuant
+19 to this subsection (6) must be provided with only state funds if federal
+20 financial participation is unavailable for such services.
+21 (d) (I) During its 2024 presentation to the joint budget committee
+22 of the general assembly and in its presentation to the health and human
+23 services committee of the senate and the health and insurance committee
+24 of the house of representatives, or any successor committees, at the
+25 hearing held pursuant to section 2-7-203 (2)(a) of the "State Measurement
+26 for Accountable, Responsive, and Transparent (SMART) Government
+27 Act", the state department shall report on its plans and progress in
+-8- HB25B-1015
+1 implementing the coverage expansion created pursuant to this subsection
+2 (6).
+3 (II) Beginning January 1, 2026, and continuing every January
+4 thereafter, the state department, in its presentation to the joint budget
+5 committee of the general assembly and in its presentation to the health
+6 and human services committee of the senate and the health and insurance
+7 committee of the house of representatives, or any successor committees,
+8 at the hearing held pursuant to section 2-7-203 (2)(a) of the "State
+9 Measurement for Accountable, Responsive, and Transparent (SMART)
+10 Government Act", shall report on the cost savings and health
+11 improvements associated with the coverage expansion created pursuant
+12 to this subsection (6).
+13 SECTION 10. In Colorado Revised Statutes, 25.5-5-329, amend
+14 as it will become effective January 1, 2026, (1)(b)(IV) as follows:
+15 25.5-5-329. Family planning services - federal authorization
+16 - rules - definitions. (1) As used in this section, unless the context
+17 otherwise requires:
+18 (b) "Family-planning-related services" means services provided
+19 in a family planning setting as part of or as a follow-up to a family
+20 planning visit, including:
+21 (IV) Any other medical diagnosis, treatment, or preventive service
+22 that is routinely provided pursuant to a family planning visit. including
+23 abortion care.
+24 SECTION 11. In Colorado Revised Statutes, 25.5-5-335, amend
+25 (2)(a), (2)(b), and (7)(b) as follows:
+26 25.5-5-335. Continuous medical coverage for children and
+27 adults feasibility study - federal authorization - rules - report -
+-9- HB25B-1015
+1 definition. (2) At a minimum, the feasibility study must consider the
+2 costs; implementation factors, including county workload, training, and
+3 administrative burdens on the counties, information technology systems,
+4 upgrades, and associated costs; potential health benefits for individuals
+5 and communities, including disadvantaged and marginalized groups;
+6 impacts of increased use of preventive and high-value health services;
+7 administrative savings, including, but not limited to, reducing or
+8 eliminating eligibility processing for populations during the continuous
+9 eligibility period; reductions in administrative turnover and coverage loss;
+10 and, to the extent practicable, social and economic impacts with respect
+11 to the following:
+12 (a) Allowing an eligible child, as defined in this article 5 and
+13 articles 2, 3, 6, and 8 of this title 25.5, including children eligible under
+14 sections 25.5-2-104 and 25.5-2-105, to remain continuously eligible for
+15 medical assistance and the children's basic health plan for twenty-four
+16 months after the last day of the month in which the child was enrolled;
+17 (b) Allowing an eligible child, as defined in this article 5 and
+18 articles 2, 3, 6, and 8 of this title 25.5, including children eligible under
+19 sections 25.5-2-104 and 25.5-2-105 who are less than six years of age, to
+20 remain continuously eligible for medical assistance or the children's basic
+21 health plan without regard to a change in household income until the child
+22 reaches six years of age;
+23 (7) (b) For purposes of seeking federal authorization pursuant to
+24 subsection (7)(a) of this section, an eligible child is, as defined in this
+25 article 5 and articles 2, 3, 6, and 8 of this title 25.5, including a child
+26 eligible pursuant to sections 25.5-2-104 and 25.5-2-105, and must be
+27 under three years of age. An eligible child shall remain continuously
+-10- HB25B-1015
+1 eligible without regard to household income until the eligible child
+2 reaches three years of age; except that a child is no longer eligible and
+3 must be disenrolled from a medical assistance program if the state
+4 department becomes aware that the child has moved out of the state, the
+5 state department or county possesses facts indicating that the family has
+6 requested the child's voluntary disenrollment, the state department
+7 determines eligibility was erroneously granted, or the child is deceased.
+8 SECTION 12. In Colorado Revised Statutes, 25.5-8-103, amend
+9 (4)(a)(I) and (4)(b)(I) as follows:
+10 25.5-8-103. Definitions - rules. As used in this article 8, unless
+11 the context otherwise requires:
+12 (4) "Eligible person" means:
+13 (a) (I) A person who is less than nineteen years of age, who is a
+14 citizen or meets the immigration status requirements set forth in section
+15 25.5-8-109 (6), or 25.5-8-109 (7), whose family income does not exceed
+16 two hundred sixty percent of the federal poverty line, adjusted for family
+17 size, and who is not eligible for medical assistance pursuant to articles 4,
+18 5, and 6 of this title 25.5.
+19 (b) (I) A pregnant person who is a citizen or meets the
+20 immigration status requirements set forth in section 25.5-8-109 (6), or
+21 25.5-8-109 (7), whose family income does not exceed two hundred sixty
+22 percent of the federal poverty line, adjusted for family size, and who is
+23 not eligible for medical assistance pursuant to articles 4, 5, and 6 of this
+24 title 25.5.
+25 SECTION 13. In Colorado Revised Statutes, 25.5-8-107, repeal
+26 (1)(i); and repeal as it will become effective January 1, 2026, (1)(a)(VI)
+27 as follows:
+-11- HB25B-1015
+1 25.5-8-107. Duties of the department - schedule of services -
+2 premiums - copayments - subsidies - purchase of childhood
+3 immunizations. (1) In addition to any other duties pursuant to this article
+4 8, the department has the following duties:
+5 (a) (VI) In addition to the items specified in subsections (1)(a)(I),
+6 (1)(a)(II), (1)(a)(III), and (1)(a)(V) of this section, and any additional
+7 items approved by the medical services board, on and after January 1,
+8 2026, the medical services board shall include abortion care in the
+9 schedule of health-care services for all enrolled pregnant persons.
+10 (i) (I) The department shall develop and implement an outreach
+11 strategy for Coloradans who become eligible for health coverage pursuant
+12 to section 25.5-2-104, 25.5-2-105, 25.5-5-201 (6), or 25.5-8-109 (7). The
+13 state department shall work with stakeholders to develop an outreach
+14 strategy that includes:
+15 (A) Funding for community-based organizations to partner with
+16 the department on outreach;
+17 (B) A method for providing information related to eligibility and
+18 enrollment that can be provided to nonprofit partners, school districts, and
+19 charter schools for outreach purposes; and
+20 (C) At a minimum, providing information related to eligibility and
+21 coverage in English, Spanish, and in each language spoken by at least
+22 two-and-one-half percent of the population of any county who speak
+23 English less than very well, as defined by the United States bureau of the
+24 census American community survey, and who speak the minority
+25 language at home;
+26 (II) Approximately twelve and twenty-four months after
+27 implementation of the strategy required pursuant to subsection (1)(i)(I) of
+-12- HB25B-1015
+1 this section, the department shall convene stakeholders, including directly
+2 impacted individuals, service providers, and advocacy organizations that
+3 are diverse with regard to race, ethnicity, immigration status, sexual
+4 orientation, and gender identity and who are affected by higher rates of
+5 health disparities and inequities. The department shall report on the
+6 outreach and enrollment strategy outcomes, including enrollment of
+7 eligible persons into these programs compared to those persons who are
+8 eligible for coverage, but not enrolled.
+9 SECTION 14. In Colorado Revised Statutes, 25.5-8-109, repeal
+10 (7) as follows:
+11 25.5-8-109. Eligibility - children - pregnant women - rules.
+12 (7) (a) Beginning no later than January 1, 2025, notwithstanding any
+13 other provision of law, the department shall provide benefits pursuant to
+14 this article 8 to a pregnant person who is not a citizen and is not eligible
+15 pursuant to subsection (6) of this section, so long as the pregnant person
+16 meets the eligibility criteria other than those related to citizenship or
+17 immigration status. Eligibility pursuant to this section extends
+18 continuously through the twelve-month postpartum period, so long as
+19 eligibility remains in effect pursuant to subsection (5.5)(a) of this section.
+20 (b) The department shall seek any necessary federal approvals to
+21 maximize any available federal financial participation in implementing
+22 this subsection (7).
+23 (c) (I) During its 2024 presentation to the joint budget committee
+24 of the general assembly and in its presentation to the health and human
+25 services committee of the senate and the health and insurance committee
+26 of the house of representatives, or any successor committees, at the
+27 hearing held pursuant to section 2-7-203 (2)(a) of the "State Measurement
+-13- HB25B-1015
+1 for Accountable, Responsive, and Transparent (SMART) Government
+2 Act", the state department shall report on its plans and progress in
+3 implementing the coverage expansion created pursuant to this subsection
+4 (7).
+5 (II) Beginning January 1, 2026, and continuing every January
+6 thereafter, the state department, in its presentation to the joint budget
+7 committee of the general assembly and in its presentation to the health
+8 and human services committee of the senate and the health and insurance
+9 committee of the house of representatives, or any successor committees,
+10 at the hearing held pursuant to section 2-7-203 (2)(a) of the "State
+11 Measurement for Accountable, Responsive, and Transparent (SMART)
+12 Government Act", shall report on the cost savings and health
+13 improvements associated with the coverage expansion created pursuant
+14 to this subsection (7).
+15 (d) This subsection (7) constitutes state authority within the
+16 meaning of 8 U.S.C. sec. 1621 (d), as that law existed on January 1, 2022.
+17 SECTION 15. In Colorado Revised Statutes, 25.5-8-109.3,
+18 repeal (1) as follows:
+19 25.5-8-109.3. Health services initiatives. (1) To the extent
+20 federal financial participation is available, the department shall design
+21 and implement health service initiatives pursuant to section
+22 2105(a)(1)(D)(ii) of the federal "Social Security Act", as amended, to
+23 provide funding for continuous enrollment for the twelve-month
+24 postpartum period for a person who is enrolled in health-care coverage
+25 pursuant to section 25.5-5-201 (6) or 25.5-8-109 (7).
+26 SECTION 16. In Colorado Revised Statutes, repeal 25.5-2-103,
+27 25.5-2-104, 25.5-2-105, and 25.5-2-106.
+-14- HB25B-1015
+1 SECTION 17. Safety clause. The general assembly finds,
+2 determines, and declares that this act is necessary for the immediate
+3 preservation of the public peace, health, or safety or for appropriations for
+4 the support and maintenance of the departments of the state and state
+5 institutions.
+-15- HB25B-1015
+[DELETED: sS1 P S R F C P T C IS AD I2,H 3O T 4,,S O R A P T A O5RAHC6- N S C C O R9]
+[DELETED:  t t r v o t b w b a a b p t d o h c p a p w o e o f t h p e o f f p s t a p w d n sBSf(  I o t p a t t s m hsm(w(  I p o s l f f t s0m1a2C3(4n5m6(]
+[DELETED: a e t c o C A C Oadc(C A C $ m o O $ m oam(0i a h c f u i1C2(3a i d n e r p f t b u f4a5(6f m n b u f a o g m f a7i8l w p C c t p a9p e h c f t m v0p1t2S3f425g h s - p o6r - d (   U I T SN U T7]
+[DELETED: (A",N E T (G--RAHCS C C L L ,,, T L T O I P BS CSS,S O S F T P O A A GTS0'1(NY HCO 2-T S G 3,,RAHC4-S H  5.T(NS7N801(NY HCR 2-, I A C O N O T N T O I4U56S7(]
+[DELETED: 22ayaatom0a1(2p3p4(5p6p7(8p a f f a c s p p t9s0S1(223o4a5(  T r h p t p6r7S]
+[DELETED: (2  C s o a - faa b d o h s - fcssao0p1t2c3h p c p t s 2 e f4e5t6S7a829s0c1(2i3p4(5t6a7S]
+[DELETED: (2dw t a t s t u f m apStaf0a1s f f a u t e o e a s2i3t415c6t m a p p t s 1 (7s8S9(021-  2a p w i n a c o t U S i3u4a5 6o7s]
+[DELETED: oS(2  O p - o g - r(ispr o t t r t c a i0s1( A p2p t t s ( r c e f a3m s p t t m a p f t4t5p6(  T s d s s a n f7a8i9t0f1(2o3s4o t h o r o a s c a t5h6f7A t s d s r o i p a p i]
+[DELETED: i((tcaca t h h p t s 2 ( o t "M0G A s r o t c s a h1i2t3S4a526-7o8(9i0p1(2t3a4S5(627a f s - f a - r - r ]
+[DELETED: dcaua c i d a m gia s i b n l t r oee0a1t2(3a4s5m6m7(8a9s0r1h2r3(4s5a6e7u]
+[DELETED: e w r t h i u t e crm b d f a m a p i t sdsr t c v d t s ddS(021t2(3(4c526t7s859( (  A p p w i a c o m t0i122p3n4t5S6(7a]
+[DELETED: 2p - c - s - p o ci8((i2 t m s b s i a c i ts0(1s2t3s4s5(6t7(8e9c0(1c2t3E4c A c s a w s t m5l6(  A t a t m a7i]
+[DELETED: tia d w r t r e i s soh d a i T d s r o to a e s o i e oeeS0(122(3o4t5p6m7i s E p t t s e8c9e0(1m2t3(4o5s6o t h o r o a s c a t7h]
+[DELETED: fA t s d s r o i p a p ii((tcac0a t h h p t s 2 ( o t "1M2G A s r o t c s a h3i4t5(  T s ( c s a w t6m7S 1  I C R S 28r92  H s i (  T t e0f1a i h s i p t s223p f f c e f t t4p5p6S72]
+[DELETED: S 1  S c T g a fdpti]
+
+
+================================================================================
+
+Raw Text:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 25B-0041.01 Jacob Baus x2173 HOUSE BILL 25B-1015
+HOUSE SPONSORSHIP
+Bradley and Bottoms,
+SENATE SPONSORSHIP
+(None),
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING PROHIBITING STATE REIMBURSEMENT FOR CERTAIN
+102 SERVICES PROVIDED TO CERTAIN INDIVIDUALS, AND, IN
+103 CONNECTION THEREWITH, PROHIBITING REIMBURSEMENT FOR
+104 A PROVIDER WHO, OR ENTITY OR FACILITY THAT, PERFORMS,
+105 ASSISTS, OR REFERS A PERSON TO ABORTION OR
+106 GENDER-AFFIRMING HEALTH-CARE SERVICES AND PROHIBITING
+107 REIMBURSEMENT FOR MEDICAL SERVICES TO A PERSON WHO
+108 DOES NOT SATISFY CERTAIN CITIZENSHIP OR RESIDENCY
+109 REQUIREMENTS.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The bill prohibits the department of health care policy and
+financing (HCPF) from reimbursing a:
+! Health-care provider who, or entity or facility that,
+performs, assists in the performance of, or refers a person
+to abortion or gender-affirming health-care services; or
+! A health-care provider, entity, or facility for providing
+medical services to a person who does not satisfy
+citizenship or residency requirements.
+The bill makes related conforming amendments.
+Under current law, HCPF administers the reproductive health-care
+program, the state medical assistance program, and the state children's
+basic health plan (collectively, "the programs") to certain individuals who
+are ineligible for the programs due to their immigration status. The bill
+repeals the programs and makes related conforming amendments.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds that:
+4 (a) In order to preserve access to the state's medicaid health
+5 services, Colorado must prioritize essential health-care coverage for the
+6 most vulnerable populations in the state;
+7 (b) Low-income children and families, the elderly, and individuals
+8 with disabilities rely on medicaid as an essential service that is a lifeline;
+9 (c) In pursuit of sustaining long-term funding for the state's
+10 medicaid health services for Colorado citizens, the state must correctly
+11 allocate funding to essential health services that have a direct impact on
+12 Colorado citizens' health;
+13 (d) Health first Colorado, Colorado's medicaid program, should
+14 not cover elective procedures. It should only cover procedures that are
+15 medically necessary for Colorado citizens.
+16 (e) Previously, due to insufficient data, the state was unable to
+-2- HB25B-1015
+
+1 accurately estimate the costs of Cover All Coloradans, OmniSalud,
+2 abortion, and gender mutilation. These fiscal impacts have led to a large
+3 discrepancy between the estimated costs and the true impact on health
+4 coverage for Colorado citizens.
+5 (f) Now, it is estimated that the state has spent $51 million on
+6 Cover All Coloradans, $90 million on OmniSalud, $6 million on
+7 abortions, and $4.5 million on gender mutilation, totaling over $150
+8 million that could otherwise be spent on Colorado citizens;
+9 (g) While over $150 million is spent on elective procedures for
+10 individuals and health-care coverage for undocumented individuals,
+11 Colorado is anticipating a 28% increase in premiums in 2026; and
+12 (h) Although Amendment 79 permits the use of public funds for
+13 abortion, it does not explicitly require public funds to be used for
+14 abortion.
+15 (2) Therefore, the general assembly declares that state medicaid
+16 funding must not be used for abortion or gender mutilation for an
+17 individual, or health services for an undocumented individual. These
+18 limitations will protect Colorado's commitment to prioritizing and
+19 protecting essential health-care coverage for the most vulnerable
+20 populations in the state and supporting the ethical use of taxpayer dollars
+21 that align with the state's core values.
+22 SECTION 2. In Colorado Revised Statutes, add 25.5-4-415.5 as
+23 follows:
+24 25.5-4-415.5. Prohibition on reimbursement for abortion or
+25 gender-affirming health-care services - prohibition on
+26 reimbursement for medical services to a person who is not lawfully
+27 residing - definitions. (1) AS USED IN THIS SECTION, UNLESS THE
+-3- HB25B-1015
+
+1 CONTEXT OTHERWISE REQUIRES:
+2 (a) "ABORTION" MEANS ANY MEDICAL PROCEDURE, INSTRUMENT,
+3 AGENT, OR DRUG USED TO TERMINATE THE PREGNANCY OF AN INDIVIDUAL
+4 KNOWN OR REASONABLY BELIEVED TO BE PREGNANT WITH AN INTENTION
+5 OTHER THAN TO INCREASE THE PROBABILITY OF A LIVE BIRTH.
+6 (b) "GENDER-AFFIRMING HEALTH-CARE SERVICES" MEANS ANY
+7 DIAGNOSTIC, THERAPEUTIC, PHARMACOLOGICAL, PROCEDURAL, OR OTHER
+8 CARE THAT LEADS TO OR INVOLVES PUBERTY BLOCKERS, CROSS-SEX
+9 HORMONES, OR SURGERY FOR THE PURPOSE OF AFFIRMING A GENDER
+10 OTHER THAN THE PATIENT'S BIOLOGICAL SEX.
+11 (2) NOTWITHSTANDING ANY LAW TO THE CONTRARY, THE STATE
+12 DEPARTMENT SHALL NOT REIMBURSE A HEALTH-CARE PROVIDER WHO, OR
+13 AN ENTITY OR FACILITY THAT, PERFORMS, ASSISTS IN PERFORMING, OR
+14 REFERS A PERSON TO ABORTION OR GENDER-AFFIRMING HEALTH-CARE
+15 SERVICES. THIS SUBSECTION (2) DOES NOT PROHIBIT REIMBURSEMENT FOR
+16 THERAPEUTIC SERVICES THAT ARE NOT FOR THE PURPOSE OF AFFIRMING A
+17 GENDER OTHER THAN THE PERSON'S BIOLOGICAL SEX FOR AN ADULT OR
+18 FOR A PERSON WHO IS UNDER EIGHTEEN YEARS OF AGE IF THE PERSON'S
+19 PARENT OR LEGAL GUARDIAN PROVIDES CONSENT AND GUIDANCE TO THE
+20 THERAPEUTIC SERVICES.
+21 (3) NOTWITHSTANDING ANY LAW TO THE CONTRARY, THE STATE
+22 DEPARTMENT SHALL NOT REIMBURSE A HEALTH-CARE PROVIDER, ENTITY,
+23 OR FACILITY FOR PROVIDING MEDICAL SERVICES TO A PERSON UNLESS THE
+24 PERSON IS A CITIZEN OR NATIONAL OF THE UNITED STATES OR IS
+25 LAWFULLY RESIDING.
+26 SECTION 3. In Colorado Revised Statutes, 24-75-109, repeal
+27 (1)(a.7) and (1)(a.8); and repeal as it will become effective January 1,
+-4- HB25B-1015
+
+1 2026, (1)(a.9) as follows:
+2 24-75-109. Controller may allow expenditures in excess of
+3 appropriations - limitations - appropriations for subsequent fiscal
+4 year restricted - repeal. (1) For the purpose of closing the state's books,
+5 and subject to the provisions of this section, the controller may, on or
+6 after May 1 of any fiscal year and before the forty-fifth day after the close
+7 thereof, upon approval of the governor, allow any department, institution,
+8 or agency of the state, including any institution of higher education, to
+9 make an expenditure in excess of the amount authorized by an item of
+10 appropriation for such fiscal year if:
+11 (a.7) The overexpenditure is by the department of health care
+12 policy and financing for the state medical assistance program, established
+13 pursuant to section 25.5-2-104; or
+14 (a.8) The overexpenditure is by the department of health care
+15 policy and financing for the state children's basic health plan, established
+16 pursuant to section 25.5-2-105; or
+17 (a.9) The overexpenditure is by the department of health care
+18 policy and financing for abortion care services provided pursuant to
+19 sections 25.5-2-106 and 25.5-8-107 (1)(a)(VI); or
+20 SECTION 4. In Colorado Revised Statutes, 25.5-1-201, repeal
+21 (1)(f.5) as follows:
+22 25.5-1-201. Programs to be administered by the department
+23 of health care policy and financing. (1) The state department shall
+24 administer the following programs and perform the following functions:
+25 (f.5) The reproductive health-care program that provides
+26 reproductive health-care services, as specified in section 25.5-2-103;
+27 SECTION 5. In Colorado Revised Statutes, 25.5-4-201, amend
+-5- HB25B-1015
+
+1 (1) as follows:
+2 25.5-4-201. Cash system of accounting - financial
+3 administration of medical services premiums - medical programs
+4 administered by department of human services - federal
+5 contributions - rules. (1) The state department shall utilize the cash
+6 system of accounting, as enunciated by the governmental accounting
+7 standards board, regardless of the source of revenues involved, for all
+8 activities of the state department relating to the financial administration
+9 of any nonadministrative expenditure that qualifies for federal financial
+10 participation under Title XIX of the federal "Social Security Act", and for
+11 the administration of the state-funded health and medical care program,
+12 created pursuant to section 25.5-2-104, and for the state children's basic
+13 health plan, created pursuant to section 25.5-2-105, except for
+14 expenditures under the program for the medically indigent, article 3 of
+15 this title 25.5.
+16 SECTION 6. In Colorado Revised Statutes, 25.5-4-412, amend
+17 as it will become effective January 1, 2026, (2)(a)(IV) as follows:
+18 25.5-4-412. Family planning services - family-planning-related
+19 services - rules - definitions. (2) As used in this section, unless the
+20 context otherwise requires:
+21 (a) "Family-planning-related services" means services provided
+22 in a family planning setting as part of or as a follow-up to a family
+23 planning visit, including:
+24 (IV) Any other medical diagnosis, treatment, or preventive service
+25 that is routinely provided pursuant to a family planning visit. including
+26 abortion care.
+27 SECTION 7. In Colorado Revised Statutes, 25.5-4-503, amend
+-6- HB25B-1015
+
+1 (2) as follows:
+2 25.5-4-503. Waiver applications - authorization. (2) The state
+3 department shall pursue and, if approved, implement a demonstration
+4 waiver that authorizes the state to use federal medical assistance
+5 payments authorized pursuant to section 1903(v) of the federal "Social
+6 Security Act", as amended, in coordination with the division of insurance
+7 to enhance or expand a state-subsidized individual health coverage plan
+8 as defined in section 10-16-1203 (15). and, only if needed to maximize
+9 federal financial participation, for Coloradans receiving state medical
+10 assistance pursuant to section 25.5-2-104 or 25.5-5-201 (6). To the extent
+11 such federal funds are used to enhance or expand a state-subsidized
+12 individual health coverage plan, as defined in section 10-16-1203 (15),
+13 the health insurance affordability enterprise created pursuant to section
+14 10-16-1204 must receive, deposit into the health insurance affordability
+15 cash fund created in section 10-16-1206, and allocate the federal share of
+16 the medical assistance payments pursuant to section 10-16-1205 (2),
+17 subject to any conditions set forth in the approval of the waiver.
+18 SECTION 8. In Colorado Revised Statutes, 25.5-5-103, amend
+19 (3)(a) as follows:
+20 25.5-5-103. Mandated programs with special state provisions
+21 - rules. (3) (a) Emergency medical assistance shall MUST be provided to
+22 any person who is not a citizen of the United States, including
+23 undocumented aliens, aliens who are not qualified aliens, and qualified
+24 aliens who entered the United States on or after August 22, 1996, who has
+25 A QUALIFIED ALIEN WITH an emergency medical condition and meets one
+26 of the categorical requirements set forth in section 25.5-5-101. except that
+27 such persons shall not be required to meet any residency requirement
+-7- HB25B-1015
+
+1 other than that required by federal law.
+2 SECTION 9. In Colorado Revised Statutes, 25.5-5-201, repeal
+3 (6) as follows:
+4 25.5-5-201. Optional provisions - optional groups - rules.
+5 (6) (a) Beginning no later than January 1, 2025, a pregnant person who
+6 is not a citizen and who is not eligible for medical assistance pursuant to
+7 subsection (4) of this section is eligible to receive medical assistance
+8 pursuant to this subsection (6)(a) if the individual meets the eligibility
+9 requirements other than those related to citizenship and immigration
+10 status.
+11 (b) A pregnant person who is eligible for medical assistance
+12 pursuant to this subsection (6) remains continuously eligible for all
+13 medical services pursuant to the medical assistance program for the
+14 twelve-month postpartum period, so long as eligibility remains in effect
+15 pursuant to subsection (4.5)(a) of this section.
+16 (c) The state department shall seek any necessary federal
+17 approvals to maximize any available federal financial participation in
+18 implementing this subsection (6). Benefits for services obtained pursuant
+19 to this subsection (6) must be provided with only state funds if federal
+20 financial participation is unavailable for such services.
+21 (d) (I) During its 2024 presentation to the joint budget committee
+22 of the general assembly and in its presentation to the health and human
+23 services committee of the senate and the health and insurance committee
+24 of the house of representatives, or any successor committees, at the
+25 hearing held pursuant to section 2-7-203 (2)(a) of the "State Measurement
+26 for Accountable, Responsive, and Transparent (SMART) Government
+27 Act", the state department shall report on its plans and progress in
+-8- HB25B-1015
+
+1 implementing the coverage expansion created pursuant to this subsection
+2 (6).
+3 (II) Beginning January 1, 2026, and continuing every January
+4 thereafter, the state department, in its presentation to the joint budget
+5 committee of the general assembly and in its presentation to the health
+6 and human services committee of the senate and the health and insurance
+7 committee of the house of representatives, or any successor committees,
+8 at the hearing held pursuant to section 2-7-203 (2)(a) of the "State
+9 Measurement for Accountable, Responsive, and Transparent (SMART)
+10 Government Act", shall report on the cost savings and health
+11 improvements associated with the coverage expansion created pursuant
+12 to this subsection (6).
+13 SECTION 10. In Colorado Revised Statutes, 25.5-5-329, amend
+14 as it will become effective January 1, 2026, (1)(b)(IV) as follows:
+15 25.5-5-329. Family planning services - federal authorization
+16 - rules - definitions. (1) As used in this section, unless the context
+17 otherwise requires:
+18 (b) "Family-planning-related services" means services provided
+19 in a family planning setting as part of or as a follow-up to a family
+20 planning visit, including:
+21 (IV) Any other medical diagnosis, treatment, or preventive service
+22 that is routinely provided pursuant to a family planning visit. including
+23 abortion care.
+24 SECTION 11. In Colorado Revised Statutes, 25.5-5-335, amend
+25 (2)(a), (2)(b), and (7)(b) as follows:
+26 25.5-5-335. Continuous medical coverage for children and
+27 adults feasibility study - federal authorization - rules - report -
+-9- HB25B-1015
+
+1 definition. (2) At a minimum, the feasibility study must consider the
+2 costs; implementation factors, including county workload, training, and
+3 administrative burdens on the counties, information technology systems,
+4 upgrades, and associated costs; potential health benefits for individuals
+5 and communities, including disadvantaged and marginalized groups;
+6 impacts of increased use of preventive and high-value health services;
+7 administrative savings, including, but not limited to, reducing or
+8 eliminating eligibility processing for populations during the continuous
+9 eligibility period; reductions in administrative turnover and coverage loss;
+10 and, to the extent practicable, social and economic impacts with respect
+11 to the following:
+12 (a) Allowing an eligible child, as defined in this article 5 and
+13 articles 2, 3, 6, and 8 of this title 25.5, including children eligible under
+14 sections 25.5-2-104 and 25.5-2-105, to remain continuously eligible for
+15 medical assistance and the children's basic health plan for twenty-four
+16 months after the last day of the month in which the child was enrolled;
+17 (b) Allowing an eligible child, as defined in this article 5 and
+18 articles 2, 3, 6, and 8 of this title 25.5, including children eligible under
+19 sections 25.5-2-104 and 25.5-2-105 who are less than six years of age, to
+20 remain continuously eligible for medical assistance or the children's basic
+21 health plan without regard to a change in household income until the child
+22 reaches six years of age;
+23 (7) (b) For purposes of seeking federal authorization pursuant to
+24 subsection (7)(a) of this section, an eligible child is, as defined in this
+25 article 5 and articles 2, 3, 6, and 8 of this title 25.5, including a child
+26 eligible pursuant to sections 25.5-2-104 and 25.5-2-105, and must be
+27 under three years of age. An eligible child shall remain continuously
+-10- HB25B-1015
+
+1 eligible without regard to household income until the eligible child
+2 reaches three years of age; except that a child is no longer eligible and
+3 must be disenrolled from a medical assistance program if the state
+4 department becomes aware that the child has moved out of the state, the
+5 state department or county possesses facts indicating that the family has
+6 requested the child's voluntary disenrollment, the state department
+7 determines eligibility was erroneously granted, or the child is deceased.
+8 SECTION 12. In Colorado Revised Statutes, 25.5-8-103, amend
+9 (4)(a)(I) and (4)(b)(I) as follows:
+10 25.5-8-103. Definitions - rules. As used in this article 8, unless
+11 the context otherwise requires:
+12 (4) "Eligible person" means:
+13 (a) (I) A person who is less than nineteen years of age, who is a
+14 citizen or meets the immigration status requirements set forth in section
+15 25.5-8-109 (6), or 25.5-8-109 (7), whose family income does not exceed
+16 two hundred sixty percent of the federal poverty line, adjusted for family
+17 size, and who is not eligible for medical assistance pursuant to articles 4,
+18 5, and 6 of this title 25.5.
+19 (b) (I) A pregnant person who is a citizen or meets the
+20 immigration status requirements set forth in section 25.5-8-109 (6), or
+21 25.5-8-109 (7), whose family income does not exceed two hundred sixty
+22 percent of the federal poverty line, adjusted for family size, and who is
+23 not eligible for medical assistance pursuant to articles 4, 5, and 6 of this
+24 title 25.5.
+25 SECTION 13. In Colorado Revised Statutes, 25.5-8-107, repeal
+26 (1)(i); and repeal as it will become effective January 1, 2026, (1)(a)(VI)
+27 as follows:
+-11- HB25B-1015
+
+1 25.5-8-107. Duties of the department - schedule of services -
+2 premiums - copayments - subsidies - purchase of childhood
+3 immunizations. (1) In addition to any other duties pursuant to this article
+4 8, the department has the following duties:
+5 (a) (VI) In addition to the items specified in subsections (1)(a)(I),
+6 (1)(a)(II), (1)(a)(III), and (1)(a)(V) of this section, and any additional
+7 items approved by the medical services board, on and after January 1,
+8 2026, the medical services board shall include abortion care in the
+9 schedule of health-care services for all enrolled pregnant persons.
+10 (i) (I) The department shall develop and implement an outreach
+11 strategy for Coloradans who become eligible for health coverage pursuant
+12 to section 25.5-2-104, 25.5-2-105, 25.5-5-201 (6), or 25.5-8-109 (7). The
+13 state department shall work with stakeholders to develop an outreach
+14 strategy that includes:
+15 (A) Funding for community-based organizations to partner with
+16 the department on outreach;
+17 (B) A method for providing information related to eligibility and
+18 enrollment that can be provided to nonprofit partners, school districts, and
+19 charter schools for outreach purposes; and
+20 (C) At a minimum, providing information related to eligibility and
+21 coverage in English, Spanish, and in each language spoken by at least
+22 two-and-one-half percent of the population of any county who speak
+23 English less than very well, as defined by the United States bureau of the
+24 census American community survey, and who speak the minority
+25 language at home;
+26 (II) Approximately twelve and twenty-four months after
+27 implementation of the strategy required pursuant to subsection (1)(i)(I) of
+-12- HB25B-1015
+
+1 this section, the department shall convene stakeholders, including directly
+2 impacted individuals, service providers, and advocacy organizations that
+3 are diverse with regard to race, ethnicity, immigration status, sexual
+4 orientation, and gender identity and who are affected by higher rates of
+5 health disparities and inequities. The department shall report on the
+6 outreach and enrollment strategy outcomes, including enrollment of
+7 eligible persons into these programs compared to those persons who are
+8 eligible for coverage, but not enrolled.
+9 SECTION 14. In Colorado Revised Statutes, 25.5-8-109, repeal
+10 (7) as follows:
+11 25.5-8-109. Eligibility - children - pregnant women - rules.
+12 (7) (a) Beginning no later than January 1, 2025, notwithstanding any
+13 other provision of law, the department shall provide benefits pursuant to
+14 this article 8 to a pregnant person who is not a citizen and is not eligible
+15 pursuant to subsection (6) of this section, so long as the pregnant person
+16 meets the eligibility criteria other than those related to citizenship or
+17 immigration status. Eligibility pursuant to this section extends
+18 continuously through the twelve-month postpartum period, so long as
+19 eligibility remains in effect pursuant to subsection (5.5)(a) of this section.
+20 (b) The department shall seek any necessary federal approvals to
+21 maximize any available federal financial participation in implementing
+22 this subsection (7).
+23 (c) (I) During its 2024 presentation to the joint budget committee
+24 of the general assembly and in its presentation to the health and human
+25 services committee of the senate and the health and insurance committee
+26 of the house of representatives, or any successor committees, at the
+27 hearing held pursuant to section 2-7-203 (2)(a) of the "State Measurement
+-13- HB25B-1015
+
+1 for Accountable, Responsive, and Transparent (SMART) Government
+2 Act", the state department shall report on its plans and progress in
+3 implementing the coverage expansion created pursuant to this subsection
+4 (7).
+5 (II) Beginning January 1, 2026, and continuing every January
+6 thereafter, the state department, in its presentation to the joint budget
+7 committee of the general assembly and in its presentation to the health
+8 and human services committee of the senate and the health and insurance
+9 committee of the house of representatives, or any successor committees,
+10 at the hearing held pursuant to section 2-7-203 (2)(a) of the "State
+11 Measurement for Accountable, Responsive, and Transparent (SMART)
+12 Government Act", shall report on the cost savings and health
+13 improvements associated with the coverage expansion created pursuant
+14 to this subsection (7).
+15 (d) This subsection (7) constitutes state authority within the
+16 meaning of 8 U.S.C. sec. 1621 (d), as that law existed on January 1, 2022.
+17 SECTION 15. In Colorado Revised Statutes, 25.5-8-109.3,
+18 repeal (1) as follows:
+19 25.5-8-109.3. Health services initiatives. (1) To the extent
+20 federal financial participation is available, the department shall design
+21 and implement health service initiatives pursuant to section
+22 2105(a)(1)(D)(ii) of the federal "Social Security Act", as amended, to
+23 provide funding for continuous enrollment for the twelve-month
+24 postpartum period for a person who is enrolled in health-care coverage
+25 pursuant to section 25.5-5-201 (6) or 25.5-8-109 (7).
+26 SECTION 16. In Colorado Revised Statutes, repeal 25.5-2-103,
+27 25.5-2-104, 25.5-2-105, and 25.5-2-106.
+-14- HB25B-1015
+
+1 SECTION 17. Safety clause. The general assembly finds,
+2 determines, and declares that this act is necessary for the immediate
+3 preservation of the public peace, health, or safety or for appropriations for
+4 the support and maintenance of the departments of the state and state
+5 institutions.
+-15- HB25B-1015
+
+[DELETED: sS1 P S R F C P T C IS AD I2,H 3O T 4,,S O R A P T A O5RAHC6- N S C C O R9]
+[DELETED:  t t r v o t b w b a a b p t d o h c p a p w o e o f t h p e o f f p s t a p w d n sBSf(  I o t p a t t s m hsm(w(  I p o s l f f t s0m1a2C3(4n5m6(]
+[DELETED: a e t c o C A C Oadc(C A C $ m o O $ m oam(0i a h c f u i1C2(3a i d n e r p f t b u f4a5(6f m n b u f a o g m f a7i8l w p C c t p a9p e h c f t m v0p1t2S3f425g h s - p o6r - d (   U I T SN U T7]
+[DELETED: (A",N E T (G--RAHCS C C L L ,,, T L T O I P BS CSS,S O S F T P O A A GTS0'1(NY HCO 2-T S G 3,,RAHC4-S H  5.T(NS7N801(NY HCR 2-, I A C O N O T N T O I4U56S7(]
+[DELETED: 22ayaatom0a1(2p3p4(5p6p7(8p a f f a c s p p t9s0S1(223o4a5(  T r h p t p6r7S]
+[DELETED: (2  C s o a - faa b d o h s - fcssao0p1t2c3h p c p t s 2 e f4e5t6S7a829s0c1(2i3p4(5t6a7S]
+[DELETED: (2dw t a t s t u f m apStaf0a1s f f a u t e o e a s2i3t415c6t m a p p t s 1 (7s8S9(021-  2a p w i n a c o t U S i3u4a5 6o7s]
+[DELETED: oS(2  O p - o g - r(ispr o t t r t c a i0s1( A p2p t t s ( r c e f a3m s p t t m a p f t4t5p6(  T s d s s a n f7a8i9t0f1(2o3s4o t h o r o a s c a t5h6f7A t s d s r o i p a p i]
+[DELETED: i((tcaca t h h p t s 2 ( o t "M0G A s r o t c s a h1i2t3S4a526-7o8(9i0p1(2t3a4S5(627a f s - f a - r - r ]
+[DELETED: dcaua c i d a m gia s i b n l t r oee0a1t2(3a4s5m6m7(8a9s0r1h2r3(4s5a6e7u]
+[DELETED: e w r t h i u t e crm b d f a m a p i t sdsr t c v d t s ddS(021t2(3(4c526t7s859( (  A p p w i a c o m t0i122p3n4t5S6(7a]
+[DELETED: 2p - c - s - p o ci8((i2 t m s b s i a c i ts0(1s2t3s4s5(6t7(8e9c0(1c2t3E4c A c s a w s t m5l6(  A t a t m a7i]
+[DELETED: tia d w r t r e i s soh d a i T d s r o to a e s o i e oeeS0(122(3o4t5p6m7i s E p t t s e8c9e0(1m2t3(4o5s6o t h o r o a s c a t7h]
+[DELETED: fA t s d s r o i p a p ii((tcac0a t h h p t s 2 ( o t "1M2G A s r o t c s a h3i4t5(  T s ( c s a w t6m7S 1  I C R S 28r92  H s i (  T t e0f1a i h s i p t s223p f f c e f t t4p5p6S72]
+[DELETED: S 1  S c T g a fdpti]

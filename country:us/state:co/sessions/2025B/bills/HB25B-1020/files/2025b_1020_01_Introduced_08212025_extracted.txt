@@ -1,0 +1,214 @@
+Title: LLS NO. 25B-0028.02 Pierce Lively x2059 HOUSE BILL25B-1020
+Official Title: LLS NO. 25B-0028.02 Pierce Lively x2059 HOUSE BILL25B-1020
+Number of Sections: 1
+Source: versions - Introduced (08/21/2025)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+HOUSE SPONSORSHIP
+Pugliese and Caldwell,
+SENATE SPONSORSHIP
+Pelton B. and Kirkmeyer,
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING ADDITIONS TO THE DEFINITION OF FEDERAL TAXABLE
+102 INCOME FOR PURPOSES OF DETERMINING A TAXPAYER'S STATE
+103 TAXABLE INCOME.
+Bill Summary
+(Note: This summary applies to this resolution as introduced and
+does not reflect any amendments that may be subsequently adopted. If this
+resolution passes third reading in the house of introduction, a resolution
+summary that applies to the reengrossed version of this resolution will be
+available at http://leg.colorado.gov/.)
+For tax years commencing on and after January 1, 2026, current
+law requires taxpayers to add the amount of any overtime compensation
+excluded or deducted from that taxpayer's federal gross income to that
+taxpayer's federal taxable income for purposes of determining the
+taxpayer's state taxable income. The bill repeals this addition and clarifies
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+that this addition is "a tax policy change directly causing a net tax revenue
+gain to any district", so that reinstating this addition requires voter
+approval in advance pursuant to section 20 (4)(a) of article X of the state
+constitution.
+For tax years commencing before January 1, 2026, current law
+requires certain taxpayers to add to their federal taxable income, for
+purposes of determining their state taxable income, an amount equal to
+the federal qualified business income deduction allowed under section
+199A of the federal "Internal Revenue Code of 1986". The bill clarifies
+that extending this tax policy to apply to any tax year commencing on or
+after January 1, 2026, would be "a tax policy change directly causing a
+net tax revenue gain to any district" and requires voter approval in
+advance pursuant to section 20 (4)(a) of article X of the state constitution.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) The state of Colorado is currently facing a budgetary structural
+5 deficit that the office of state planning and budgeting has projected will
+6 be $783 million for state fiscal year 2025-26;
+7 (b) The structural deficit does not allow the general assembly to
+8 disregard the state constitution or violate the rights of Colorado taxpayers;
+9 (c) Section 20 (4)(a) of article X of the state constitution requires
+10 the state to obtain voter approval in advance of a tax policy change
+11 directly causing a net tax revenue gain to any district;
+12 (d) Accordingly, the general assembly shall not enact a bill that
+13 would require an addition to a taxpayer's federal taxable income for
+14 purposes of determining the taxpayer's state taxable income without
+15 obtaining voter approval in advance for such an addition; and
+16 (e) Doing otherwise would violate section 20 (4)(a) of article X
+17 of the state constitution.
+18 SECTION 2. In Colorado Revised Statutes, 39-22-104, repeal as
+-2- HB25B-1020
+1 it will become effective January 1, 2026, (3)(u); and add (6) as follows:
+2 39-22-104. Income tax imposed on individuals, estates, and
+3 trusts - single rate - report - tax preference performance statement
+4 - legislative declaration - definitions - repeal. (3) There shall be added
+5 to the federal taxable income:
+6 (u) The amount of any overtime compensation excluded or
+7 deducted from federal gross income.
+8 (6) (a) THE ADDITION TO FEDERAL TAXABLE INCOME OF AN
+9 AMOUNT EQUAL TO THE DEDUCTION ALLOWED UNDER SECTION 199A OF
+10 THE INTERNAL REVENUE CODE FOR A TAXPAYER WHO FILES A SINGLE
+11 RETURN AND WHOSE ADJUSTED GROSS INCOME IS GREATER THAN FIVE
+12 HUNDRED THOUSAND DOLLARS, AND FOR TAXPAYERS WHO FILE A JOINT
+13 RETURN AND WHOSE ADJUSTED GROSS INCOME IS GREATER THAN ONE
+14 MILLION DOLLARS, QUALIFIES AS "A TAX POLICY CHANGE DIRECTLY
+15 CAUSING A NET TAX REVENUE GAIN TO ANY DISTRICT" AND EITHER
+16 EXTENDING OR ENACTING THIS ADDITION REQUIRES VOTER APPROVAL IN
+17 ADVANCE PURSUANT TO SECTION 20 (4)(a) OF ARTICLE X OF THE STATE
+18 CONSTITUTION.
+19 (b) THE ADDITION TO FEDERAL TAXABLE INCOME OF THE AMOUNT
+20 OF ANY OVERTIME COMPENSATION EXCLUDED OR DEDUCTED FROM
+21 FEDERAL GROSS INCOME QUALIFIES AS "A TAX POLICY CHANGE DIRECTLY
+22 CAUSING A NET TAX REVENUE GAIN TO ANY DISTRICT" AND REQUIRES
+23 VOTER APPROVAL IN ADVANCE PURSUANT TO SECTION 20 (4)(a) OF
+24 ARTICLE X OF THE STATE CONSTITUTION.
+25 SECTION 3. In Session Laws of Colorado 2025, repeal section
+26 18 of chapter 202.
+27 SECTION 4. Safety clause. The general assembly finds,
+-3- HB25B-1020
+1 determines, and declares that this act is necessary for the immediate
+2 preservation of the public peace, health, or safety or for appropriations for
+3 the support and maintenance of the departments of the state and state
+4 institutions.
+-4- HB25B-1020
+[DELETED: sS1RS23 f t i f p o d t]
+[DELETED:  t a d s t r t a r v t r g t a d a r v a iBSf(db(d(0t i a1d2(3w t a4p o d t t s t i w5o6(7o8S]
+[DELETED: i3t-t(  T a o a o c e od( (   A T F T I O A  1S 2 DS Q A A T P C D4, A N T R G T A DT A E5 O  72 89( A O C E O D F A1T 2 A I A P T S O32 (  4X5S617S 4  S c T g a f]
+[DELETED: dpti]
+
+
+================================================================================
+
+Raw Text:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 25B-0028.02 Pierce Lively x2059 HOUSE BILL25B-1020
+HOUSE SPONSORSHIP
+Pugliese and Caldwell,
+SENATE SPONSORSHIP
+Pelton B. and Kirkmeyer,
+House Committees Senate Committees
+State, Civic, Military, & Veterans Affairs
+A BILL FOR AN ACT
+101 CONCERNING ADDITIONS TO THE DEFINITION OF FEDERAL TAXABLE
+102 INCOME FOR PURPOSES OF DETERMINING A TAXPAYER'S STATE
+103 TAXABLE INCOME.
+Bill Summary
+(Note: This summary applies to this resolution as introduced and
+does not reflect any amendments that may be subsequently adopted. If this
+resolution passes third reading in the house of introduction, a resolution
+summary that applies to the reengrossed version of this resolution will be
+available at http://leg.colorado.gov/.)
+For tax years commencing on and after January 1, 2026, current
+law requires taxpayers to add the amount of any overtime compensation
+excluded or deducted from that taxpayer's federal gross income to that
+taxpayer's federal taxable income for purposes of determining the
+taxpayer's state taxable income. The bill repeals this addition and clarifies
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+that this addition is "a tax policy change directly causing a net tax revenue
+gain to any district", so that reinstating this addition requires voter
+approval in advance pursuant to section 20 (4)(a) of article X of the state
+constitution.
+For tax years commencing before January 1, 2026, current law
+requires certain taxpayers to add to their federal taxable income, for
+purposes of determining their state taxable income, an amount equal to
+the federal qualified business income deduction allowed under section
+199A of the federal "Internal Revenue Code of 1986". The bill clarifies
+that extending this tax policy to apply to any tax year commencing on or
+after January 1, 2026, would be "a tax policy change directly causing a
+net tax revenue gain to any district" and requires voter approval in
+advance pursuant to section 20 (4)(a) of article X of the state constitution.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) The state of Colorado is currently facing a budgetary structural
+5 deficit that the office of state planning and budgeting has projected will
+6 be $783 million for state fiscal year 2025-26;
+7 (b) The structural deficit does not allow the general assembly to
+8 disregard the state constitution or violate the rights of Colorado taxpayers;
+9 (c) Section 20 (4)(a) of article X of the state constitution requires
+10 the state to obtain voter approval in advance of a tax policy change
+11 directly causing a net tax revenue gain to any district;
+12 (d) Accordingly, the general assembly shall not enact a bill that
+13 would require an addition to a taxpayer's federal taxable income for
+14 purposes of determining the taxpayer's state taxable income without
+15 obtaining voter approval in advance for such an addition; and
+16 (e) Doing otherwise would violate section 20 (4)(a) of article X
+17 of the state constitution.
+18 SECTION 2. In Colorado Revised Statutes, 39-22-104, repeal as
+-2- HB25B-1020
+
+1 it will become effective January 1, 2026, (3)(u); and add (6) as follows:
+2 39-22-104. Income tax imposed on individuals, estates, and
+3 trusts - single rate - report - tax preference performance statement
+4 - legislative declaration - definitions - repeal. (3) There shall be added
+5 to the federal taxable income:
+6 (u) The amount of any overtime compensation excluded or
+7 deducted from federal gross income.
+8 (6) (a) THE ADDITION TO FEDERAL TAXABLE INCOME OF AN
+9 AMOUNT EQUAL TO THE DEDUCTION ALLOWED UNDER SECTION 199A OF
+10 THE INTERNAL REVENUE CODE FOR A TAXPAYER WHO FILES A SINGLE
+11 RETURN AND WHOSE ADJUSTED GROSS INCOME IS GREATER THAN FIVE
+12 HUNDRED THOUSAND DOLLARS, AND FOR TAXPAYERS WHO FILE A JOINT
+13 RETURN AND WHOSE ADJUSTED GROSS INCOME IS GREATER THAN ONE
+14 MILLION DOLLARS, QUALIFIES AS "A TAX POLICY CHANGE DIRECTLY
+15 CAUSING A NET TAX REVENUE GAIN TO ANY DISTRICT" AND EITHER
+16 EXTENDING OR ENACTING THIS ADDITION REQUIRES VOTER APPROVAL IN
+17 ADVANCE PURSUANT TO SECTION 20 (4)(a) OF ARTICLE X OF THE STATE
+18 CONSTITUTION.
+19 (b) THE ADDITION TO FEDERAL TAXABLE INCOME OF THE AMOUNT
+20 OF ANY OVERTIME COMPENSATION EXCLUDED OR DEDUCTED FROM
+21 FEDERAL GROSS INCOME QUALIFIES AS "A TAX POLICY CHANGE DIRECTLY
+22 CAUSING A NET TAX REVENUE GAIN TO ANY DISTRICT" AND REQUIRES
+23 VOTER APPROVAL IN ADVANCE PURSUANT TO SECTION 20 (4)(a) OF
+24 ARTICLE X OF THE STATE CONSTITUTION.
+25 SECTION 3. In Session Laws of Colorado 2025, repeal section
+26 18 of chapter 202.
+27 SECTION 4. Safety clause. The general assembly finds,
+-3- HB25B-1020
+
+1 determines, and declares that this act is necessary for the immediate
+2 preservation of the public peace, health, or safety or for appropriations for
+3 the support and maintenance of the departments of the state and state
+4 institutions.
+-4- HB25B-1020
+
+[DELETED: sS1RS23 f t i f p o d t]
+[DELETED:  t a d s t r t a r v t r g t a d a r v a iBSf(db(d(0t i a1d2(3w t a4p o d t t s t i w5o6(7o8S]
+[DELETED: i3t-t(  T a o a o c e od( (   A T F T I O A  1S 2 DS Q A A T P C D4, A N T R G T A DT A E5 O  72 89( A O C E O D F A1T 2 A I A P T S O32 (  4X5S617S 4  S c T g a f]
+[DELETED: dpti]

@@ -1,0 +1,196 @@
+HB1008_H_APP.002
+HOUSE COMMITTEE OF REFERENCE REPORT
+_______________________________ August 22, 2025
+Chair of Committee Date
+Committee on Appropriations.
+After consideration on the merits, the Committee recommends the
+following:
+HB25B-1008 be amended as follows, and as so amended, be
+referred to the Committee of the Whole with
+favorable recommendation:
+1 Amend printed bill, strike everything below the enacting clause and
+2 substitute:
+3 "SECTION 1. In Colorado Revised Statutes, 6-1-1702, amend
+4 (1), (2) introductory portion, (3)(a), (4)(a) introductory portion, (5)
+5 introductory portion, and (7) as follows:
+6 6-1-1702. Developer duty to avoid algorithmic discrimination
+7 - required documentation. (1) On and after February 1, 2026 OCTOBER
+8 1, 2026, a developer of a high-risk artificial intelligence system shall use
+9 reasonable care to protect consumers from any known or reasonably
+10 foreseeable risks of algorithmic discrimination arising from the intended
+11 and contracted uses of the high-risk artificial intelligence system. In any
+12 enforcement action brought on or after February 1, 2026 OCTOBER 1,
+13 2026, by the attorney general pursuant to section 6-1-1706, there is a
+14 rebuttable presumption that a developer used reasonable care as required
+15 under this section if the developer complied with this section and any
+16 additional requirements or obligations as set forth in rules promulgated
+17 ADOPTED by the attorney general pursuant to section 6-1-1707.
+18 (2) On and after February 1, 2026 OCTOBER 1, 2026, and except
+19 as provided in subsection (6) of this section, a developer of a high-risk
+20 artificial intelligence system shall make available to the deployer or other
+21 developer of the high-risk artificial intelligence system:
+22 (3) (a) Except as provided in subsection (6) of this section, a
+23 developer that offers, sells, leases, licenses, gives, or otherwise makes
+24 available to a deployer or other developer a high-risk artificial
+25 intelligence system on or after February 1, 2026 OCTOBER 1, 2026, shall
+26 make available to the deployer or other developer, to the extent feasible,
+27 the documentation and information, through artifacts such as model cards,
+
+1 dataset cards, or other impact assessments, necessary for a deployer, or
+2 for a third party contracted by a deployer, to complete an impact
+3 assessment pursuant to section 6-1-1703 (3).
+4 (4) (a) On and after February 1, 2026 OCTOBER 1, 2026, a
+5 developer shall make available, in a manner that is clear and readily
+6 available on the developer's website or in a public use case inventory, a
+7 statement summarizing:
+8 (5) On and after February 1, 2026 OCTOBER 1, 2026, a developer
+9 of a high-risk artificial intelligence system shall disclose to the attorney
+10 general, in a form and manner prescribed by the attorney general, and to
+11 all known deployers or other developers of the high-risk artificial
+12 intelligence system, any known or reasonably foreseeable risks of
+13 algorithmic discrimination arising from the intended uses of the high-risk
+14 artificial intelligence system without unreasonable delay but no later than
+15 ninety days after the date on which:
+16 (7) On and after February 1, 2026 OCTOBER 1, 2026, the attorney
+17 general may require that a developer disclose to the attorney general, no
+18 later than ninety days after the request and in a form and manner
+19 prescribed by the attorney general, the statement or documentation
+20 described in subsection (2) of this section. The attorney general may
+21 evaluate such statement or documentation to ensure compliance with this
+22 part 17, and the statement or documentation is not subject to disclosure
+23 under the "Colorado Open Records Act", part 2 of article 72 of title 24.
+24 In a disclosure pursuant to this subsection (7), a developer may designate
+25 the statement or documentation as including proprietary information or
+26 a trade secret. To the extent that any information contained in the
+27 statement or documentation includes information subject to
+28 attorney-client privilege or work-product protection, the disclosure does
+29 not constitute a waiver of the privilege or protection.
+30 SECTION 2. In Colorado Revised Statutes, 6-1-1703, amend (1),
+31 (2)(a) introductory portion, (3)(a), (3)(c), (3)(g), (4)(a) introductory
+32 portion, (4)(b) introductory portion, (5)(a) introductory portion, (7), and
+33 (9) as follows:
+34 6-1-1703. Deployer duty to avoid algorithmic discrimination
+35 - risk management policy and program. (1) On and after February 1,
+36 2026 OCTOBER 1, 2026, a deployer of a high-risk artificial intelligence
+37 system shall use reasonable care to protect consumers from any known or
+38 reasonably foreseeable risks of algorithmic discrimination. In any
+39 enforcement action brought on or after February 1, 2026 OCTOBER 1,
+40 2026, by the attorney general pursuant to section 6-1-1706, there is a
+41 rebuttable presumption that a deployer of a high-risk artificial intelligence
+42 system used reasonable care as required under this section if the deployer
+43 complied with this section and any additional requirements or obligations
+-2-
+
+1 as set forth in rules promulgated ADOPTED by the attorney general
+2 pursuant to section 6-1-1707.
+3 (2) (a) On and after February 1, 2026 OCTOBER 1, 2026, and
+4 except as provided in subsection (6) of this section, a deployer of a
+5 high-risk artificial intelligence system shall implement a risk management
+6 policy and program to govern the deployer's deployment of the high-risk
+7 artificial intelligence system. The risk management policy and program
+8 must specify and incorporate the principles, processes, and personnel that
+9 the deployer uses to identify, document, and mitigate known or
+10 reasonably foreseeable risks of algorithmic discrimination. The risk
+11 management policy and program must be an iterative process planned,
+12 implemented, and regularly and systematically reviewed and updated over
+13 the life cycle of a high-risk artificial intelligence system, requiring
+14 regular, systematic review and updates. A risk management policy and
+15 program implemented and maintained pursuant to this subsection (2) must
+16 be reasonable considering:
+17 (3) (a) Except as provided in subsections (3)(d), (3)(e), and (6) of
+18 this section:
+19 (I) A deployer, or a third party contracted by the deployer, that
+20 deploys a high-risk artificial intelligence system on or after February 1,
+21 2026 OCTOBER 1, 2026, shall complete an impact assessment for the
+22 high-risk artificial intelligence system; and
+23 (II) On and after February 1, 2026 OCTOBER 1, 2026, a deployer,
+24 or a third party contracted by the deployer, shall complete an impact
+25 assessment for a deployed high-risk artificial intelligence system at least
+26 annually and within ninety days after any intentional and substantial
+27 modification to the high-risk artificial intelligence system is made
+28 available.
+29 (c) In addition to the information required under subsection (3)(b)
+30 of this section, an impact assessment completed pursuant to this
+31 subsection (3) following an intentional and substantial modification to a
+32 high-risk artificial intelligence system on or after February 1, 2026
+33 OCTOBER 1, 2026, must include a statement disclosing the extent to which
+34 the high-risk artificial intelligence system was used in a manner that was
+35 consistent with, or varied from, the developer's intended uses of the
+36 high-risk artificial intelligence system.
+37 (g) On or before February 1, 2026 OCTOBER 1, 2026, and at least
+38 annually thereafter, a deployer, or a third party contracted by the deployer,
+39 must review the deployment of each high-risk artificial intelligence
+40 system deployed by the deployer to ensure that the high-risk artificial
+41 intelligence system is not causing algorithmic discrimination.
+42 (4) (a) On and after February 1, 2026 OCTOBER 1, 2026, and no
+43 later than the time that a deployer deploys a high-risk artificial
+-3-
+
+1 intelligence system to make, or be a substantial factor in making, a
+2 consequential decision concerning a consumer, the deployer shall:
+3 (b) On and after February 1, 2026 OCTOBER 1, 2026, a deployer
+4 that has deployed a high-risk artificial intelligence system to make, or be
+5 a substantial factor in making, a consequential decision concerning a
+6 consumer shall, if the consequential decision is adverse to the consumer,
+7 provide to the consumer:
+8 (5) (a) On and after February 1, 2026 OCTOBER 1, 2026, and
+9 except as provided in subsection (6) of this section, a deployer shall make
+10 available, in a manner that is clear and readily available on the deployer's
+11 website, a statement summarizing:
+12 (7) If a deployer deploys a high-risk artificial intelligence system
+13 on or after February 1, 2026 OCTOBER 1, 2026, and subsequently
+14 discovers that the high-risk artificial intelligence system has caused
+15 algorithmic discrimination, the deployer, without unreasonable delay, but
+16 no later than ninety days after the date of the discovery, shall send to the
+17 attorney general, in a form and manner prescribed by the attorney general,
+18 a notice disclosing the discovery.
+19 (9) On and after February 1, 2026 OCTOBER 1, 2026, the attorney
+20 general may require that a deployer, or a third party contracted by the
+21 deployer, disclose to the attorney general, no later than ninety days after
+22 the request and in a form and manner prescribed by the attorney general,
+23 the risk management policy implemented pursuant to subsection (2) of
+24 this section, the impact assessment completed pursuant to subsection (3)
+25 of this section, or the records maintained pursuant to subsection (3)(f) of
+26 this section. The attorney general may evaluate the risk management
+27 policy, impact assessment, or records to ensure compliance with this part
+28 17, and the risk management policy, impact assessment, and records are
+29 not subject to disclosure under the "Colorado Open Records Act", part 2
+30 of article 72 of title 24. In a disclosure pursuant to this subsection (9), a
+31 deployer may designate the statement or documentation as including
+32 proprietary information or a trade secret. To the extent that any
+33 information contained in the risk management policy, impact assessment,
+34 or records includes information subject to attorney-client privilege or
+35 work-product protection, the disclosure does not constitute a waiver of
+36 the privilege or protection.
+37 SECTION 3. In Colorado Revised Statutes, 6-1-1704, amend (1)
+38 as follows:
+39 6-1-1704. Disclosure of an artificial intelligence system to
+40 consumer. (1) On and after February 1, 2026 OCTOBER 1, 2026, and
+41 except as provided in subsection (2) of this section, a deployer or other
+42 developer that deploys, offers, sells, leases, licenses, gives, or otherwise
+43 makes available an artificial intelligence system that is intended to
+-4-
+
+1 interact with consumers shall ensure the disclosure to each consumer who
+2 interacts with the artificial intelligence system that the consumer is
+3 interacting with an artificial intelligence system.
+4 SECTION 4. Act subject to petition - effective date. This act
+5 takes effect at 12:01 a.m. on the day following the expiration of the
+6 ninety-day period after final adjournment of the general assembly; except
+7 that, if a referendum petition is filed pursuant to section 1 (3) of article V
+8 of the state constitution against this act or an item, section, or part of this
+9 act within such period, then the act, item, section, or part will not take
+10 effect unless approved by the people at the general election to be held in
+11 November 2026 and, in such case, will take effect on the date of the
+12 official declaration of the vote thereon by the governor.".
+13 Page 1, line 101, before "CONSUMER" insert "IMPLEMENTING".
+14 Page 1, line 102, strike "SYSTEMS." and substitute "SYSTEMS BEFORE
+15 OCTOBER 1, 2026.".".
+** *** ** *** **
+-5-
+
+[DELETED: _AeD c o t m t C r t8b a a f a a s a b t t C o t W wA p b s e b t e c as"( ( i p ( ( i p (i6-1,2r0f1a2eO1324r5u6a7 8(O1,2 9a0a1d2(3d4a t a d o o d a h a5iO1,2 6m7t]
+[DELETED: df a t p c b a d t c a ia( (  O a a F 1 2 O1,2  das(O1,2 o0g1a k d o o d o t h a2i s a k o r f r o3a4a5n6(O1,2 7g8l t n d a t r a i a f a m9p b t a g t s o d0d1e2p3u4I5t6a t s T t e t a i c i t7s o d i i s t8a9n0S1( i p ( ( ( ( i2p3(465-62O1,2 7s8r f r o a d I a9eO1021r2s3c]
+[DELETED: a s f i r p  b t a gp(O1,2 e a hpamt d u t i d a m k o0r f r o a d T r1m2i3t l c o a h a i s r4r5p6b7(8t9(0d12O1,2 2h3(O1,2 4o5a6a a s7m t t h a i s i m8a9(0o t s a i a c p t t1s2h a i s o o a F 1 23O1 4t5c w o v f t d i u o t6h7(O1,2 8a9m r t d o e h a i0s1i2(O1,2 3l t t t t a d d a h a]
+[DELETED: i s t m o b a s f i m c(O1,2 tacp(O1,2 e0a1w2(3o o a F 1 2 O1,2 a s 4d t t h a i s h c5a6n7a8a9(O1,2 0g1d2t3t4t5o6t7p819n0o1d a2p i o a t s T t e t a3i4o5w6t7S8a96  D o a a i s t0cO1,2 1e2d3m a a a i s t i i t]
+[DELETED: ii w t a i s t t c iiStntoa0e1N2o3P""""RI4P".SS5O1,2 ]

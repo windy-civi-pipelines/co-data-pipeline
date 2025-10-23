@@ -1,0 +1,342 @@
+Title: LLS NO. 25B-0042.01 Clare Haffner x6137 HOUSE BILL 25B-1013
+Official Title: LLS NO. 25B-0042.01 Clare Haffner x6137 HOUSE BILL 25B-1013
+Number of Sections: 1
+Source: versions - Introduced (08/21/2025)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+HOUSE SPONSORSHIP
+Richardson,
+SENATE SPONSORSHIP
+Baisley,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING NARROWING ELIGIBILITY FOR SUBSIDIES ALLOCATED BY
+102 THE HEALTH INSURANCE AFFORDABILITY ENTERPRISE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The health insurance affordability enterprise (enterprise) is
+required to allocate a portion of the enterprise's revenue for subsidies to
+state-subsidized individual health coverage plans purchased by qualified
+individuals. The bill narrows the current definition of "qualified
+individual" by excluding individuals who do not have lawful immigration
+status in the United States and individuals who are ineligible for certain
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+federal health benefits.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Colorado is facing a declared fiscal emergency for the current
+5 state fiscal year, with the office of state planning and budgeting
+6 projecting a deficit of $783 million;
+7 (b) The state's financial condition requires immediate and
+8 responsible action to preserve core services such as education, public
+9 safety, transportation, and health care for documented Colorado citizens;
+10 (c) In times of fiscal crisis, it is necessary and prudent to prioritize
+11 the needs of Colorado citizens and lawfully present residents first,
+12 ensuring that scarce state resources are directed to those who are eligible
+13 for federal cost sharing or otherwise entitled to benefits under state and
+14 federal law;
+15 (d) Current statutes governing the health insurance affordability
+16 enterprise and certain state-only, medicaid-equivalent benefits extend
+17 subsidized health coverage to individuals who are not lawfully present in
+18 the United States, including those who are ineligible for federal medicaid
+19 benefits and federal premium tax credits;
+20 (e) Continuing to provide such subsidies during a budget shortfall
+21 not only diverts tens of millions of dollars annually from legal residents
+22 but also risks policy conflicts that could further endanger federal grant
+23 revenues upon which the state relies for essential programs;
+24 (f) Clarifying statutory eligibility to exclude individuals who are
+25 not lawfully present in the United States will free up significant health
+-2- HB25B-1013
+1 insurance affordability cash fund and general fund dollars, which can then
+2 be directed to:
+3 (I) Reduce or prevent premium increases for eligible Coloradans
+4 in the individual health insurance market;
+5 (II) Maintain coverage for lawfully present residents who are at
+6 risk of losing insurance due to 2026 rate increases; and
+7 (III) Preserve core state services threatened by the current fiscal
+8 shortfall; and
+9 (g) Section III.B.2. of executive order D 2025 009 calls for
+10 "adjustments to the Health Insurance Affordability Enterprise (HIAE) to
+11 facilitate a reduction in premium increases and avoid health insurance
+12 coverage loss for those in the individual market and those unable to
+13 purchase through Connect for Health Colorado", and the changes in this
+14 act are directly responsive to this call by making targeted statutory
+15 adjustments to health insurance affordability enterprise revenue
+16 allocations and by ensuring that resources are focused on eligible
+17 Coloradans in compliance with both the scope of the executive order
+18 calling for an extraordinary session of the general assembly and the state's
+19 fiscal priorities.
+20 (2) The general assembly therefore declares that this act is
+21 necessary to maintain fiscal stability, ensure fairness in the allocation of
+22 scarce public resources, protect the state's federal funding streams, and
+23 prioritize the needs of Colorado citizens and lawfully present residents
+24 during an extraordinary budget crisis.
+25 SECTION 2. Legislative intent. (1) It is the intent of the general
+26 assembly that:
+27 (a) All state-administered health coverage subsidy programs
+-3- HB25B-1013
+1 funded in whole or in part by the health insurance affordability enterprise,
+2 including the SilverEnhanced savings program under OmniSalud, limit
+3 eligibility to individuals who are lawfully present in the United States, as
+4 defined by applicable immigration law and state law;
+5 (b) All state-administered health coverage programs that are
+6 designed to mirror medicaid benefits but are funded solely from
+7 state-revenue sources, including coverage for children and pregnant
+8 individuals not eligible for medicaid matching funds, limit eligibility to
+9 individuals who meet federal medicaid eligibility requirements, unless
+10 otherwise expressly authorized by federal law or federal regulations;
+11 (c) The phrase "qualified individual", as used in sections
+12 10-16-1203 and 10-16-1205, Colorado Revised Statutes, be interpreted
+13 and applied to exclude individuals who are not lawfully present in the
+14 United States and individuals who are ineligible for federal medicaid or
+15 federal premium tax credits, regardless of prior program rules or
+16 administrative practices;
+17 (d) The savings realized from the exclusion of ineligible
+18 individuals from programs funded by the health insurance affordability
+19 enterprise and from state-only health coverage programs be prioritized
+20 for:
+21 (I) Stabilizing premiums and reducing coverage losses in the
+22 individual market for individuals who are lawfully present in the United
+23 States;
+24 (II) Maintaining coverage for eligible Coloradans during the
+25 projected premium increases for plan year 2026 and beyond; and
+26 (III) Supporting other essential state services that are necessary to
+27 protect the health, safety, and welfare of the people of Colorado;
+-4- HB25B-1013
+1 (e) Nothing in this act diminishes or restricts health-care services
+2 to individuals if such services are:
+3 (I) Mandated by federal law regardless of immigration status; or
+4 (II) Provided through private charitable or philanthropic funding
+5 independent of state-administered programs;
+6 (f) State agencies administering health coverage programs take all
+7 necessary steps to ensure program compliance with these eligibility
+8 standards beginning on the effective date of this act, including updating
+9 application processes, eligibility verification systems, program guidance,
+10 and public communications; and
+11 (g) Agencies implement these changes in a manner that minimizes
+12 disruption for lawfully present enrollees and ensures that communications
+13 regarding eligibility determinations are clear, accurate, and accessible to
+14 affected individuals.
+15 (2) It is further the intent of the general assembly that this act be
+16 construed broadly to achieve the fiscal, coverage, and policy goals
+17 described in the legislative declaration and that any ambiguity in
+18 interpretation be resolved in favor of preserving state resources for
+19 citizens and individuals who are lawfully present in the United States
+20 during the current fiscal crisis.
+21 SECTION 3. In Colorado Revised Statutes, 10-16-1203, amend
+22 (12) as follows:
+23 10-16-1203. Definitions. As used in this part 12, unless the
+24 context otherwise requires:
+25 (12) (a) "Qualified individual" means an individual regardless of
+26 immigration status, who:
+27 (a) (I) Is a Colorado resident;
+-5- HB25B-1013
+1 (b) (II) Has a household income of not more than three hundred
+2 percent of the federal poverty line; and
+3 (c) (III) Is not eligible for MEETS FEDERAL ELIGIBILITY
+4 REQUIREMENTS FOR the premium tax credit, medicaid, medicare, or the
+5 children's basic health plan. except for individuals eligible pursuant to
+6 section 25.5-5-201 (6) or section 25.5-8-109 (7).
+7 (b) "QUALIFIED INDIVIDUAL" DOES NOT INCLUDE AN INDIVIDUAL
+8 WHO DOES NOT HAVE LAWFUL IMMIGRATION STATUS IN THE UNITED
+9 STATES.
+10 SECTION 4. Safety clause. The general assembly finds,
+11 determines, and declares that this act is necessary for the immediate
+12 preservation of the public peace, health, or safety or for appropriations for
+13 the support and maintenance of the departments of the state and state
+14 institutions.
+-6- HB25B-1013
+[DELETED: sS12 t t r v o t b w b a a h i a e ( i T b n t c d o "]
+[DELETED: BSf(s f y w t o o s p a bp(  T s f c r i ars0(1t n o C c a l p r f2e3f4f5(6e7s8t9b0(1n2b3r4(5n]
+[DELETED: ib(i(r(s(  S I o e o D 2 0 c f0"1f2c3p4a a d r t t c b m t s5a t h i a e r6a a b e t r a f o e7C8c9f0(  T g a t d t t a i1n2s3p4d5S6a7(  A s h c s p]
+[DELETED: fied(  A s h c p t ad t m m b b a f s fs s i c f c a pii0o1(  T p " i a u i s213a4U5f p t c r o p p r o6a7(  T s r f t e o i8i9e0f1(2i3S4(  M c f e C d t5p6(7p]
+[DELETED: (t((i(n s t e p c w t esa0a1(2d3r4a5(6c b t a t f c a p g7d i t l d a t a a i8i b r i f o p s r f9c0d1S2(31  D A u i t p 1 u t4c6i7(]
+[DELETED: (p( (  I n e f  F E cs(QL  D N H L I S I T NS0S 4  S c T g a f1d2p3t4i]
+
+
+================================================================================
+
+Raw Text:
+First Extraordinary Session
+Seventy-fifth General Assembly
+STATE OF COLORADO
+INTRODUCED
+LLS NO. 25B-0042.01 Clare Haffner x6137 HOUSE BILL 25B-1013
+HOUSE SPONSORSHIP
+Richardson,
+SENATE SPONSORSHIP
+Baisley,
+House Committees Senate Committees
+Health & Human Services
+A BILL FOR AN ACT
+101 CONCERNING NARROWING ELIGIBILITY FOR SUBSIDIES ALLOCATED BY
+102 THE HEALTH INSURANCE AFFORDABILITY ENTERPRISE.
+Bill Summary
+(Note: This summary applies to this bill as introduced and does
+not reflect any amendments that may be subsequently adopted. If this bill
+passes third reading in the house of introduction, a bill summary that
+applies to the reengrossed version of this bill will be available at
+http://leg.colorado.gov.)
+The health insurance affordability enterprise (enterprise) is
+required to allocate a portion of the enterprise's revenue for subsidies to
+state-subsidized individual health coverage plans purchased by qualified
+individuals. The bill narrows the current definition of "qualified
+individual" by excluding individuals who do not have lawful immigration
+status in the United States and individuals who are ineligible for certain
+Shading denotes HOUSE amendment. Double underlining denotes SENATE amendment.
+Capital letters or bold & italic numbers indicate new material to be added to existing law.
+Dashes through the words or numbers indicate deletions from existing law.
+
+federal health benefits.
+1 Be it enacted by the General Assembly of the State of Colorado:
+2 SECTION 1. Legislative declaration. (1) The general assembly
+3 finds and declares that:
+4 (a) Colorado is facing a declared fiscal emergency for the current
+5 state fiscal year, with the office of state planning and budgeting
+6 projecting a deficit of $783 million;
+7 (b) The state's financial condition requires immediate and
+8 responsible action to preserve core services such as education, public
+9 safety, transportation, and health care for documented Colorado citizens;
+10 (c) In times of fiscal crisis, it is necessary and prudent to prioritize
+11 the needs of Colorado citizens and lawfully present residents first,
+12 ensuring that scarce state resources are directed to those who are eligible
+13 for federal cost sharing or otherwise entitled to benefits under state and
+14 federal law;
+15 (d) Current statutes governing the health insurance affordability
+16 enterprise and certain state-only, medicaid-equivalent benefits extend
+17 subsidized health coverage to individuals who are not lawfully present in
+18 the United States, including those who are ineligible for federal medicaid
+19 benefits and federal premium tax credits;
+20 (e) Continuing to provide such subsidies during a budget shortfall
+21 not only diverts tens of millions of dollars annually from legal residents
+22 but also risks policy conflicts that could further endanger federal grant
+23 revenues upon which the state relies for essential programs;
+24 (f) Clarifying statutory eligibility to exclude individuals who are
+25 not lawfully present in the United States will free up significant health
+-2- HB25B-1013
+
+1 insurance affordability cash fund and general fund dollars, which can then
+2 be directed to:
+3 (I) Reduce or prevent premium increases for eligible Coloradans
+4 in the individual health insurance market;
+5 (II) Maintain coverage for lawfully present residents who are at
+6 risk of losing insurance due to 2026 rate increases; and
+7 (III) Preserve core state services threatened by the current fiscal
+8 shortfall; and
+9 (g) Section III.B.2. of executive order D 2025 009 calls for
+10 "adjustments to the Health Insurance Affordability Enterprise (HIAE) to
+11 facilitate a reduction in premium increases and avoid health insurance
+12 coverage loss for those in the individual market and those unable to
+13 purchase through Connect for Health Colorado", and the changes in this
+14 act are directly responsive to this call by making targeted statutory
+15 adjustments to health insurance affordability enterprise revenue
+16 allocations and by ensuring that resources are focused on eligible
+17 Coloradans in compliance with both the scope of the executive order
+18 calling for an extraordinary session of the general assembly and the state's
+19 fiscal priorities.
+20 (2) The general assembly therefore declares that this act is
+21 necessary to maintain fiscal stability, ensure fairness in the allocation of
+22 scarce public resources, protect the state's federal funding streams, and
+23 prioritize the needs of Colorado citizens and lawfully present residents
+24 during an extraordinary budget crisis.
+25 SECTION 2. Legislative intent. (1) It is the intent of the general
+26 assembly that:
+27 (a) All state-administered health coverage subsidy programs
+-3- HB25B-1013
+
+1 funded in whole or in part by the health insurance affordability enterprise,
+2 including the SilverEnhanced savings program under OmniSalud, limit
+3 eligibility to individuals who are lawfully present in the United States, as
+4 defined by applicable immigration law and state law;
+5 (b) All state-administered health coverage programs that are
+6 designed to mirror medicaid benefits but are funded solely from
+7 state-revenue sources, including coverage for children and pregnant
+8 individuals not eligible for medicaid matching funds, limit eligibility to
+9 individuals who meet federal medicaid eligibility requirements, unless
+10 otherwise expressly authorized by federal law or federal regulations;
+11 (c) The phrase "qualified individual", as used in sections
+12 10-16-1203 and 10-16-1205, Colorado Revised Statutes, be interpreted
+13 and applied to exclude individuals who are not lawfully present in the
+14 United States and individuals who are ineligible for federal medicaid or
+15 federal premium tax credits, regardless of prior program rules or
+16 administrative practices;
+17 (d) The savings realized from the exclusion of ineligible
+18 individuals from programs funded by the health insurance affordability
+19 enterprise and from state-only health coverage programs be prioritized
+20 for:
+21 (I) Stabilizing premiums and reducing coverage losses in the
+22 individual market for individuals who are lawfully present in the United
+23 States;
+24 (II) Maintaining coverage for eligible Coloradans during the
+25 projected premium increases for plan year 2026 and beyond; and
+26 (III) Supporting other essential state services that are necessary to
+27 protect the health, safety, and welfare of the people of Colorado;
+-4- HB25B-1013
+
+1 (e) Nothing in this act diminishes or restricts health-care services
+2 to individuals if such services are:
+3 (I) Mandated by federal law regardless of immigration status; or
+4 (II) Provided through private charitable or philanthropic funding
+5 independent of state-administered programs;
+6 (f) State agencies administering health coverage programs take all
+7 necessary steps to ensure program compliance with these eligibility
+8 standards beginning on the effective date of this act, including updating
+9 application processes, eligibility verification systems, program guidance,
+10 and public communications; and
+11 (g) Agencies implement these changes in a manner that minimizes
+12 disruption for lawfully present enrollees and ensures that communications
+13 regarding eligibility determinations are clear, accurate, and accessible to
+14 affected individuals.
+15 (2) It is further the intent of the general assembly that this act be
+16 construed broadly to achieve the fiscal, coverage, and policy goals
+17 described in the legislative declaration and that any ambiguity in
+18 interpretation be resolved in favor of preserving state resources for
+19 citizens and individuals who are lawfully present in the United States
+20 during the current fiscal crisis.
+21 SECTION 3. In Colorado Revised Statutes, 10-16-1203, amend
+22 (12) as follows:
+23 10-16-1203. Definitions. As used in this part 12, unless the
+24 context otherwise requires:
+25 (12) (a) "Qualified individual" means an individual regardless of
+26 immigration status, who:
+27 (a) (I) Is a Colorado resident;
+-5- HB25B-1013
+
+1 (b) (II) Has a household income of not more than three hundred
+2 percent of the federal poverty line; and
+3 (c) (III) Is not eligible for MEETS FEDERAL ELIGIBILITY
+4 REQUIREMENTS FOR the premium tax credit, medicaid, medicare, or the
+5 children's basic health plan. except for individuals eligible pursuant to
+6 section 25.5-5-201 (6) or section 25.5-8-109 (7).
+7 (b) "QUALIFIED INDIVIDUAL" DOES NOT INCLUDE AN INDIVIDUAL
+8 WHO DOES NOT HAVE LAWFUL IMMIGRATION STATUS IN THE UNITED
+9 STATES.
+10 SECTION 4. Safety clause. The general assembly finds,
+11 determines, and declares that this act is necessary for the immediate
+12 preservation of the public peace, health, or safety or for appropriations for
+13 the support and maintenance of the departments of the state and state
+14 institutions.
+-6- HB25B-1013
+
+[DELETED: sS12 t t r v o t b w b a a h i a e ( i T b n t c d o "]
+[DELETED: BSf(s f y w t o o s p a bp(  T s f c r i ars0(1t n o C c a l p r f2e3f4f5(6e7s8t9b0(1n2b3r4(5n]
+[DELETED: ib(i(r(s(  S I o e o D 2 0 c f0"1f2c3p4a a d r t t c b m t s5a t h i a e r6a a b e t r a f o e7C8c9f0(  T g a t d t t a i1n2s3p4d5S6a7(  A s h c s p]
+[DELETED: fied(  A s h c p t ad t m m b b a f s fs s i c f c a pii0o1(  T p " i a u i s213a4U5f p t c r o p p r o6a7(  T s r f t e o i8i9e0f1(2i3S4(  M c f e C d t5p6(7p]
+[DELETED: (t((i(n s t e p c w t esa0a1(2d3r4a5(6c b t a t f c a p g7d i t l d a t a a i8i b r i f o p s r f9c0d1S2(31  D A u i t p 1 u t4c6i7(]
+[DELETED: (p( (  I n e f  F E cs(QL  D N H L I S I T NS0S 4  S c T g a f1d2p3t4i]
