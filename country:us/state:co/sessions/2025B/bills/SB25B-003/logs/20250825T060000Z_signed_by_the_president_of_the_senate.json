@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Signed by the President of the Senate",
+    "date": "2025-08-25T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB25B-003"
+}

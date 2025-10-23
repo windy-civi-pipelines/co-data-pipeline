@@ -1,0 +1,86 @@
+{
+  "2011A": {
+    "name": "2011 Regular Session",
+    "date_folder": "2011-2011"
+  },
+  "2012A": {
+    "name": "2012 Regular Session",
+    "date_folder": "2012-2012"
+  },
+  "2012B": {
+    "name": "2012 First Extraordinary Session",
+    "date_folder": "2012-2012"
+  },
+  "2013A": {
+    "name": "2013 Regular Session",
+    "date_folder": "2013-2013"
+  },
+  "2014A": {
+    "name": "2014 Regular Session",
+    "date_folder": "2014-2014"
+  },
+  "2015A": {
+    "name": "2015 Regular Session",
+    "date_folder": "2015-2015"
+  },
+  "2016A": {
+    "name": "2016 Regular Session",
+    "date_folder": "2016-2016"
+  },
+  "2017A": {
+    "name": "2017 Regular Session",
+    "date_folder": "2017-2017"
+  },
+  "2017B": {
+    "name": "2017 First Extraordinary Session",
+    "date_folder": "2017-2017"
+  },
+  "2018A": {
+    "name": "2018 Regular Session",
+    "date_folder": "2018-2018"
+  },
+  "2019A": {
+    "name": "2019 Regular Session",
+    "date_folder": "2019-2019"
+  },
+  "2020A": {
+    "name": "2020 Regular Session",
+    "date_folder": "2020-2020"
+  },
+  "2020B": {
+    "name": "2020 First Extraordinary Session",
+    "date_folder": "2020-2020"
+  },
+  "2021A": {
+    "name": "2021 Regular Session",
+    "date_folder": "2021-2022"
+  },
+  "2022A": {
+    "name": "2022 Regular Session",
+    "date_folder": "2022-2022"
+  },
+  "2023A": {
+    "name": "2023 Regular Session",
+    "date_folder": "2023-2023"
+  },
+  "2023B": {
+    "name": "2023 First Extraordinary Session",
+    "date_folder": "2023-2023"
+  },
+  "2024A": {
+    "name": "2024 Regular Session",
+    "date_folder": "2024-2024"
+  },
+  "2024B": {
+    "name": "2024 First Extraordinary Session",
+    "date_folder": "2024-2024"
+  },
+  "2025A": {
+    "name": "2025 Regular Session",
+    "date_folder": "2025-2025"
+  },
+  "2025B": {
+    "name": "2025 First Extraordinary Session",
+    "date_folder": "2025-2025"
+  }
+}

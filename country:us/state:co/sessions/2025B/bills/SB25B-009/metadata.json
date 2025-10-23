@@ -1,0 +1,154 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "SB25B-009",
+  "title": "Income Tax Credit Adjustment",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Section 3 of the bill creates a mechanism for temporarily suspending or prorating all income tax credits, excluding the Colorado affordable housing tax credit and the earned income tax credits (income tax credits), based on estimates of the state's revenue. Beginning with the December 2025 quarterly revenue forecast, each quarterly revenue forecast in June, September, or December, and any interim revenue estimate given between quarterly forecasts, must include 2 estimates of the amount of excess state revenues in relation to the income tax credits available. Excess state revenues, for purposes of these estimates, means the total amount of revenue collected by the state during the state fiscal year in excess of the limitation on state fiscal year spending imposed by the Taxpayer's Bill of Rights that voters statewide have not authorized the state to retain and spend, less: The reimbursement to local governments to offset the reduction in property taxes resulting from property tax exemptions for qualifying seniors, veterans with disabilities, and spouses of veterans who died in the line of duty or as a result of a service-related injury or disease; the reimbursement to local governments to offset the reduction in property taxes resulting from the reduced valuation for assessment of qualified-senior primary residences; and any temporary income tax rate reduction in effect. These estimates are:\n\n\nAn estimate of the amount of excess state revenues in the state fiscal year during which the income tax year begins, assuming all income tax credits are available in the following income tax year; and\nAn estimate of the amount of excess state revenues in the state fiscal year during which the income tax year begins, assuming no income tax credits are available in the following income tax year.\n\nThe availability of income tax credits for the applicable income tax year is determined by which of these estimates results in the least amount of excess revenue. If the most recent quarterly June, September, or December revenue forecast, or the most recent interim revenue estimate, shows that:\n\n\n\nThe estimate without income tax credits results in the least amount of excess revenue, then no income tax credits are available for the applicable income tax year; or\nThe estimate with income tax credits results in the least amount of excess revenue, then all income tax credits are available for the applicable income tax year and are prorated so that the maximum total amount of each income tax credit claimed by all taxpayers claiming that credit does not exceed the amount equal to the estimated excess state revenues divided by the total number of income tax credits available during the applicable income tax year.\n\nThe bill also makes the family affordability tax credit nonrefundable beginning in income tax year 2025 ( section 2 ).\nLastly, the bill alters the following refundable income tax credits:\n\n\n\nThe credit for the sale of new, electric-powered lawn equipment for income tax years commencing on or after January 1, 2024, but before January 1, 2027. Under existing law, this credit is allowed to qualified retailers who sell new, electric-powered lawn equipment and offer a discount on the purchase price ( section 4 );\nThe credit for the installation of heat pump technology or a thermal energy network for income tax years commencing on or after January 1, 2024, but before January 1, 2033. Under existing law, this credit is allowed to eligible taxpayers who meet certain industry criteria and install heat pump technology or a thermal energy network, if the eligible taxpayer provides a discount from the amount charged for installation ( section 5 ); and\nThe credit for the sale of new qualified electric bicycles for income tax years commencing on or after January 1, 2024, but before January 1, 2033. Under existing law, this credit is allowed to qualified retailers who sell a qualified electric bicycle and offer a discount on the bicycle purchase price ( section 6 ).\n\nThe bill modifies the 3 income tax credits so that income tax year 2025 is the last tax year that each credit can be claimed as it currently exists and allows the department of revenue (department) to sell the income tax credits in state fiscal year 2025-26 to taxpayers who meet the existing eligibility requirements (qualified taxpayers). In state fiscal year 2025-26, the department is authorized to issue up to $40 million in income tax credit certificates to qualified taxpayers, subject to procedures established by the department. The proceeds of these sales are credited to the general fund. A qualified taxpayer may claim the full amount of tax credit against its income tax liability in income tax year 2030; except that the amount of the credit claimed cannot exceed the taxpayer's income tax liability for a given year. The unused amount of the credit carries forward and may be claimed in subsequent years; except that a credit cannot be carried over to any taxable year that begins after December 31, 2050.\n(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+      "date": "2025-08-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:48:37Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
+      "date": "2025-08-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:48:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Barbara Kirkmeyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Barbara Kirkmeyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Bright",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Scott Bright\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Garcia Sander",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lori Garcia Sander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rose Pugliese",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rose Pugliese\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced (08/21/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/2025b_009_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025b_sb009_s_sa_001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note FN2 (10/07/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/fn/2025b_sb25b-009_f1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN1 (08/21/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/fn/2025b_sb25b-009_00.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/sb25b-009",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:48:37Z"
+  }
+}

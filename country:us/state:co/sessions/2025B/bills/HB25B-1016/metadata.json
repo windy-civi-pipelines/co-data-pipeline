@@ -1,0 +1,149 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HB25B-1016",
+  "title": "Spending Reduction Procedures",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Under existing law, the governor is permitted to, by executive order, suspend or discontinue the functions or services of state government for 3 months when there are not sufficient revenues available to carry on the functions of the state government. The governor may extend the executive order every 3 months. The bill requires the governor to formulate a spending reduction plan (discretionary spending reduction plan) if the governor extends the initial executive order. The governor and the office of state planning and budgeting (OSPB) shall present the discretionary spending reduction plan to the joint budget committee (JBC) at a JBC meeting and consult with the JBC about the plan. The heads of departments included in the discretionary spending reduction plan shall be available at the JBC meeting to respond to questions from the JBC.\n\nUnder existing law, the governor is required to formulate and implement a plan to reduce general fund expenditures (required spending reduction plan) when the governor's regular quarterly revenue estimate indicates that appropriations from the general fund then in effect will result in either using more than one-half of the required amount of general fund reserve (reserve) or the balance of the reserve dropping to below $1 billion. In addition to the regular quarterly revenue estimate trigger, the bill adds as a required spending reduction trigger for the governor that an interim revenue estimate prepared by the governor indicates the same. The bill requires the governor and OSPB to present a required spending reduction plan to the JBC at a JBC meeting and consult with the JBC about the required spending reduction plan before implementing the plan. The heads of departments included in the required spending reduction plan shall be available at the JBC meeting to respond to questions from the JBC.\n\nThe bill requires the director of OSPB and the chief economist of the legislative council staff to present to the JBC any interim revenue estimates made by their respective agencies.\n(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "House Committee on Appropriations Postpone Indefinitely",
+      "date": "2025-08-22T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:48:37Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to Appropriations",
+      "date": "2025-08-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:48:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rick Taggart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rick Taggart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara Kirkmeyer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Barbara Kirkmeyer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced (08/21/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/2025b_1016_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025b_hb1016_h_app_001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note FN2 (09/10/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/fn/2025b_hb25b-1016_f1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN1 (08/21/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/fn/2025b_hb25b-1016_00.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note SA1 (08/21/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/fn/2025b_hb1016_hse.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/hb25b-1016",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:48:37Z"
+  }
+}

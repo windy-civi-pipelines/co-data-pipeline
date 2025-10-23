@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HB25B-1012",
+  "title": "Prescription Drug Benefit Information Transparency",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the \"Prescription Drug Sourcing Transparency and Integrity Act\" to prohibit a pharmacy benefit manager (PBM) or a health-care consultant from knowingly making or disseminating false or misleading statements or claims to an employer, health benefit plan sponsor, or policyholder about the legality or safety of a lawful alternative prescription drug sourcing program.\n\nUpon written request by a self-funded employer or health benefit plan sponsor, a PBM or health-care consultant is required to provide certain cost information for each prescription drug dispensed under the health benefit plan.\n\nA violation of either the prohibition or information-sharing provisions of the bill is an unfair method of competition and unfair or deceptive act or practice in the business of insurance (unfair act or practice). In addition to imposing the existing penalties for engaging in an unfair act or practice, the bill authorizes the commissioner of insurance to impose additional penalties for a violation of the prohibition or information-sharing provisions of the bill in an amount up to $5,000 for a fourth or subsequent violation (additional penalties). Additional penalties collected are credited to the health insurance affordability cash fund to facilitate a reduction in insurance premium increases and to help avoid health insurance coverage loss.\n\nThe prohibition and information-sharing provisions of the bill do not restrict or limit the rights of a self-funded employer or health benefit plan sponsor to purchase prescription drugs through and contract for a lawful alternative prescription drug sourcing program. The bill also recognizes that a pharmacy stewardship program is an effective cost-containment tool and is authorized when implemented in compliance with federal law and with the bill.\n(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "House Committee on Health & Human Services Postpone Indefinitely",
+      "date": "2025-08-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:48:37Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2025-08-21T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:48:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ken DeGraaf",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ken DeGraaf\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced (08/21/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/2025b_1012_01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/2025b_hb1012_h_hhs_001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note FN2 (09/08/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/fn/2025b_hb25b-1012_f1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note FN1 (08/21/2025)",
+      "links": [
+        {
+          "url": "https://leg.colorado.gov/sites/default/files/documents/2025B/bills/fn/2025b_hb25b-1012_00.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/hb25b-1012",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:48:37Z"
+  }
+}

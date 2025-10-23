@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Signed",
+    "date": "2025-08-28T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB25B-1002"
+}

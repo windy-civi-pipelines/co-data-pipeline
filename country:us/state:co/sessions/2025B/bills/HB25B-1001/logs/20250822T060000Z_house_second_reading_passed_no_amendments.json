@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Second Reading Passed - No Amendments",
+    "date": "2025-08-22T06:00:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB25B-1001"
+}
