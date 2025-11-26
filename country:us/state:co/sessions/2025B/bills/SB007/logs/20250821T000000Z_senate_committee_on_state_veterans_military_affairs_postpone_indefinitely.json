@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "State, Veterans, & Military Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 007"
+}

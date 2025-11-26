@@ -1,0 +1,471 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HR 1001",
+  "title": "Condemning the Conduct of Representative Ryan Armagost",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2025-08-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to",
+      "date": "2025-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Bacon",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Bird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Bird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Boesenecker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Brown",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Camacho",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Camacho\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Carter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Carter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Clifford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Clifford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. English",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. English\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Espenoza",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Espenoza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Feret",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Feret\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Froelich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Froelich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Garc\u00eda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Garc\\u00eda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Gilchrist",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Gilchrist\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Hamrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Hamrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Joseph",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Lieder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Lieder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lindsay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Lindstedt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" W. Lindstedt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lukens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lukens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Mabrey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Mabrey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Marshall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" B. Marshall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Martinez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Mauro",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Mauro\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. McCluskie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. McCluskie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Paschal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Paschal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Phillips",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Phillips\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Pugliese",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Pugliese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Rutinel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Rutinel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Sirota",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Sirota\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Story",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Story\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Taggart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Taggart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Titone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" B. Titone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Velasco",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Weinberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Weinberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Willford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Willford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Y. Zokaie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" Y. Zokaie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/2bbd7cd7ad1deeec655a510314541729",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-27",
+      "classification": ""
+    },
+    {
+      "note": "Resolution/Memorial",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/e5baf9b8d9e06cb95cec08e7a8fa11b7",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/73596c66f327402ca98b867b7d5a9af9",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-27",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/58773ceacaf8cce39146234f513c7b1d",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/4e0bd781d6bdc2f53cde77c8541af00f",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-26",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/46b6a425f479505466ef88aa36cb12d9",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/6485426508ad788f31186201572ecd9f",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-25",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/83ECF4E4D77D7F7B87258CF2006AE751/HR1001_L.002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-26",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HR25B-1001",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "House Committee on Health & Human Services Postpone Indefinitely",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 1015"
+}

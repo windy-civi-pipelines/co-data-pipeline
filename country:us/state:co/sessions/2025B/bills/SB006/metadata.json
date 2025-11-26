@@ -1,0 +1,158 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "SB 006",
+  "title": "Tax Credit for Health Savings Accounts",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Fiscal Policy & Taxes"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates an income tax credit for a resident individual's contributions to a health savings account that supports a high deductible health plan, as defined pursuant to federal law (credit). The credit is an amount equal to 25% of the amount of the contribution, limited to:$500 for a single filer;$1,000 for joint filers; and$1,500 for contributions to a family health plan.If the credit exceeds the income taxes due on the resident individual's income, the amount of the credit not used to offset income taxes is not carried forward as tax credits against the resident individual's subsequent years' income tax liability and is not refunded to the individual. The executive director of the department of revenue is required to adopt rules implementing the credit.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Carson",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Carson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/8f9b5147bb671c57648ca0096732fb32",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/6fb18af64d3998be2bb36c1046022361",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/D33F069F1619A5A887258CED0060DBC8/SB006_L.002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/8E2E8F9626192F0987258CED005C2084/SB006_L.001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for State, Veterans, & Military Affairs on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/534dc14cb7c05f0b51035560f879d355",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/9f3913e55b3e2636a202daa293d3806f",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-07",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/cfb546f28c1f1706939cea53edf18cd1",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB25B-006",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

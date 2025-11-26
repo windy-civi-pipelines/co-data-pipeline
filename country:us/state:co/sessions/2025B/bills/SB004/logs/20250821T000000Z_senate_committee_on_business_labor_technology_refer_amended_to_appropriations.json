@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Senate Committee on Business, Labor, & Technology Refer Amended to Appropriations",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Business, Labor, & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 004"
+}

@@ -1,0 +1,138 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "SB 008",
+  "title": "Tech-Neutral Anti-Discrimination Clarification Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development",
+    "Labor & Employment",
+    "Telecommunications & Information Technology"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "In 2024, the general assembly enacted Senate Bill 24-205, which created consumer protections in interactions with artificial intelligence systems (provisions). The bill repeals the provisions and declares that prohibitions on discrimination contained in Colorado law apply regardless of whether the challenged conduct is executed, facilitated, or scaled by means of a digital, automated, algorithmic, artificial intelligence, machine learning, or other technological process.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "M. Baisley",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Baisley\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/0858bf7e47271933c1ef28d80bdf654e",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/eda0dbf92fbc8e4f0a3ee7cc6805c5a2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Committee Report for State, Veterans, & Military Affairs on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/2054d01bd556c1ff884c177c0e6b63b4",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/eb048e4ea36304174d6b92dd377892c3",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-08",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/64f2fe7df02430385910dfe02a064953",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB25B-008",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

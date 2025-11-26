@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "House Committee on Appropriations Refer Amended to House Committee of the Whole",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "House Committee of the Whole",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 1004"
+}

@@ -1,0 +1,139 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HB 1019",
+  "title": "Prohibit Certain Cash Fund Use Against Federal Action",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Government",
+    "State Revenue & Budget"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill repeals the authority granted to the office of the governor by House Bill 25-1321 to expend money in the \"Infrastructure Investment and Jobs Act\" cash fund (cash fund) to support the state in defending against adverse federal action, which includes specific authority to:Accept gifts, grants, and donations for that purpose;Hire and employ personnel or retain contractors for purposes related to federal government actions that impact federal disbursements, grants, contracts, or money received by or transferred to the state;Reimburse the department of law for costs associated with special assistant attorneys general contracted with for the purposes of:Providing legal services to state officers or employees related to legal actions initiated, pursued, or threatened by the federal government; orProviding legal services for the criminal defense of state officers or employees in legal actions arising out of official acts or decisions; orMake other expenditures consistent with the purpose of supporting the state in defending against adverse federal action, as determined by the governor, including expenditures to preserve and protect state sovereignty or federal funding streams that benefit the state.The bill also eliminates the funding and spending authority provided to support the state in defending against adverse federal action by requiring the state treasurer to transfer $4 million from the cash fund to the general fund and repealing a state fiscal year 2025-26 appropriation, with rollover authority through state fiscal year 2026-27, of $4 million from the cash fund to the office of the governor.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "House Committee on State, Civic, Military, & Veterans Affairs Postpone Indefinitely",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Civic, Military, & Veterans Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "T. Winter",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Winter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Pelton",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" R. Pelton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f21fd3c9e51bc736e17033760bb20f46",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/2636b0fa051aae4a8cafa51655ea86a5",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Committee Report for State, Civic, Military, & Veterans Affairs on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/704263f81b5b44cb80a2755a3e1e118c",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d64461cfd42d1d724b227c07e22435c6",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-10",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/5cdd5a8ad3e7e8387441c59c7b96945f",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB25B-1019",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

@@ -1,0 +1,666 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HB 1002",
+  "title": "Corporate Income Tax Foreign Jurisdictions",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Fiscal Policy & Taxes"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The act adds Hong Kong, Republic of Ireland, Liechtenstein, Netherlands, and Singapore to the list of foreign jurisdictions in which a C corporation is presumptively incorporated for the purpose of avoiding state corporate income tax and allows the executive director of the department of revenue to use discretion to determine that a C corporation is not incorporated in a foreign jurisdiction for the purpose of such tax avoidance without, as had been the case, requiring the C corporation to rebut that presumption by proving to the satisfaction of the executive director that the C corporation is incorporated in the listed foreign jurisdiction for reasons that meet the economic substance doctrine described in the federal internal revenue code.For income tax years commencing on or after January 1, 2026, for the purposes of determining the amount of corporate income tax that a C corporation owes to the state, the act adds to a C corporation's federal taxable income an amount equal to a federal deduction claimed for the income tax year for foreign-derived deduction eligible income.The act modifies the state income tax subtraction for dividends from foreign subsidiaries that must be added to a C corporation's federal taxable income under the federal internal revenue code, which had not allowed subtraction of such dividends received from a C corporation incorporated in a foreign jurisdiction for the purpose of tax avoidance, so that all dividends from foreign subsidiaries that must be added to a C corporation's federal taxable income under the federal internal revenue code may be subtracted from the C corporation's federal taxable income for the purpose of determining the C corporation's Colorado taxable income.APPROVED by Governor August 28, 2025EFFECTIVE August 28, 2025(Note: This summary applies to this bill as enacted.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2025-08-28",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2025-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Special Order - Passed - No Amendments",
+      "date": "2025-08-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Appropriations Refer Unamended to Senate Committee of the Whole",
+      "date": "2025-08-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Appropriations",
+      "date": "2025-08-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2025-08-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "House Second Reading Passed with Amendments - Floor",
+      "date": "2025-08-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "House Committee on Appropriations Refer Unamended to House Committee of the Whole",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to Appropriations",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Appropriations",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "B. Marshall",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" B. Marshall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Y. Zokaie",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" Y. Zokaie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Ball",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Ball\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Boesenecker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Brown",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Froelich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Froelich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Garc\u00eda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Garc\\u00eda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lindsay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Lindstedt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" W. Lindstedt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. McCluskie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. McCluskie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Rutinel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Rutinel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Sirota",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Sirota\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Story",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Story\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Willford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Willford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Amabile",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Amabile\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bridges",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Bridges\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Daugherty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Daugherty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Exum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Exum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Gonzales",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Gonzales\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Hinrichsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" N. Hinrichsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "I. Jodeh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" I. Jodeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Michaelson Jenet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Michaelson Jenet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Rodriguez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" R. Rodriguez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Sullivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Wallace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Weissman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Weissman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "F. Winter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" F. Winter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/0d1f534231e87d3273282afbdb8f185c",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-28",
+      "classification": ""
+    },
+    {
+      "note": "Final Act",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d6eeac975bb0cb16a0cd40bd1c7896c2",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/b67cd257ff5788a21d5ff54f75f27098",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-26",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/8487fe3f6f4059a2a40ee438f0bab68d",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/a104950866bb4b5cc6554cff97957155",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-24",
+      "classification": ""
+    },
+    {
+      "note": "Revised",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/c32e5eafaa74ce4d1356d819c6af5139",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/bb3385344a1a8ad66059f2aa108ccdcd",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-23",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/d8829110331456f15bd91c02c8c05849",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/e77e4b73420399f582ca712263f0f872",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-23",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/79d7feca533547803f7ee7c7e9f13e1d",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/91efb3afe46cf4b3e2394ea9a5bd21ec",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-22",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/3635089e43c11189f6b11c3c3a13084c",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/8ace6c866f9e1f132be672c3ef581043",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/A0485A203A01E3B887258CF0000BFEBA/HB1002_L.002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/F11EAA29EFEE171987258CEE0059069C/HB1002_L.001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-22",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Appropriations on 08/23/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/9d2c4dbb181c5e39afb8ca29491ebf85",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Appropriations on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/8b3d07c2c8f645aa68bd7586ed0f2c7a",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/6d0eb4df04815fcf9c453f81517aff93",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-09",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/59320c2b8fe358462a383d6fdae329e2",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Colorado Session Laws of 2025",
+      "citation": "Chapter: 6 Corporate Income Tax Foreign Jurisdictions",
+      "citation_type": "chapter",
+      "effective": "2025-08-28",
+      "expires": null,
+      "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/cb2c984f0c3215ca9feea13fc291b0cc"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB25B-1002",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

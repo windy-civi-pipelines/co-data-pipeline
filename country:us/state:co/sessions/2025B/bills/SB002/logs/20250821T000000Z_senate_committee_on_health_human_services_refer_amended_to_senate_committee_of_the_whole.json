@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Committee on Health & Human Services Refer Amended to Senate Committee of the Whole",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Senate Committee of the Whole",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 002"
+}

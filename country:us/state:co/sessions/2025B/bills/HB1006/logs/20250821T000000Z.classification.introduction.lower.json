@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Introduced In House - Assigned to Health & Human Services",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "Health & Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 1006"
+}

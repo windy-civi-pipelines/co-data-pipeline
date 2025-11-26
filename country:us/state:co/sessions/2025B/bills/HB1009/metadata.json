@@ -1,0 +1,130 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HB 1009",
+  "title": "Artificial Intelligence Systems",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "In 2024, the general assembly enacted Senate Bill 24-205, which created consumer protections in interactions with artificial intelligence systems (provisions).The provisions include a definition of \"consequential decision\", which definition determines the types of artificial intelligence systems that are considered high-risk artificial intelligence systems for the purpose of the provisions and, therefore, regulated under current law. The bill narrows the definition of \"consequential decision\" to only include decisions related to employment or public safety.The bill also:Changes the effective date of the provisions from February 1, 2026, to August 1, 2027;Exempts businesses with fewer than 250 employees from the provisions;Exempts businesses with less than $5 million in annual revenue from the provisions; andExempts local governments with fewer than 100,000 residents from the provisions.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "House Committee on Business Affairs & Labor Postpone Indefinitely",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to Business Affairs & Labor",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Business Affairs & Labor",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "R. Weinberg",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Weinberg\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/50d3d2e27e30d4e3e5b8b5d8e1857fcf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/781d8a277e83c61a24d0f082aef78449",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Committee Report for Business Affairs & Labor on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/5392c62bcba0f7b6d3c5c8b677cbb4b9",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/13f938c10abd13955dc56cc3163fdee6",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-09",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/fdb239700ecf7e66ef43edeeffa7a2d0",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB25B-1009",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

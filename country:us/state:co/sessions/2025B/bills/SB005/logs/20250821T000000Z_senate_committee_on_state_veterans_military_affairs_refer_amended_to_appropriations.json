@@ -1,0 +1,23 @@
+{
+  "action": {
+    "description": "Senate Committee on State, Veterans, & Military Affairs Refer Amended to Appropriations",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "State, Veterans, & Military Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 005"
+}

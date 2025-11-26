@@ -1,0 +1,921 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "SB 002",
+  "title": "State-Only Funding for Certain Entities",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health Care & Health Insurance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "On and after July 1, 2025, the act requires the department of health care policy and financing (HCPF) to use only state funds to reimburse entities that provide covered services and that are prohibited from receiving reimbursement from the federal centers for medicare and medicaid services (CMS); except that an entity is not eligible to receive state-only funds from HCPF if the entity is eligible for reimbursement from CMS at the time the services are provided.APPROVED by Governor August 26, 2025EFFECTIVE August 26, 2025(Note: This summary applies to this bill as enacted.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Governor Signed",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor",
+      "date": "2025-08-26",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House",
+      "date": "2025-08-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate",
+      "date": "2025-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "House Third Reading Passed - No Amendments",
+      "date": "2025-08-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "House Second Reading Special Order - Passed - No Amendments",
+      "date": "2025-08-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "House Committee on Health & Human Services Refer Unamended to House Committee of the Whole",
+      "date": "2025-08-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "House Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2025-08-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Senate Third Reading Passed - No Amendments",
+      "date": "2025-08-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Senate Second Reading Special Order - Passed with Amendments - Committee",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Health & Human Services Refer Amended to Senate Committee of the Whole",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage",
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Committee of the Whole",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to Health & Human Services",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Bridges",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Bridges\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Daugherty",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Daugherty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Bacon",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Willford",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Willford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Amabile",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Amabile\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Ball",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Ball\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Cutter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Cutter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Danielson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Danielson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Gonzales",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Gonzales\"}",
+      "organization_id": null
+    },
+    {
+      "name": "N. Hinrichsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" N. Hinrichsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "I. Jodeh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" I. Jodeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kipp",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kipp\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Kolker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" C. Kolker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Marchman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" J. Marchman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Michaelson Jenet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Michaelson Jenet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Mullica",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Mullica\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Roberts",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" D. Roberts\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Rodriguez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" R. Rodriguez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Snyder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Snyder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" T. Sullivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Wallace",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" K. Wallace\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Weissman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" M. Weissman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "F. Winter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" F. Winter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Bird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Bird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Boesenecker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Boesenecker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Brown",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Brown\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Camacho",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Camacho\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Carter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Carter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Clifford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Clifford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Duran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Duran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. English",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. English\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Espenoza",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" C. Espenoza\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Froelich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Froelich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Garc\u00eda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Garc\\u00eda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Gilchrist",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Gilchrist\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Hamrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Hamrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Joseph",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Joseph\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Lieder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Lieder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lindsay",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lindsay\"}",
+      "organization_id": null
+    },
+    {
+      "name": "W. Lindstedt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" W. Lindstedt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Lukens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Lukens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Mabrey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Mabrey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Mauro",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Mauro\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. McCluskie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. McCluskie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Paschal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Paschal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Phillips",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Phillips\"}",
+      "organization_id": null
+    },
+    {
+      "name": "M. Rutinel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" M. Rutinel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "G. Rydin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" G. Rydin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Sirota",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Sirota\"}",
+      "organization_id": null
+    },
+    {
+      "name": "L. Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" L. Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "K. Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "T. Story",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" T. Story\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Titone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" B. Titone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "A. Valdez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Valdez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "E. Velasco",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" E. Velasco\"}",
+      "organization_id": null
+    },
+    {
+      "name": "S. Woodrow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Woodrow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Y. Zokaie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" Y. Zokaie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Signed Act",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/a92d42c48f387e66cf72892b62c60a46",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-26",
+      "classification": ""
+    },
+    {
+      "note": "Final Act",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/e03bd3cec075c2d0a479ce08a2c0922f",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/606b17bf6ef87dc44355308b666d8992",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-25",
+      "classification": ""
+    },
+    {
+      "note": "Rerevised",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/85b4baa05f93cb58793b9d02f9e1ca5f",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/57c6459269b8e5ee52e4652dd8e548da",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-24",
+      "classification": ""
+    },
+    {
+      "note": "Revised",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/565da125e422d2ea7b85fd3859f40889",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/7b95b661903b51a0d5ea8967770a6f21",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-23",
+      "classification": ""
+    },
+    {
+      "note": "Reengrossed",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/32f570727ff1a1d7db364ebdb01469c1",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/bff2e0d31f88fbefadc415149338b9df",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-22",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/20549583b87d41859fd98b5c1802dbb9",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/72452c9053c14ada14785ca7857e9a9a",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f13153e646d4957b250286cf812ca571",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/30cff66aee9247e38a7116110ddb223f",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment H.001",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/CBE24DEE3D9D449587258CEF007BEB7D/SB002_H.001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.008",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/DE1EB4590398E69C87258CEF0074790D/SB002_L.008.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-23",
+      "classification": ""
+    },
+    {
+      "note": "Amendment S.001",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/C46F29F430D24B0987258CEE000222F8/SB002_S.001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.003",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/E43E866D61092E3387258CEE0000FFA5/SB002_L.003.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    },
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/FAB902A9ECE2678787258CED005C317E/SB002_L.001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for Health & Human Services on 08/22/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/a7909c5580b32defbd3ecfeceb023490",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Committee Report for Health & Human Services on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/5b9f51be4062f6256a77b7426ea23ec8",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/fe97ce4aeacc375a0ad07e04250b70f1",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-10",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/6fa64168ca49a0721dccd4710d6c6f1d",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Colorado Session Laws of 2025",
+      "citation": "Chapter: 1 State-Only Funding for Certain Entities",
+      "citation_type": "chapter",
+      "effective": "2025-08-26",
+      "expires": null,
+      "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/c9a722ac52600eb31f1cfb310d31edfb"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB25B-002",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

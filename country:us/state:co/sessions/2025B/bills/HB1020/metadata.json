@@ -1,0 +1,154 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HB 1020",
+  "title": "Additions to Definition Federal Taxable Income",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Fiscal Policy & Taxes"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "For tax years commencing on and after January 1, 2026, current law requires taxpayers to add the amount of any overtime compensation excluded or deducted from that taxpayer's federal gross income to that taxpayer's federal taxable income for purposes of determining the taxpayer's state taxable income. The bill repeals this addition and clarifies that this addition is \"a tax policy change directly causing a net tax revenue gain to any district\", so that reinstating this addition requires voter approval in advance pursuant to section 20 (4)(a) of article X of the state constitution.For tax years commencing before January 1, 2026, current law requires certain taxpayers to add to their federal taxable income, for purposes of determining their state taxable income, an amount equal to the federal qualified business income deduction allowed under section 199A of the federal \"Internal Revenue Code of 1986\". The bill clarifies that extending this tax policy to apply to any tax year commencing on or after January 1, 2026, would be \"a tax policy change directly causing a net tax revenue gain to any district\" and requires voter approval in advance pursuant to section 20 (4)(a) of article X of the state constitution.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "House Committee on State, Civic, Military, & Veterans Affairs Postpone Indefinitely",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Civic, Military, & Veterans Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "J. Caldwell",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" J. Caldwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "R. Pugliese",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" R. Pugliese\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Kirkmeyer",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" B. Kirkmeyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Pelton",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" B. Pelton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/35106995295ffac939ea1783b8975261",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/fdcf45b8a75a8bf32261ac5b7d4a5bdd",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Committee Report for State, Civic, Military, & Veterans Affairs on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/575ea5af43c04a673e89e0d170ecf930",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/2d68456639d5f79dd829ead0a32467c0",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-08",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/2a82853a559040e905751ef2510b818b",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB25B-1020",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

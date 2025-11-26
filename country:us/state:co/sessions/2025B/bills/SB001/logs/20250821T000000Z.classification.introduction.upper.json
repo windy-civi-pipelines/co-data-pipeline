@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": [
+      {
+        "name": "State, Veterans, & Military Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 001"
+}

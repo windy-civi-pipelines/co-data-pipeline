@@ -1,0 +1,131 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HCR 1002",
+  "title": "Governor Proclamation to Allow General Assembly to Address Budget",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Government",
+    "State Revenue & Budget"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The concurrent resolution refers to the voters of the state at the 2026 general election a constitutional amendment to modify existing law to require, when a governor convenes the general assembly by proclamation, that the business specially named in the proclamation must not be so narrowly framed as to impose a particular outcome on the general assembly.The concurrent resolution requires that if the governor convenes the general assembly by proclamation for the purpose of addressing a state revenue shortfall or other state budgetary issue, the governor shall not limit the scope of the special session to only a portion of the budget and shall make the proclamation broad enough so that the general assembly can consider the entirety of the state budget and craft a comprehensive solution to the revenue shortfall or other state budgetary issue.(Note: This summary applies to this concurrent resolution as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "House Committee on State, Civic, Military, & Veterans Affairs Postpone Indefinitely",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Civic, Military, & Veterans Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "S. Luck",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" S. Luck\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/50e4a8b3cccb1f34b5749e9e7eb00bc0",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/33eab619f3b1c753b21f460ccba37bbd",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Committee Report for State, Civic, Military, & Veterans Affairs on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/eec216f44dbf573af441688e2dd9a0f8",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/8c059c8328852c752f8329f28f5d22c8",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-23",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/bb33ebe1f761576e68340d2b947b476e",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HCR25B-1002",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

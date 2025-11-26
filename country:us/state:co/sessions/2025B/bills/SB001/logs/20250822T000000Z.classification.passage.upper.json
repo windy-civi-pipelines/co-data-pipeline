@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Senate Third Reading Passed with Amendments - Floor",
+    "date": "2025-08-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 001"
+}

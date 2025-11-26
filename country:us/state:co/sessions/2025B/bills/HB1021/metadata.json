@@ -1,0 +1,158 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HB 1021",
+  "title": "Retention of Vendors Fees for Collecting Sales Tax.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Business & Economic Development",
+    "Fiscal Policy & Taxes"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law requires a retailer to periodically remit to the department of revenue the sales tax revenue that it collects and allows some retailers to retain a sales tax vendor fee to cover the retailer's expenses incurred in collecting and remitting state sales tax (vendor fee).For sales made on or after January 1, 2026, the bill increases the maximum dollar amount that a retailer may retain as a vendor fee from $1,000 to $2,000. Beginning on January 1, 2026, the bill requires that:The percentage of sales tax reported that a retailer may retain as a vendor fee must never fall below 2% of the tax reported; andThe maximum dollar amount that a retailer may retain in any filing period as a vendor fee must never fall below $2,000.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "House Committee on State, Civic, Military, & Veterans Affairs Postpone Indefinitely",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Civic, Military, & Veterans Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "A. Hartsook",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" A. Hartsook\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. Woog",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" D. Woog\"}",
+      "organization_id": null
+    },
+    {
+      "name": "B. Kirkmeyer",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" B. Kirkmeyer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/2fc81eb57a37b2146ec13897cde4ef53",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/04d6b09036056de844b7d233dda3259b",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment L.001",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/AB3A57496E9B1BD187258CED005E67CB/HB1021_L.001.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for State, Civic, Military, & Veterans Affairs on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/f38e93e661d83c5a533df63fbda27098",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/77fd98806aeddcd85a0f1dbc90404ea8",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-10-16",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/01fb7f8eb266028f5c83689b88707704",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB25B-1021",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

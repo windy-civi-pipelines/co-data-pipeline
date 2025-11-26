@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Signed",
+    "date": "2025-08-26",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 002"
+}

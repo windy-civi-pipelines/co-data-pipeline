@@ -1,0 +1,148 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "SB 007",
+  "title": "Immigration Status Low-Income Health Insurance Coverage",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health Care & Health Insurance",
+    "Immigration"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "Current law extends health insurance coverage to various people, including low-income pregnant and postpartum people and children in low-income families, whose immigration status would otherwise make them ineligible for coverage under state-federal programs or would limit the coverage's scope or duration. Other expansions make state-subsidized individual health insurance coverage available for certain people, regardless of immigration status. The bill modifies several provisions related to these coverage expansions by:Prohibiting the department of health care policy and financing (HCPF) from reimbursing a health-care provider, entity, or facility for providing medical services to a person who is not a lawful resident;Eliminating full health insurance coverage for pregnant and postpartum people who would be eligible for medicaid or the children's basic health plan if not for their immigration status;Eliminating full health insurance coverage for children who would be eligible for medicaid or the children's basic health plan if not for their immigration status;Repealing the state reproductive health-care program, the medical assistance program, and the state children's basic health plan (state-funded programs) that were established to provide expanded coverage;Halting outreach to and enrollment of eligible groups into new coverage options;Removing HCPF's potential to spend in excess of an authorized amount for the state-funded programs; andExcluding immigrants who are not lawfully residing in the state from state-subsidized individual health insurance coverage available through the health insurance affordability enterprise.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Senate Committee on State, Veterans, & Military Affairs Postpone Indefinitely",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "State, Veterans, & Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "L. Liston",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \" L. Liston\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/851303ce69285ccaec80f517c1fba18b",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/3528ac716f04f44c7532149dfd31cb0a",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Amendment L.002",
+      "links": [
+        {
+          "url": "https://s3-us-west-2.amazonaws.com/leg.colorado.gov/2025B/amendments/9023AEEA4A5A1B1F87258CED005BDE02/SB007_L.002.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    },
+    {
+      "note": "Committee Report for State, Veterans, & Military Affairs on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/5dace7f999f3d4126af27aefbfe01d50",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/6706fad1f8d07570054eb661ef65a491",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-09",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/0990b8589c7279caa428d9ff6cc80cc9",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/SB25B-007",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

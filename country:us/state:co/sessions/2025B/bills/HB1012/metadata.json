@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2025B",
+  "identifier": "HB 1012",
+  "title": "Prescription Drug Benefit Information Transparency",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health Care & Health Insurance"
+  ],
+  "abstracts": [
+    {
+      "note": "summary",
+      "abstract": "The bill creates the \"Prescription Drug Sourcing Transparency and Integrity Act\" to prohibit a pharmacy benefit manager (PBM) or a health-care consultant from knowingly making or disseminating false or misleading statements or claims to an employer, health benefit plan sponsor, or policyholder about the legality or safety of a lawful alternative prescription drug sourcing program.Upon written request by a self-funded employer or health benefit plan sponsor, a PBM or health-care consultant is required to provide certain cost information for each prescription drug dispensed under the health benefit plan.A violation of either the prohibition or information-sharing provisions of the bill is an unfair method of competition and unfair or deceptive act or practice in the business of insurance (unfair act or practice). In addition to imposing the existing penalties for engaging in an unfair act or practice, the bill authorizes the commissioner of insurance to impose additional penalties for a violation of the prohibition or information-sharing provisions of the bill in an amount up to $5,000 for a fourth or subsequent violation (additional penalties). Additional penalties collected are credited to the health insurance affordability cash fund to facilitate a reduction in insurance premium increases and to help avoid health insurance coverage loss.The prohibition and information-sharing provisions of the bill do not restrict or limit the rights of a self-funded employer or health benefit plan sponsor to purchase prescription drugs through and contract for a lawful alternative prescription drug sourcing program. The bill also recognizes that a pharmacy stewardship program is an effective cost-containment tool and is authorized when implemented in compliance with federal law and with the bill.(Note: This summary applies to this bill as introduced.)"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "House Committee on Health & Human Services Postpone Indefinitely",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    },
+    {
+      "description": "Introduced In House - Assigned to Health & Human Services",
+      "date": "2025-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [
+        {
+          "name": "Health & Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-11-26T23:16:59Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "K. DeGraaf",
+      "classification": "sponsor",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \" K. DeGraaf\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/202d948e938a13b08908d980a82b3af7",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/481f68d3a9a3b3c0e9dfaf2f82b31cb2",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Committee Report for Health & Human Services on 08/21/2025",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/4fa132149f6f1856317843416a4fc504",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": "committee-report"
+    },
+    {
+      "note": "Fiscal Note 2",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/28a74d3c4ac525615fde45266118e3bf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-08",
+      "classification": "fiscal-note"
+    },
+    {
+      "note": "Fiscal Note 1",
+      "links": [
+        {
+          "url": "https://s3.us-west-2.amazonaws.com/beta.leg.colorado.gov/60b69661674b02e3b5c7203641d7e381",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-08-21",
+      "classification": "fiscal-note"
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://leg.colorado.gov/bills/HB25B-1012",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:co/government",
+    "name": "Colorado",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:co"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-26T23:16:59Z"
+  }
+}

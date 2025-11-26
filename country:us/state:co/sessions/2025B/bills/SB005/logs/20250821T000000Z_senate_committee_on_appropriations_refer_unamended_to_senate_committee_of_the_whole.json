@@ -1,0 +1,24 @@
+{
+  "action": {
+    "description": "Senate Committee on Appropriations Refer Unamended to Senate Committee of the Whole",
+    "date": "2025-08-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Appropriations",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Senate Committee of the Whole",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 005"
+}
